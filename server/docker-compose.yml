@@ -1,0 +1,11 @@
+services:
+  iptv:
+    build:
+      context: ..
+      dockerfile: server/Dockerfile
+    container_name: china-iptv-udpxy
+    restart: unless-stopped
+    ports:
+      - "8080:8080"
+    environment:
+      - PORT=8080
