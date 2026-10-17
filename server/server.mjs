@@ -117,7 +117,9 @@ function handleSubscribe(province, operator, source, type, params, req, res) {
 
   if (source === 'mc') {
     if (!udpxy) return jsonError('组播的udpxy参数为必填');
-    if (!isValidUDPXY(udpxy)) {
+    // 宽容清洗：先剥协议头与尾部路径再校验
+    const cleaned = udpxy.replace(/^https?:\/\//, '').replace(/\/(?:udp|rtp)\/?$/, '');
+    if (!isValidUDPXY(cleaned)) {
       return jsonError('udpxy参数格式无效，应为内网 IP:端口（如 192.168.x.x:4022）');
     }
   } else if (udpxy) {
@@ -129,7 +131,7 @@ function handleSubscribe(province, operator, source, type, params, req, res) {
     return jsonError('fcc 参数格式无效，应为 IP:端口');
   }
 
-  if (logo && !isValidLogoHost(logo)) {
+  if (logo && !isValidLogoHost(logo.replace(/^https?:\/\//, ''))) {
     return jsonError('logo 参数格式无效，应为 IP或域名，可带端口');
   }
 
