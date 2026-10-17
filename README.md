@@ -11,16 +11,17 @@
 ## 目录结构（规划）
 
 ```
-server/          # 零依赖 Node 订阅服务（多省份路由 + 静态托管）
-scripts/         # fetch_all.mjs：拉取上游全部省份，生成 iptv/
-iptv/            # 各省模板产物（提交入库，约 1-2MB）
-logo/            # 上游台标库（996 个 PNG，跟随上游更新，不被人工修改）
-aliases/         # 人工补充区：上游没有的台标 PNG + 归一配置
-  ├── *.png      # 补充台标（如 CGTN俄语系全名、地方台）
-  └── aliases.yml  # 频道名归一与扩展配置（唯一人工维护点）
+server/              # 零依赖 Node 订阅服务（多省份路由 + 静态托管）
+scripts/             # fetch_all.ts（Bun + TS）：拉取上游全部省份，生成 iptv/
+iptv/                # 各省模板产物（提交入库，约 1-2MB）
+logo/                # 上游台标库（996 个 PNG，跟随上游更新，不被人工修改）
+aliases/             # 人工补充区（独立管理）
+  ├── aliases.yml    # 频道名归一与扩展配置（唯一人工维护点）
+  └── logo/          # 补充台标（44 个：CGTN 全名系、浙江地方台等上游没有的）
+package.json         # yaml 依赖；bun run fetch 一键更新数据
 ```
 
-台标查找顺序：频道名归一 → `aliases/*.png` 补充 → `logo/*.png` 上游 → `logo_aliases` 兜底映射 → 留空。
+台标查找顺序：频道名归一 → `aliases/logo/*.png` 补充 → `logo/*.png` 上游 → `logo_aliases` 兜底映射 → 留空。
 
 ## aliases.yml 结构
 

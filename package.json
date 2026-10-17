@@ -1,0 +1,13 @@
+{
+  "name": "china-iptv-udpxy",
+  "version": "0.1.0",
+  "private": true,
+  "description": "基于 xisohi/CHINA-IPTV 数据的全国 IPTV 组播 udpxy 代理订阅服务",
+  "type": "module",
+  "scripts": {
+    "fetch": "bun run scripts/fetch_all.ts"
+  },
+  "dependencies": {
+    "yaml": "^2.6.0"
+  }
+}
