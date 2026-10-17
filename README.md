@@ -23,6 +23,58 @@ package.json         # yaml 依赖；bun run fetch 一键更新数据
 
 台标查找顺序：频道名归一 → `aliases/logo/*.png` 补充 → `logo/*.png` 上游 → `logo_aliases` 兜底映射 → 留空。
 
+## 订阅 API
+
+```
+GET /api/subscribe/{province}/{operator}/{source}/{type}
+```
+
+| 参数 | 取值 | 说明 |
+|---|---|---|
+| `province` | `anhui`…`zhejiang` 共 31 省 | 省份拼音 |
+| `operator` | `telecom` \| `unicom` \| `mobile` \| `gitv` | 运营商 |
+| `source` | `mc` \| `uc` | 组播 / 单播 |
+| `type` | `m3u` \| `txt` | 输出格式 |
+| `udpxy` | 内网 IPv4:端口 | **组播必填**，udpxy 转发地址 |
+| `logo` | IP或域名[:端口] | 可选，自定义台标服务器（默认跟随访问域名） |
+| `fcc` | IP:端口 | 仅组播，追加 FCC 服务器 |
+| `nocache` | - | 拒绝缓存 |
+
+示例：
+
+```
+# 浙江电信组播（udpxy 部署在路由器 192.168.1.1:4022）
+http://{your_server_address}/api/subscribe/zhejiang/telecom/mc/m3u?udpxy=192.168.1.1:4022
+
+# 安徽电信单播直连
+http://{your_server_address}/api/subscribe/anhui/telecom/uc/txt
+
+# 自定义台标服务器
+http://{your_server_address}/api/subscribe/sichuan/telecom/mc/m3u?udpxy=192.168.1.1:4022&logo=192.168.1.2:8080
+```
+
+部署：
+
+```bash
+node server/server.mjs          # Node >= 18，默认 8080
+docker compose -f server/docker-compose.yml up -d --build
+```
+
+## 使用前提（重要）
+
+- 组播源设备必须与**光猫在同一网段**（组播不跨路由）
+- 光猫电源（Power）和注册（PON）指示灯常亮即可使用组播，**无需拨号**
+- 需在路由器/NAS 上部署 [udpxy](https://github.com/pvicente/udpxy)（OpenWrt: `opkg install udpxy`），默认端口 4022
+
+## 数据更新
+
+```bash
+bun run fetch          # 仅更新直播源（iptv/）
+bun run fetch:logo     # 仅同步上游台标（logo/）
+bun run fetch:all      # 全部更新
+bun run verify         # 健康校验（--strict 供 CI 使用）
+```
+
 ## aliases.yml 结构
 
 两级配置：
