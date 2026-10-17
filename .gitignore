@@ -8,3 +8,6 @@ node_modules/
 # 编辑器
 .idea/
 .vscode/
+
+# 生成报告
+scripts/*.report.txt

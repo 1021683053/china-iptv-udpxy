@@ -1,0 +1,3 @@
+其它,#genre#
+湖北经视,http://{{your_udpxy_address}}/udp/226.0.0.19:6108
+湖北综合,http://{{your_udpxy_address}}/udp/226.0.0.20:6108

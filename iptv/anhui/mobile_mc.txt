@@ -1,0 +1,7 @@
+央视,#genre#
+CCTV13,http://{{your_udpxy_address}}/udp/239.253.7.5:1025
+CCTV14,http://{{your_udpxy_address}}/udp/239.253.7.98:1025
+卫视,#genre#
+安徽卫视,http://{{your_udpxy_address}}/udp/239.253.7.2:1025
+山东卫视,http://{{your_udpxy_address}}/udp/239.253.7.69:1025
+浙江卫视,http://{{your_udpxy_address}}/udp/239.253.7.80:1025

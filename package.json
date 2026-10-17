@@ -5,9 +5,15 @@
   "description": "基于 xisohi/CHINA-IPTV 数据的全国 IPTV 组播 udpxy 代理订阅服务",
   "type": "module",
   "scripts": {
-    "fetch": "bun run scripts/fetch_all.ts"
+    "fetch": "bun run scripts/fetch_all.ts iptv",
+    "fetch:logo": "bun run scripts/fetch_all.ts logo",
+    "fetch:all": "bun run scripts/fetch_all.ts all",
+    "verify": "bun run scripts/verify.ts"
   },
   "dependencies": {
     "yaml": "^2.6.0"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.3"
   }
 }

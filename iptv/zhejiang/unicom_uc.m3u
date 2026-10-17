@@ -1,0 +1,197 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="{{your_logo_address}}/logo/CCTV1.png" group-title="央视",CCTV1
+http://124.90.44.40:6060/010/2/00000001000000060000000000000469/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="{{your_logo_address}}/logo/CCTV2.png" group-title="央视",CCTV2
+http://124.90.44.40:6060/010/2/00000001000000060000000000000471/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="{{your_logo_address}}/logo/CCTV3.png" group-title="央视",CCTV3
+http://124.90.44.40:6060/010/2/00000001000000060000000000000642/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="{{your_logo_address}}/logo/CCTV4.png" group-title="央视",CCTV4
+http://124.90.44.40:6060/010/2/20002000000000010000000002765807/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="{{your_logo_address}}/logo/CCTV5.png" group-title="央视",CCTV5
+http://124.90.44.40:6060/010/2/00000001000000060000000000000643/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="{{your_logo_address}}/logo/CCTV5.png" group-title="央视",CCTV5
+http://124.90.44.40:6060/010/2/00000001000000060000000000000788/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="{{your_logo_address}}/logo/CCTV6.png" group-title="央视",CCTV6
+http://124.90.44.40:6060/010/2/00000001000000060000000000000644/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="{{your_logo_address}}/logo/CCTV7.png" group-title="央视",CCTV7
+http://124.90.44.40:6060/010/2/00000001000000060000000000000472/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="{{your_logo_address}}/logo/CCTV8.png" group-title="央视",CCTV8
+http://124.90.44.40:6060/010/2/00000001000000060000000000000645/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="{{your_logo_address}}/logo/CCTV9.png" group-title="央视",CCTV9
+http://124.90.44.40:6060/010/2/00000001000000060000000000000473/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="{{your_logo_address}}/logo/CCTV10.png" group-title="央视",CCTV10
+http://124.90.44.40:6060/010/2/00000001000000060000000000000474/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="{{your_logo_address}}/logo/CCTV11.png" group-title="央视",CCTV11
+http://124.90.44.40:6060/010/2/20002000000000010000000002750676/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="{{your_logo_address}}/logo/CCTV12.png" group-title="央视",CCTV12
+http://124.90.44.40:6060/010/2/00000001000000060000000000000476/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="{{your_logo_address}}/logo/CCTV13.png" group-title="央视",CCTV13
+http://124.90.44.40:6060/010/2/00000001000000060000000000000793/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="{{your_logo_address}}/logo/CCTV14.png" group-title="央视",CCTV14
+http://124.90.44.40:6060/010/2/00000001000000060000000000000477/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="{{your_logo_address}}/logo/CCTV15.png" group-title="央视",CCTV15
+http://124.90.44.40:6060/010/2/00000001000000060000000000000437/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="{{your_logo_address}}/logo/CCTV17.png" group-title="央视",CCTV17
+http://124.90.44.40:6060/010/2/00000001000000060000000000000799/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="{{your_logo_address}}/logo/CGTN.png" group-title="央视",CGTN
+http://124.90.44.40:6060/010/2/00000001000000060000000000000479/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="{{your_logo_address}}/logo/CGTN法语.png" group-title="央视",CGTN法语
+http://124.90.44.40:6060/010/2/00000001000000060000000000000801/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="{{your_logo_address}}/logo/CGTN俄语.png" group-title="央视",CGTN俄语
+http://124.90.44.40:6060/010/2/00000001000000060000000000000803/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="{{your_logo_address}}/logo/CGTN阿语.png" group-title="央视",CGTN阿语
+http://124.90.44.40:6060/010/2/00000001000000060000000000000802/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="{{your_logo_address}}/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000459/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="{{your_logo_address}}/logo/北京卫视.png" group-title="卫视",北京卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000449/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="{{your_logo_address}}/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000585/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="{{your_logo_address}}/logo/东方卫视.png" group-title="卫视",东方卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000478/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="{{your_logo_address}}/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000594/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="{{your_logo_address}}/logo/广东卫视.png" group-title="卫视",广东卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000395/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="{{your_logo_address}}/logo/广西卫视.png" group-title="卫视",广西卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776028/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="{{your_logo_address}}/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000584/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="{{your_logo_address}}/logo/海南卫视.png" group-title="卫视",海南卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776012/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="{{your_logo_address}}/logo/河北卫视.png" group-title="卫视",河北卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000582/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="{{your_logo_address}}/logo/河南卫视.png" group-title="卫视",河南卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000586/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="{{your_logo_address}}/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000461/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="{{your_logo_address}}/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000394/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="{{your_logo_address}}/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776032/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="{{your_logo_address}}/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000450/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="{{your_logo_address}}/logo/江西卫视.png" group-title="卫视",江西卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000587/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="{{your_logo_address}}/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000583/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="{{your_logo_address}}/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000593/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="{{your_logo_address}}/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776710/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="{{your_logo_address}}/logo/青海卫视.png" group-title="卫视",青海卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002775980/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="{{your_logo_address}}/logo/山东卫视.png" group-title="卫视",山东卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000436/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="{{your_logo_address}}/logo/山西卫视.png" group-title="卫视",山西卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776020/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="{{your_logo_address}}/logo/陕西卫视.png" group-title="卫视",陕西卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776000/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="{{your_logo_address}}/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000393/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="{{your_logo_address}}/logo/四川卫视.png" group-title="卫视",四川卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000581/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="{{your_logo_address}}/logo/天津卫视.png" group-title="卫视",天津卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000365/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="{{your_logo_address}}/logo/西藏卫视.png" group-title="卫视",西藏卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000390/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="{{your_logo_address}}/logo/云南卫视.png" group-title="卫视",云南卫视
+http://124.90.44.40:6060/010/2/20002000000000010000000002776036/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="{{your_logo_address}}/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000392/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="{{your_logo_address}}/logo/北京纪实科教.png" group-title="地方",北京纪实科教
+http://124.90.44.40:6060/010/2/01000010000000060000000000002855/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="{{your_logo_address}}/logo/卡酷少儿.png" group-title="地方",卡酷少儿
+http://124.90.44.40:6060/010/2/01000010000000060000000000002854/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="{{your_logo_address}}/logo/哈哈炫动.png" group-title="地方",哈哈炫动
+http://124.90.44.40:6060/010/2/00000001000000060000000000000431/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="{{your_logo_address}}/logo/东南卫视.png" group-title="地方",东南卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000588/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="{{your_logo_address}}/logo/金鹰卡通.png" group-title="地方",金鹰卡通
+http://124.90.44.40:6060/010/2/00000001000000060000000000000430/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="{{your_logo_address}}/logo/兵团卫视.png" group-title="地方",兵团卫视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000429/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经视" tvg-logo="" group-title="地方",浙江经视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000572/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="{{your_logo_address}}/aliases/logo/浙江公共新闻.png" group-title="地方",浙江公共新闻
+http://124.90.44.40:6060/010/2/00000001000000060000000000000579/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="{{your_logo_address}}/logo/浙江少儿.png" group-title="地方",浙江少儿
+http://124.90.44.40:6060/010/2/00000001000000060000000000000580/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="{{your_logo_address}}/logo/CETV1.png" group-title="教育",CETV1
+http://124.90.44.40:6060/010/2/00000001000000060000000000000432/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="{{your_logo_address}}/logo/CETV4.png" group-title="教育",CETV4
+http://124.90.44.40:6060/010/2/00000001000000060000000000000632/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="城市之声" tvg-name="城市之声" tvg-logo="" group-title="其它",城市之声
+http://124.90.44.40:6060/010/2/00000001000000060000000000000487/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="{{your_logo_address}}/logo/法治天地.png" group-title="其它",法治天地
+http://124.90.44.40:6060/010/2/01000010000000060000000000002816/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="{{your_logo_address}}/aliases/logo/杭州导视.png" group-title="其它",杭州导视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000787/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="杭州生活" tvg-name="杭州生活" tvg-logo="{{your_logo_address}}/aliases/logo/杭州生活.png" group-title="其它",杭州生活
+http://124.90.44.40:6060/010/2/00000001000000060000000000000784/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="杭州影视" tvg-name="杭州影视" tvg-logo="{{your_logo_address}}/aliases/logo/杭州影视.png" group-title="其它",杭州影视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000785/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="杭州综合" tvg-name="杭州综合" tvg-logo="{{your_logo_address}}/aliases/logo/杭州综合.png" group-title="其它",杭州综合
+http://124.90.44.40:6060/010/2/00000001000000060000000000000782/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="好易购1" tvg-name="好易购1" tvg-logo="" group-title="其它",好易购1
+http://124.90.44.40:6060/010/2/00000001000000060000000000000794/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="黑龙江" tvg-name="黑龙江" tvg-logo="" group-title="其它",黑龙江
+http://124.90.44.40:6060/010/2/00000001000000060000000000000462/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="交通之声" tvg-name="交通之声" tvg-logo="" group-title="其它",交通之声
+http://124.90.44.40:6060/010/2/00000001000000060000000000000485/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="教科影视" tvg-name="教科影视" tvg-logo="" group-title="其它",教科影视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000576/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="经济" tvg-name="经济" tvg-logo="" group-title="其它",经济
+http://124.90.44.40:6060/010/2/00000001000000060000000000000483/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="联通测试1" tvg-name="联通测试1" tvg-logo="" group-title="其它",联通测试1
+http://124.90.44.40:6060/010/2/01000010000000060000000000002859/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="联通测试2" tvg-name="联通测试2" tvg-logo="" group-title="其它",联通测试2
+http://124.90.44.40:6060/010/2/01000010000000060000000000002860/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="联通测试2" tvg-name="联通测试2" tvg-logo="" group-title="其它",联通测试2
+http://124.90.44.40:6060/010/2/01000010000000060000000000002830/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="联通测试3" tvg-name="联通测试3" tvg-logo="" group-title="其它",联通测试3
+http://124.90.44.40:6060/010/2/01000010000000060000000000002831/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="联通测试7" tvg-name="联通测试7" tvg-logo="" group-title="其它",联通测试7
+http://124.90.44.40:6060/010/2/01000010000000060000000000002835/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="联通测试四" tvg-name="联通测试四" tvg-logo="" group-title="其它",联通测试四
+http://124.90.44.40:6060/010/2/01000010000000060000000000002832/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="旅游之声" tvg-name="旅游之声" tvg-logo="" group-title="其它",旅游之声
+http://124.90.44.40:6060/010/2/00000001000000060000000000000486/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="民生休闲" tvg-name="民生休闲" tvg-logo="" group-title="其它",民生休闲
+http://124.90.44.40:6060/010/2/00000001000000060000000000000578/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="民生资讯" tvg-name="民生资讯" tvg-logo="" group-title="其它",民生资讯
+http://124.90.44.40:6060/010/2/00000001000000060000000000000488/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="宁波都市" tvg-name="宁波都市" tvg-logo="" group-title="其它",宁波都市
+http://124.90.44.40:6060/010/2/00000001000000060000000000000790/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="宁波生活" tvg-name="宁波生活" tvg-logo="" group-title="其它",宁波生活
+http://124.90.44.40:6060/010/2/00000001000000060000000000000789/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="宁波影视" tvg-name="宁波影视" tvg-logo="" group-title="其它",宁波影视
+http://124.90.44.40:6060/010/2/00000001000000060000000000000791/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="宁波综合" tvg-name="宁波综合" tvg-logo="" group-title="其它",宁波综合
+http://124.90.44.40:6060/010/2/00000001000000060000000000000600/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="钱江" tvg-name="钱江" tvg-logo="" group-title="其它",钱江
+http://124.90.44.40:6060/010/2/00000001000000060000000000000571/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="青少体育" tvg-name="青少体育" tvg-logo="" group-title="其它",青少体育
+http://124.90.44.40:6060/010/2/00000001000000060000000000000786/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="衢州二套" tvg-name="衢州二套" tvg-logo="" group-title="其它",衢州二套
+http://124.90.44.40:6060/010/2/01000010000000060000000000002838/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="衢州一套" tvg-name="衢州一套" tvg-logo="" group-title="其它",衢州一套
+http://124.90.44.40:6060/010/2/01000010000000060000000000002837/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="绍兴一套" tvg-name="绍兴一套" tvg-logo="" group-title="其它",绍兴一套
+http://124.90.44.40:6060/010/2/00000001000000060000000000000496/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="温州一套" tvg-name="温州一套" tvg-logo="" group-title="其它",温州一套
+http://124.90.44.40:6060/010/2/00000001000000060000000000000490/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="西湖明珠" tvg-name="西湖明珠" tvg-logo="" group-title="其它",西湖明珠
+http://124.90.44.40:6060/010/2/00000001000000060000000000000783/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="音乐调频" tvg-name="音乐调频" tvg-logo="" group-title="其它",音乐调频
+http://124.90.44.40:6060/010/2/00000001000000060000000000000484/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="浙江新闻广播" tvg-name="浙江新闻广播" tvg-logo="{{your_logo_address}}/aliases/logo/浙江新闻广播.png" group-title="其它",浙江新闻广播
+http://124.90.44.40:6060/010/2/00000001000000060000000000000482/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="浙江之声" tvg-name="浙江之声" tvg-logo="" group-title="其它",浙江之声
+http://124.90.44.40:6060/010/2/00000001000000060000000000000481/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="{{your_logo_address}}/logo/之江纪录.png" group-title="其它",之江纪录
+http://124.90.44.40:6060/010/2/01000010000000060000000000002844/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="中央奥运测试" tvg-name="中央奥运测试" tvg-logo="" group-title="其它",中央奥运测试
+http://124.90.44.40:6060/010/2/01000010000000060000000000002805/1000.m3u8?virtualDomain=010.live_hls.zte.com
+#EXTINF:-1 tvg-id="CGTNSPANISH" tvg-name="CGTNSPANISH" tvg-logo="" group-title="其它",CGTNSPANISH
+http://124.90.44.40:6060/010/2/00000001000000060000000000000800/1000.m3u8?virtualDomain=010.live_hls.zte.com

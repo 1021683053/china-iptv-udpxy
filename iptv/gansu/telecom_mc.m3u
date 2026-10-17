@@ -1,0 +1,419 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="{{your_logo_address}}/logo/CCTV1.png" group-title="央视",CCTV1
+http://{{your_udpxy_address}}/udp/239.255.30.101:8231
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="{{your_logo_address}}/logo/CCTV2.png" group-title="央视",CCTV2
+http://{{your_udpxy_address}}/udp/239.255.30.179:8231
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="{{your_logo_address}}/logo/CCTV3.png" group-title="央视",CCTV3
+http://{{your_udpxy_address}}/udp/239.255.29.12:8231
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="{{your_logo_address}}/logo/CCTV4.png" group-title="央视",CCTV4
+http://{{your_udpxy_address}}/udp/239.255.30.3:8231
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="{{your_logo_address}}/logo/CCTV4.png" group-title="央视",CCTV4
+http://{{your_udpxy_address}}/udp/239.255.30.83:8231
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="{{your_logo_address}}/logo/CCTV5.png" group-title="央视",CCTV5
+http://{{your_udpxy_address}}/udp/239.255.29.13:8231
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="{{your_logo_address}}/logo/CCTV5+.png" group-title="央视",CCTV5+
+http://{{your_udpxy_address}}/udp/239.255.30.184:8231
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="{{your_logo_address}}/logo/CCTV6.png" group-title="央视",CCTV6
+http://{{your_udpxy_address}}/udp/239.255.29.14:8231
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="{{your_logo_address}}/logo/CCTV7.png" group-title="央视",CCTV7
+http://{{your_udpxy_address}}/udp/239.255.30.178:8231
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="{{your_logo_address}}/logo/CCTV8.png" group-title="央视",CCTV8
+http://{{your_udpxy_address}}/udp/239.255.29.15:8231
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="{{your_logo_address}}/logo/CCTV9.png" group-title="央视",CCTV9
+http://{{your_udpxy_address}}/udp/239.255.30.180:8231
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="{{your_logo_address}}/logo/CCTV10.png" group-title="央视",CCTV10
+http://{{your_udpxy_address}}/udp/239.255.30.10:8231
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="{{your_logo_address}}/logo/CCTV10.png" group-title="央视",CCTV10
+http://{{your_udpxy_address}}/udp/239.255.30.181:8231
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="{{your_logo_address}}/logo/CCTV11.png" group-title="央视",CCTV11
+http://{{your_udpxy_address}}/udp/239.255.30.62:8231
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="{{your_logo_address}}/logo/CCTV12.png" group-title="央视",CCTV12
+http://{{your_udpxy_address}}/udp/239.255.30.182:8231
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="{{your_logo_address}}/logo/CCTV13.png" group-title="央视",CCTV13
+http://{{your_udpxy_address}}/udp/239.255.29.28:8231
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="{{your_logo_address}}/logo/CCTV14.png" group-title="央视",CCTV14
+http://{{your_udpxy_address}}/udp/239.255.30.183:8231
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="{{your_logo_address}}/logo/CCTV15.png" group-title="央视",CCTV15
+http://{{your_udpxy_address}}/udp/239.255.30.68:8231
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="{{your_logo_address}}/logo/CCTV16.png" group-title="央视",CCTV16
+http://{{your_udpxy_address}}/udp/239.255.30.88:8231
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="{{your_logo_address}}/logo/CCTV17.png" group-title="央视",CCTV17
+http://{{your_udpxy_address}}/udp/239.255.30.96:8231
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="{{your_logo_address}}/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://{{your_udpxy_address}}/udp/239.255.30.84:8231
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="{{your_logo_address}}/logo/北京卫视.png" group-title="卫视",北京卫视
+http://{{your_udpxy_address}}/udp/239.255.30.133:8231
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="{{your_logo_address}}/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://{{your_udpxy_address}}/udp/239.255.30.89:8231
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="{{your_logo_address}}/logo/东方卫视.png" group-title="卫视",东方卫视
+http://{{your_udpxy_address}}/udp/239.255.30.130:8231
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="{{your_logo_address}}/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://{{your_udpxy_address}}/udp/239.255.30.12:8231
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="{{your_logo_address}}/logo/广东卫视.png" group-title="卫视",广东卫视
+http://{{your_udpxy_address}}/udp/239.255.30.134:8231
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="{{your_logo_address}}/logo/广西卫视.png" group-title="卫视",广西卫视
+http://{{your_udpxy_address}}/udp/239.255.29.4:8231
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="{{your_logo_address}}/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://{{your_udpxy_address}}/udp/239.255.30.98:8231
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="{{your_logo_address}}/logo/海南卫视.png" group-title="卫视",海南卫视
+http://{{your_udpxy_address}}/udp/239.255.30.99:8231
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="{{your_logo_address}}/logo/河北卫视.png" group-title="卫视",河北卫视
+http://{{your_udpxy_address}}/udp/239.255.30.85:8231
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="{{your_logo_address}}/logo/河南卫视.png" group-title="卫视",河南卫视
+http://{{your_udpxy_address}}/udp/239.255.29.3:8231
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="{{your_logo_address}}/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://{{your_udpxy_address}}/udp/239.255.30.137:8231
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="{{your_logo_address}}/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://{{your_udpxy_address}}/udp/239.255.30.138:8231
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="{{your_logo_address}}/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://{{your_udpxy_address}}/udp/239.255.30.136:8231
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="{{your_logo_address}}/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://{{your_udpxy_address}}/udp/239.255.29.5:8231
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="{{your_logo_address}}/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://{{your_udpxy_address}}/udp/239.255.30.131:8231
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="{{your_logo_address}}/logo/江西卫视.png" group-title="卫视",江西卫视
+http://{{your_udpxy_address}}/udp/239.255.30.71:8231
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="{{your_logo_address}}/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://{{your_udpxy_address}}/udp/239.255.30.69:8231
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="{{your_logo_address}}/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://{{your_udpxy_address}}/udp/239.255.30.43:8231
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="{{your_logo_address}}/logo/青海卫视.png" group-title="卫视",青海卫视
+http://{{your_udpxy_address}}/udp/239.255.30.41:8231
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="{{your_logo_address}}/logo/山东卫视.png" group-title="卫视",山东卫视
+http://{{your_udpxy_address}}/udp/239.255.30.139:8231
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="{{your_logo_address}}/logo/山西卫视.png" group-title="卫视",山西卫视
+http://{{your_udpxy_address}}/udp/239.255.30.19:8231
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="{{your_logo_address}}/logo/陕西卫视.png" group-title="卫视",陕西卫视
+http://{{your_udpxy_address}}/udp/239.255.30.25:8231
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="{{your_logo_address}}/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://{{your_udpxy_address}}/udp/239.255.30.135:8231
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="{{your_logo_address}}/logo/四川卫视.png" group-title="卫视",四川卫视
+http://{{your_udpxy_address}}/udp/239.255.30.91:8231
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="{{your_logo_address}}/logo/天津卫视.png" group-title="卫视",天津卫视
+http://{{your_udpxy_address}}/udp/239.255.30.67:8231
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="{{your_logo_address}}/logo/西藏卫视.png" group-title="卫视",西藏卫视
+http://{{your_udpxy_address}}/udp/239.255.30.42:8231
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="{{your_logo_address}}/logo/新疆卫视.png" group-title="卫视",新疆卫视
+http://{{your_udpxy_address}}/udp/239.255.30.44:8231
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="{{your_logo_address}}/logo/云南卫视.png" group-title="卫视",云南卫视
+http://{{your_udpxy_address}}/udp/239.255.29.2:8231
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="{{your_logo_address}}/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://{{your_udpxy_address}}/udp/239.255.30.132:8231
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="{{your_logo_address}}/logo/卡酷少儿.png" group-title="地方",卡酷少儿
+http://{{your_udpxy_address}}/udp/239.255.29.38:8231
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="{{your_logo_address}}/logo/东方财经.png" group-title="地方",东方财经
+http://{{your_udpxy_address}}/udp/239.255.29.43:8231
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="{{your_logo_address}}/logo/五星体育.png" group-title="地方",五星体育
+http://{{your_udpxy_address}}/udp/239.255.29.45:8231
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="{{your_logo_address}}/logo/哈哈炫动.png" group-title="地方",哈哈炫动
+http://{{your_udpxy_address}}/udp/239.255.29.37:8231
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="{{your_logo_address}}/logo/纪实人文.png" group-title="地方",纪实人文
+http://{{your_udpxy_address}}/udp/239.255.30.176:8231
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="{{your_logo_address}}/logo/东南卫视.png" group-title="地方",东南卫视
+http://{{your_udpxy_address}}/udp/239.255.30.86:8231
+#EXTINF:-1 tvg-id="甘肃经济" tvg-name="甘肃经济" tvg-logo="" group-title="地方",甘肃经济
+http://{{your_udpxy_address}}/udp/239.255.30.253:8231
+#EXTINF:-1 tvg-id="甘肃少儿" tvg-name="甘肃少儿" tvg-logo="" group-title="地方",甘肃少儿
+http://{{your_udpxy_address}}/udp/239.255.30.254:8231
+#EXTINF:-1 tvg-id="甘肃公共应急" tvg-name="甘肃公共应急" tvg-logo="" group-title="地方",甘肃公共应急
+http://{{your_udpxy_address}}/udp/239.255.30.251:8231
+#EXTINF:-1 tvg-id="甘肃科教" tvg-name="甘肃科教" tvg-logo="" group-title="地方",甘肃科教
+http://{{your_udpxy_address}}/udp/239.255.30.252:8231
+#EXTINF:-1 tvg-id="甘肃文化影视" tvg-name="甘肃文化影视" tvg-logo="" group-title="地方",甘肃文化影视
+http://{{your_udpxy_address}}/udp/239.255.30.250:8231
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="{{your_logo_address}}/logo/三沙卫视.png" group-title="地方",三沙卫视
+http://{{your_udpxy_address}}/udp/239.255.29.46:8231
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="{{your_logo_address}}/logo/CETV1.png" group-title="教育",CETV1
+http://{{your_udpxy_address}}/udp/239.255.30.90:8231
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="{{your_logo_address}}/logo/凤凰中文.png" group-title="台港澳",凤凰中文
+http://{{your_udpxy_address}}/udp/239.255.30.50:8231
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="{{your_logo_address}}/logo/凤凰资讯.png" group-title="台港澳",凤凰资讯
+http://{{your_udpxy_address}}/udp/239.255.30.70:8231
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="{{your_logo_address}}/logo/凤凰卫视香港台.png" group-title="台港澳",凤凰卫视香港台
+http://{{your_udpxy_address}}/udp/239.255.30.123:8231
+#EXTINF:-1 tvg-id="4K" tvg-name="4K" tvg-logo="" group-title="其它",4K
+http://{{your_udpxy_address}}/udp/239.255.29.65:8231
+#EXTINF:-1 tvg-id="4K" tvg-name="4K" tvg-logo="" group-title="其它",4K
+http://{{your_udpxy_address}}/udp/239.255.29.66:8231
+#EXTINF:-1 tvg-id="4K" tvg-name="4K" tvg-logo="" group-title="其它",4K
+http://{{your_udpxy_address}}/udp/239.255.30.116:8231
+#EXTINF:-1 tvg-id="4K" tvg-name="4K" tvg-logo="" group-title="其它",4K
+http://{{your_udpxy_address}}/udp/239.255.30.76:8231
+#EXTINF:-1 tvg-id="17号" tvg-name="17号" tvg-logo="" group-title="其它",17号
+http://{{your_udpxy_address}}/udp/239.255.29.17:8231
+#EXTINF:-1 tvg-id="20号" tvg-name="20号" tvg-logo="" group-title="其它",20号
+http://{{your_udpxy_address}}/udp/239.255.29.20:8231
+#EXTINF:-1 tvg-id="42号" tvg-name="42号" tvg-logo="" group-title="其它",42号
+http://{{your_udpxy_address}}/udp/239.255.29.42:8231
+#EXTINF:-1 tvg-id="56号" tvg-name="56号" tvg-logo="" group-title="其它",56号
+http://{{your_udpxy_address}}/udp/239.255.29.56:8231
+#EXTINF:-1 tvg-id="58号" tvg-name="58号" tvg-logo="" group-title="其它",58号
+http://{{your_udpxy_address}}/udp/239.255.29.58:8231
+#EXTINF:-1 tvg-id="59号" tvg-name="59号" tvg-logo="" group-title="其它",59号
+http://{{your_udpxy_address}}/udp/239.255.29.59:8231
+#EXTINF:-1 tvg-id="60号" tvg-name="60号" tvg-logo="" group-title="其它",60号
+http://{{your_udpxy_address}}/udp/239.255.29.60:8231
+#EXTINF:-1 tvg-id="61号" tvg-name="61号" tvg-logo="" group-title="其它",61号
+http://{{your_udpxy_address}}/udp/239.255.29.61:8231
+#EXTINF:-1 tvg-id="62号" tvg-name="62号" tvg-logo="" group-title="其它",62号
+http://{{your_udpxy_address}}/udp/239.255.29.62:8231
+#EXTINF:-1 tvg-id="63号" tvg-name="63号" tvg-logo="" group-title="其它",63号
+http://{{your_udpxy_address}}/udp/239.255.29.63:8231
+#EXTINF:-1 tvg-id="64号" tvg-name="64号" tvg-logo="" group-title="其它",64号
+http://{{your_udpxy_address}}/udp/239.255.29.64:8231
+#EXTINF:-1 tvg-id="80号" tvg-name="80号" tvg-logo="" group-title="其它",80号
+http://{{your_udpxy_address}}/udp/239.255.30.80:8231
+#EXTINF:-1 tvg-id="147号" tvg-name="147号" tvg-logo="" group-title="其它",147号
+http://{{your_udpxy_address}}/udp/239.255.30.147:8231
+#EXTINF:-1 tvg-id="169号" tvg-name="169号" tvg-logo="" group-title="其它",169号
+http://{{your_udpxy_address}}/udp/239.255.30.169:8231
+#EXTINF:-1 tvg-id="170号" tvg-name="170号" tvg-logo="" group-title="其它",170号
+http://{{your_udpxy_address}}/udp/239.255.30.170:8231
+#EXTINF:-1 tvg-id="171号" tvg-name="171号" tvg-logo="" group-title="其它",171号
+http://{{your_udpxy_address}}/udp/239.255.30.171:8231
+#EXTINF:-1 tvg-id="172号" tvg-name="172号" tvg-logo="" group-title="其它",172号
+http://{{your_udpxy_address}}/udp/239.255.30.172:8231
+#EXTINF:-1 tvg-id="173号" tvg-name="173号" tvg-logo="" group-title="其它",173号
+http://{{your_udpxy_address}}/udp/239.255.30.173:8231
+#EXTINF:-1 tvg-id="200号" tvg-name="200号" tvg-logo="" group-title="其它",200号
+http://{{your_udpxy_address}}/udp/239.255.30.200:8231
+#EXTINF:-1 tvg-id="201号" tvg-name="201号" tvg-logo="" group-title="其它",201号
+http://{{your_udpxy_address}}/udp/239.255.30.201:8231
+#EXTINF:-1 tvg-id="5号[768*576]" tvg-name="5号[768*576]" tvg-logo="" group-title="其它",5号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.5:8231
+#EXTINF:-1 tvg-id="6号[768*576]" tvg-name="6号[768*576]" tvg-logo="" group-title="其它",6号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.29.6:8231
+#EXTINF:-1 tvg-id="6号[768*576]" tvg-name="6号[768*576]" tvg-logo="" group-title="其它",6号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.6:8231
+#EXTINF:-1 tvg-id="11号[768*576]" tvg-name="11号[768*576]" tvg-logo="" group-title="其它",11号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.11:8231
+#EXTINF:-1 tvg-id="13号[768*576]" tvg-name="13号[768*576]" tvg-logo="" group-title="其它",13号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.13:8231
+#EXTINF:-1 tvg-id="14号[768*576]" tvg-name="14号[768*576]" tvg-logo="" group-title="其它",14号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.14:8231
+#EXTINF:-1 tvg-id="15号[768*576]" tvg-name="15号[768*576]" tvg-logo="" group-title="其它",15号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.15:8231
+#EXTINF:-1 tvg-id="16号[768*576]" tvg-name="16号[768*576]" tvg-logo="" group-title="其它",16号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.16:8231
+#EXTINF:-1 tvg-id="17号[768*576]" tvg-name="17号[768*576]" tvg-logo="" group-title="其它",17号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.17:8231
+#EXTINF:-1 tvg-id="18号[768*576]" tvg-name="18号[768*576]" tvg-logo="" group-title="其它",18号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.18:8231
+#EXTINF:-1 tvg-id="20号[768*576]" tvg-name="20号[768*576]" tvg-logo="" group-title="其它",20号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.20:8231
+#EXTINF:-1 tvg-id="21号[768*576]" tvg-name="21号[768*576]" tvg-logo="" group-title="其它",21号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.21:8231
+#EXTINF:-1 tvg-id="22号[768*576]" tvg-name="22号[768*576]" tvg-logo="" group-title="其它",22号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.22:8231
+#EXTINF:-1 tvg-id="23号[768*576]" tvg-name="23号[768*576]" tvg-logo="" group-title="其它",23号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.23:8231
+#EXTINF:-1 tvg-id="24号[768*576]" tvg-name="24号[768*576]" tvg-logo="" group-title="其它",24号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.24:8231
+#EXTINF:-1 tvg-id="26号[768*576]" tvg-name="26号[768*576]" tvg-logo="" group-title="其它",26号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.26:8231
+#EXTINF:-1 tvg-id="27号[768*576]" tvg-name="27号[768*576]" tvg-logo="" group-title="其它",27号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.29.27:8231
+#EXTINF:-1 tvg-id="27号[768*576]" tvg-name="27号[768*576]" tvg-logo="" group-title="其它",27号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.27:8231
+#EXTINF:-1 tvg-id="28号[768*576]" tvg-name="28号[768*576]" tvg-logo="" group-title="其它",28号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.28:8231
+#EXTINF:-1 tvg-id="29号[768*576]" tvg-name="29号[768*576]" tvg-logo="" group-title="其它",29号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.29:8231
+#EXTINF:-1 tvg-id="30号[768*576]" tvg-name="30号[768*576]" tvg-logo="" group-title="其它",30号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.30:8231
+#EXTINF:-1 tvg-id="31号[768*576]" tvg-name="31号[768*576]" tvg-logo="" group-title="其它",31号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.31:8231
+#EXTINF:-1 tvg-id="32号[768*576]" tvg-name="32号[768*576]" tvg-logo="" group-title="其它",32号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.32:8231
+#EXTINF:-1 tvg-id="33号[768*576]" tvg-name="33号[768*576]" tvg-logo="" group-title="其它",33号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.33:8231
+#EXTINF:-1 tvg-id="34号[768*576]" tvg-name="34号[768*576]" tvg-logo="" group-title="其它",34号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.34:8231
+#EXTINF:-1 tvg-id="35号[768*576]" tvg-name="35号[768*576]" tvg-logo="" group-title="其它",35号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.35:8231
+#EXTINF:-1 tvg-id="36号[768*576]" tvg-name="36号[768*576]" tvg-logo="" group-title="其它",36号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.36:8231
+#EXTINF:-1 tvg-id="38号[768*576]" tvg-name="38号[768*576]" tvg-logo="" group-title="其它",38号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.38:8231
+#EXTINF:-1 tvg-id="39号[768*576]" tvg-name="39号[768*576]" tvg-logo="" group-title="其它",39号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.39:8231
+#EXTINF:-1 tvg-id="40号[768*576]" tvg-name="40号[768*576]" tvg-logo="" group-title="其它",40号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.40:8231
+#EXTINF:-1 tvg-id="45号[768*576]" tvg-name="45号[768*576]" tvg-logo="" group-title="其它",45号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.45:8231
+#EXTINF:-1 tvg-id="46号[768*576]" tvg-name="46号[768*576]" tvg-logo="" group-title="其它",46号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.46:8231
+#EXTINF:-1 tvg-id="48号[768*576]" tvg-name="48号[768*576]" tvg-logo="" group-title="其它",48号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.48:8231
+#EXTINF:-1 tvg-id="49号[785*576]" tvg-name="49号[785*576]" tvg-logo="" group-title="其它",49号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.49:8231
+#EXTINF:-1 tvg-id="53号[768*576]" tvg-name="53号[768*576]" tvg-logo="" group-title="其它",53号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.53:8231
+#EXTINF:-1 tvg-id="54号[785*576]" tvg-name="54号[785*576]" tvg-logo="" group-title="其它",54号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.54:8231
+#EXTINF:-1 tvg-id="55号[785*576]" tvg-name="55号[785*576]" tvg-logo="" group-title="其它",55号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.55:8231
+#EXTINF:-1 tvg-id="56号[785*576]" tvg-name="56号[785*576]" tvg-logo="" group-title="其它",56号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.56:8231
+#EXTINF:-1 tvg-id="60号[785*576]" tvg-name="60号[785*576]" tvg-logo="" group-title="其它",60号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.60:8231
+#EXTINF:-1 tvg-id="61号[785*576]" tvg-name="61号[785*576]" tvg-logo="" group-title="其它",61号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.61:8231
+#EXTINF:-1 tvg-id="64号[785*576]" tvg-name="64号[785*576]" tvg-logo="" group-title="其它",64号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.64:8231
+#EXTINF:-1 tvg-id="65号[768*576]" tvg-name="65号[768*576]" tvg-logo="" group-title="其它",65号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.65:8231
+#EXTINF:-1 tvg-id="66号[720*576]" tvg-name="66号[720*576]" tvg-logo="" group-title="其它",66号[720*576]
+http://{{your_udpxy_address}}/udp/239.255.30.66:8231
+#EXTINF:-1 tvg-id="75号[768*576]" tvg-name="75号[768*576]" tvg-logo="" group-title="其它",75号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.75:8231
+#EXTINF:-1 tvg-id="77号[768*576]" tvg-name="77号[768*576]" tvg-logo="" group-title="其它",77号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.77:8231
+#EXTINF:-1 tvg-id="79号[785*576]" tvg-name="79号[785*576]" tvg-logo="" group-title="其它",79号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.79:8231
+#EXTINF:-1 tvg-id="95号[768*576]" tvg-name="95号[768*576]" tvg-logo="" group-title="其它",95号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.95:8231
+#EXTINF:-1 tvg-id="102号[768*576]" tvg-name="102号[768*576]" tvg-logo="" group-title="其它",102号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.102:8231
+#EXTINF:-1 tvg-id="110号[785*576]" tvg-name="110号[785*576]" tvg-logo="" group-title="其它",110号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.110:8231
+#EXTINF:-1 tvg-id="111号[785*576]" tvg-name="111号[785*576]" tvg-logo="" group-title="其它",111号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.111:8231
+#EXTINF:-1 tvg-id="112号[785*576]" tvg-name="112号[785*576]" tvg-logo="" group-title="其它",112号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.112:8231
+#EXTINF:-1 tvg-id="113号[785*576]" tvg-name="113号[785*576]" tvg-logo="" group-title="其它",113号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.113:8231
+#EXTINF:-1 tvg-id="114号[785*576]" tvg-name="114号[785*576]" tvg-logo="" group-title="其它",114号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.114:8231
+#EXTINF:-1 tvg-id="126号[768*576]" tvg-name="126号[768*576]" tvg-logo="" group-title="其它",126号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.126:8231
+#EXTINF:-1 tvg-id="127号[768*576]" tvg-name="127号[768*576]" tvg-logo="" group-title="其它",127号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.127:8231
+#EXTINF:-1 tvg-id="145号[785*576]" tvg-name="145号[785*576]" tvg-logo="" group-title="其它",145号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.145:8231
+#EXTINF:-1 tvg-id="146号[785*576]" tvg-name="146号[785*576]" tvg-logo="" group-title="其它",146号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.146:8231
+#EXTINF:-1 tvg-id="148号[785*576]" tvg-name="148号[785*576]" tvg-logo="" group-title="其它",148号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.148:8231
+#EXTINF:-1 tvg-id="177号[785*576]" tvg-name="177号[785*576]" tvg-logo="" group-title="其它",177号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.177:8231
+#EXTINF:-1 tvg-id="239号[785*576]" tvg-name="239号[785*576]" tvg-logo="" group-title="其它",239号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.239:8231
+#EXTINF:-1 tvg-id="240号[768*576]" tvg-name="240号[768*576]" tvg-logo="" group-title="其它",240号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.240:8231
+#EXTINF:-1 tvg-id="241号[768*576]" tvg-name="241号[768*576]" tvg-logo="" group-title="其它",241号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.241:8231
+#EXTINF:-1 tvg-id="242号[785*576]" tvg-name="242号[785*576]" tvg-logo="" group-title="其它",242号[785*576]
+http://{{your_udpxy_address}}/udp/239.255.30.242:8231
+#EXTINF:-1 tvg-id="243号[768*576]" tvg-name="243号[768*576]" tvg-logo="" group-title="其它",243号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.243:8231
+#EXTINF:-1 tvg-id="244号[768*576]" tvg-name="244号[768*576]" tvg-logo="" group-title="其它",244号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.244:8231
+#EXTINF:-1 tvg-id="245号[768*576]" tvg-name="245号[768*576]" tvg-logo="" group-title="其它",245号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.245:8231
+#EXTINF:-1 tvg-id="246号[768*576]" tvg-name="246号[768*576]" tvg-logo="" group-title="其它",246号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.246:8231
+#EXTINF:-1 tvg-id="247号[768*576]" tvg-name="247号[768*576]" tvg-logo="" group-title="其它",247号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.247:8231
+#EXTINF:-1 tvg-id="248号[768*576]" tvg-name="248号[768*576]" tvg-logo="" group-title="其它",248号[768*576]
+http://{{your_udpxy_address}}/udp/239.255.30.248:8231
+#EXTINF:-1 tvg-id="37号[1047*576]" tvg-name="37号[1047*576]" tvg-logo="" group-title="其它",37号[1047*576]
+http://{{your_udpxy_address}}/udp/239.255.30.37:8231
+#EXTINF:-1 tvg-id="47号[1280*576]" tvg-name="47号[1280*576]" tvg-logo="" group-title="其它",47号[1280*576]
+http://{{your_udpxy_address}}/udp/239.255.30.47:8231
+#EXTINF:-1 tvg-id="129号[1047*576]" tvg-name="129号[1047*576]" tvg-logo="" group-title="其它",129号[1047*576]
+http://{{your_udpxy_address}}/udp/239.255.30.129:8231
+#EXTINF:-1 tvg-id="152号[1024*576]" tvg-name="152号[1024*576]" tvg-logo="" group-title="其它",152号[1024*576]
+http://{{your_udpxy_address}}/udp/239.255.30.152:8231
+#EXTINF:-1 tvg-id="153号[1024*576]" tvg-name="153号[1024*576]" tvg-logo="" group-title="其它",153号[1024*576]
+http://{{your_udpxy_address}}/udp/239.255.30.153:8231
+#EXTINF:-1 tvg-id="154号[1024*576]" tvg-name="154号[1024*576]" tvg-logo="" group-title="其它",154号[1024*576]
+http://{{your_udpxy_address}}/udp/239.255.30.154:8231
+#EXTINF:-1 tvg-id="155号[1024*576]" tvg-name="155号[1024*576]" tvg-logo="" group-title="其它",155号[1024*576]
+http://{{your_udpxy_address}}/udp/239.255.30.155:8231
+#EXTINF:-1 tvg-id="156号[1024*576]" tvg-name="156号[1024*576]" tvg-logo="" group-title="其它",156号[1024*576]
+http://{{your_udpxy_address}}/udp/239.255.30.156:8231
+#EXTINF:-1 tvg-id="157号[1024*576]" tvg-name="157号[1024*576]" tvg-logo="" group-title="其它",157号[1024*576]
+http://{{your_udpxy_address}}/udp/239.255.30.157:8231
+#EXTINF:-1 tvg-id="158号[1024*576]" tvg-name="158号[1024*576]" tvg-logo="" group-title="其它",158号[1024*576]
+http://{{your_udpxy_address}}/udp/239.255.30.158:8231
+#EXTINF:-1 tvg-id="202号[1024*576]" tvg-name="202号[1024*576]" tvg-logo="" group-title="其它",202号[1024*576]
+http://{{your_udpxy_address}}/udp/239.255.30.202:8231
+#EXTINF:-1 tvg-id="203号[1024*576]" tvg-name="203号[1024*576]" tvg-logo="" group-title="其它",203号[1024*576]
+http://{{your_udpxy_address}}/udp/239.255.30.203:8231
+#EXTINF:-1 tvg-id="204号[1024*576]" tvg-name="204号[1024*576]" tvg-logo="" group-title="其它",204号[1024*576]
+http://{{your_udpxy_address}}/udp/239.255.30.204:8231
+#EXTINF:-1 tvg-id="205号[1024*576]" tvg-name="205号[1024*576]" tvg-logo="" group-title="其它",205号[1024*576]
+http://{{your_udpxy_address}}/udp/239.255.30.205:8231
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="{{your_logo_address}}/logo/茶.png" group-title="其它",茶
+http://{{your_udpxy_address}}/udp/239.255.29.44:8231
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="{{your_logo_address}}/logo/动漫秀场.png" group-title="其它",动漫秀场
+http://{{your_udpxy_address}}/udp/239.255.29.16:8231
+#EXTINF:-1 tvg-id="都市" tvg-name="都市" tvg-logo="" group-title="其它",都市
+http://{{your_udpxy_address}}/udp/239.255.29.22:8231
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="{{your_logo_address}}/logo/都市剧场.png" group-title="其它",都市剧场
+http://{{your_udpxy_address}}/udp/239.255.29.41:8231
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="{{your_logo_address}}/logo/法治天地.png" group-title="其它",法治天地
+http://{{your_udpxy_address}}/udp/239.255.29.24:8231
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="{{your_logo_address}}/logo/欢笑剧场.png" group-title="其它",欢笑剧场
+http://{{your_udpxy_address}}/udp/239.255.29.19:8231
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="{{your_logo_address}}/logo/欢笑剧场.png" group-title="其它",欢笑剧场
+http://{{your_udpxy_address}}/udp/239.255.29.7:8231
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="{{your_logo_address}}/logo/金色学堂.png" group-title="其它",金色学堂
+http://{{your_udpxy_address}}/udp/239.255.29.23:8231
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="{{your_logo_address}}/logo/金鹰纪实.png" group-title="其它",金鹰纪实
+http://{{your_udpxy_address}}/udp/239.255.29.39:8231
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="{{your_logo_address}}/logo/快乐垂钓.png" group-title="其它",快乐垂钓
+http://{{your_udpxy_address}}/udp/239.255.29.26:8231
+#EXTINF:-1 tvg-id="临夏经济" tvg-name="临夏经济" tvg-logo="" group-title="其它",临夏经济
+http://{{your_udpxy_address}}/udp/239.255.30.106:8231
+#EXTINF:-1 tvg-id="临夏文旅" tvg-name="临夏文旅" tvg-logo="" group-title="其它",临夏文旅
+http://{{your_udpxy_address}}/udp/239.255.30.108:8231
+#EXTINF:-1 tvg-id="临夏新闻" tvg-name="临夏新闻" tvg-logo="" group-title="其它",临夏新闻
+http://{{your_udpxy_address}}/udp/239.255.30.107:8231
+#EXTINF:-1 tvg-id="陇上生活" tvg-name="陇上生活" tvg-logo="" group-title="其它",陇上生活
+http://{{your_udpxy_address}}/udp/239.255.30.73:8231
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="{{your_logo_address}}/logo/生活时尚.png" group-title="其它",生活时尚
+http://{{your_udpxy_address}}/udp/239.255.29.18:8231
+#EXTINF:-1 tvg-id="体育" tvg-name="体育" tvg-logo="" group-title="其它",体育
+http://{{your_udpxy_address}}/udp/239.255.29.31:8231
+#EXTINF:-1 tvg-id="体育" tvg-name="体育" tvg-logo="" group-title="其它",体育
+http://{{your_udpxy_address}}/udp/239.255.30.115:8231
+#EXTINF:-1 tvg-id="体育" tvg-name="体育" tvg-logo="" group-title="其它",体育
+http://{{your_udpxy_address}}/udp/239.255.30.128:8231
+#EXTINF:-1 tvg-id="新闻" tvg-name="新闻" tvg-logo="" group-title="其它",新闻
+http://{{your_udpxy_address}}/udp/239.255.30.93:8231
+#EXTINF:-1 tvg-id="BESTV" tvg-name="BESTV" tvg-logo="" group-title="其它",BESTV
+http://{{your_udpxy_address}}/udp/239.255.30.100:8231
+#EXTINF:-1 tvg-id="BESTV" tvg-name="BESTV" tvg-logo="" group-title="其它",BESTV
+http://{{your_udpxy_address}}/udp/239.255.30.118:8231
+#EXTINF:-1 tvg-id="BESTV" tvg-name="BESTV" tvg-logo="" group-title="其它",BESTV
+http://{{your_udpxy_address}}/udp/239.255.30.150:8231
+#EXTINF:-1 tvg-id="BESTV" tvg-name="BESTV" tvg-logo="" group-title="其它",BESTV
+http://{{your_udpxy_address}}/udp/239.255.30.151:8231
+#EXTINF:-1 tvg-id="BESTV" tvg-name="BESTV" tvg-logo="" group-title="其它",BESTV
+http://{{your_udpxy_address}}/udp/239.255.30.160:8231
+#EXTINF:-1 tvg-id="BESTV" tvg-name="BESTV" tvg-logo="" group-title="其它",BESTV
+http://{{your_udpxy_address}}/udp/239.255.30.166:8231
+#EXTINF:-1 tvg-id="BESTV" tvg-name="BESTV" tvg-logo="" group-title="其它",BESTV
+http://{{your_udpxy_address}}/udp/239.255.30.167:8231
+#EXTINF:-1 tvg-id="BESTV" tvg-name="BESTV" tvg-logo="" group-title="其它",BESTV
+http://{{your_udpxy_address}}/udp/239.255.30.168:8231
+#EXTINF:-1 tvg-id="BESTV" tvg-name="BESTV" tvg-logo="" group-title="其它",BESTV
+http://{{your_udpxy_address}}/udp/239.255.30.193:8231
+#EXTINF:-1 tvg-id="BESTV" tvg-name="BESTV" tvg-logo="" group-title="其它",BESTV
+http://{{your_udpxy_address}}/udp/239.255.30.194:8231
+#EXTINF:-1 tvg-id="BESTV" tvg-name="BESTV" tvg-logo="" group-title="其它",BESTV
+http://{{your_udpxy_address}}/udp/239.255.30.196:8231
+#EXTINF:-1 tvg-id="BESTV" tvg-name="BESTV" tvg-logo="" group-title="其它",BESTV
+http://{{your_udpxy_address}}/udp/239.255.30.197:8231
+#EXTINF:-1 tvg-id="BESTV" tvg-name="BESTV" tvg-logo="" group-title="其它",BESTV
+http://{{your_udpxy_address}}/udp/239.255.30.198:8231
+#EXTINF:-1 tvg-id="BESTV" tvg-name="BESTV" tvg-logo="" group-title="其它",BESTV
+http://{{your_udpxy_address}}/udp/239.255.30.217:8231
+#EXTINF:-1 tvg-id="BESTV" tvg-name="BESTV" tvg-logo="" group-title="其它",BESTV
+http://{{your_udpxy_address}}/udp/239.255.30.236:8231
+#EXTINF:-1 tvg-id="BESTV" tvg-name="BESTV" tvg-logo="" group-title="其它",BESTV
+http://{{your_udpxy_address}}/udp/239.255.30.249:8231
+#EXTINF:-1 tvg-id="YZTV" tvg-name="YZTV" tvg-logo="" group-title="其它",YZTV
+http://{{your_udpxy_address}}/udp/239.255.30.175:8231

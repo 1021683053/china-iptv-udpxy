@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="北京卫视4k" tvg-name="北京卫视4k" tvg-logo="{{your_logo_address}}/logo/北京卫视4k.png" group-title="卫视",北京卫视4k
+http://124.232.231.172:8089/000000002000/201500000219/index.m3u8?ispcode=2&zte_offset=0

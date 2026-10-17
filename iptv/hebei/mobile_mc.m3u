@@ -1,0 +1,555 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="{{your_logo_address}}/logo/CCTV1.png" group-title="央视",CCTV1
+http://{{your_udpxy_address}}/udp/239.255.2.2:8000
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="{{your_logo_address}}/logo/CCTV2.png" group-title="央视",CCTV2
+http://{{your_udpxy_address}}/udp/239.255.2.3:8006
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="{{your_logo_address}}/logo/CCTV3.png" group-title="央视",CCTV3
+http://{{your_udpxy_address}}/udp/239.255.5.92:8364
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="{{your_logo_address}}/logo/CCTV3.png" group-title="央视",CCTV3
+http://{{your_udpxy_address}}/udp/239.255.2.4:8012
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="{{your_logo_address}}/logo/CCTV4.png" group-title="央视",CCTV4
+http://{{your_udpxy_address}}/udp/239.255.2.5:8018
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="{{your_logo_address}}/logo/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
+http://{{your_udpxy_address}}/udp/239.255.3.197:10160
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="{{your_logo_address}}/logo/CCTV4美洲.png" group-title="央视",CCTV4美洲
+http://{{your_udpxy_address}}/udp/239.255.3.198:10164
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="{{your_logo_address}}/logo/CCTV5.png" group-title="央视",CCTV5
+http://{{your_udpxy_address}}/udp/239.255.5.94:8372
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="{{your_logo_address}}/logo/CCTV5.png" group-title="央视",CCTV5
+http://{{your_udpxy_address}}/udp/239.255.2.6:8024
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="{{your_logo_address}}/logo/CCTV5+.png" group-title="央视",CCTV5+
+http://{{your_udpxy_address}}/udp/239.255.2.18:8096
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="{{your_logo_address}}/logo/CCTV6.png" group-title="央视",CCTV6
+http://{{your_udpxy_address}}/udp/239.255.5.95:8376
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="{{your_logo_address}}/logo/CCTV6.png" group-title="央视",CCTV6
+http://{{your_udpxy_address}}/udp/239.255.2.7:8030
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="{{your_logo_address}}/logo/CCTV7.png" group-title="央视",CCTV7
+http://{{your_udpxy_address}}/udp/239.255.2.8:8036
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="{{your_logo_address}}/logo/CCTV8.png" group-title="央视",CCTV8
+http://{{your_udpxy_address}}/udp/239.255.5.96:8380
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="{{your_logo_address}}/logo/CCTV8.png" group-title="央视",CCTV8
+http://{{your_udpxy_address}}/udp/239.255.2.9:8042
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="{{your_logo_address}}/logo/CCTV9.png" group-title="央视",CCTV9
+http://{{your_udpxy_address}}/udp/239.255.2.10:8048
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="{{your_logo_address}}/logo/CCTV10.png" group-title="央视",CCTV10
+http://{{your_udpxy_address}}/udp/239.255.2.11:8054
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="{{your_logo_address}}/logo/CCTV11.png" group-title="央视",CCTV11
+http://{{your_udpxy_address}}/udp/239.255.3.34:9694
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="{{your_logo_address}}/logo/CCTV11.png" group-title="央视",CCTV11
+http://{{your_udpxy_address}}/udp/239.255.2.12:8060
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="{{your_logo_address}}/logo/CCTV12.png" group-title="央视",CCTV12
+http://{{your_udpxy_address}}/udp/239.255.2.13:8066
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="{{your_logo_address}}/logo/CCTV13.png" group-title="央视",CCTV13
+http://{{your_udpxy_address}}/udp/239.255.2.14:8072
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="{{your_logo_address}}/logo/CCTV14.png" group-title="央视",CCTV14
+http://{{your_udpxy_address}}/udp/239.255.2.15:8078
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="{{your_logo_address}}/logo/CCTV15.png" group-title="央视",CCTV15
+http://{{your_udpxy_address}}/udp/239.255.3.35:9700
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="{{your_logo_address}}/logo/CCTV15.png" group-title="央视",CCTV15
+http://{{your_udpxy_address}}/udp/239.255.2.16:8084
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="{{your_logo_address}}/logo/CCTV16.png" group-title="央视",CCTV16
+http://{{your_udpxy_address}}/udp/239.255.5.244:20332
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="{{your_logo_address}}/logo/CCTV17.png" group-title="央视",CCTV17
+http://{{your_udpxy_address}}/udp/239.255.3.36:9706
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="{{your_logo_address}}/logo/CGTN.png" group-title="央视",CGTN
+http://{{your_udpxy_address}}/udp/239.255.2.17:8090
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="{{your_logo_address}}/logo/CGTN西语.png" group-title="央视",CGTN西语
+http://{{your_udpxy_address}}/udp/239.255.3.201:10176
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="{{your_logo_address}}/logo/CGTN法语.png" group-title="央视",CGTN法语
+http://{{your_udpxy_address}}/udp/239.255.3.202:10180
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="{{your_logo_address}}/logo/CGTN俄语.png" group-title="央视",CGTN俄语
+http://{{your_udpxy_address}}/udp/239.255.3.204:10188
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="{{your_logo_address}}/logo/CGTN阿语.png" group-title="央视",CGTN阿语
+http://{{your_udpxy_address}}/udp/239.255.3.203:10184
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="{{your_logo_address}}/logo/CGTN纪录.png" group-title="央视",CGTN纪录
+http://{{your_udpxy_address}}/udp/239.255.3.200:10172
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="{{your_logo_address}}/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://{{your_udpxy_address}}/udp/239.255.2.74:8432
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="{{your_logo_address}}/logo/北京卫视.png" group-title="卫视",北京卫视
+http://{{your_udpxy_address}}/udp/239.255.2.76:8444
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="{{your_logo_address}}/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://{{your_udpxy_address}}/udp/239.255.2.89:8522
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="{{your_logo_address}}/logo/东方卫视.png" group-title="卫视",东方卫视
+http://{{your_udpxy_address}}/udp/239.255.2.88:8516
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="{{your_logo_address}}/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://{{your_udpxy_address}}/udp/239.255.2.101:8594
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="{{your_logo_address}}/logo/广东卫视.png" group-title="卫视",广东卫视
+http://{{your_udpxy_address}}/udp/239.255.2.90:8528
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="{{your_logo_address}}/logo/广西卫视.png" group-title="卫视",广西卫视
+http://{{your_udpxy_address}}/udp/239.255.3.207:10200
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="{{your_logo_address}}/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://{{your_udpxy_address}}/udp/239.255.2.85:8498
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="{{your_logo_address}}/logo/海南卫视.png" group-title="卫视",海南卫视
+http://{{your_udpxy_address}}/udp/239.255.3.213:10224
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="{{your_logo_address}}/logo/河北卫视.png" group-title="卫视",河北卫视
+http://{{your_udpxy_address}}/udp/239.255.2.19:8102
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="{{your_logo_address}}/logo/河南卫视.png" group-title="卫视",河南卫视
+http://{{your_udpxy_address}}/udp/239.255.2.81:8474
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="{{your_logo_address}}/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://{{your_udpxy_address}}/udp/239.255.2.82:8480
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="{{your_logo_address}}/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://{{your_udpxy_address}}/udp/239.255.2.87:8510
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="{{your_logo_address}}/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://{{your_udpxy_address}}/udp/239.255.2.71:8414
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="{{your_logo_address}}/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://{{your_udpxy_address}}/udp/239.255.2.92:8540
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="{{your_logo_address}}/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://{{your_udpxy_address}}/udp/239.255.2.73:8426
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="{{your_logo_address}}/logo/江西卫视.png" group-title="卫视",江西卫视
+http://{{your_udpxy_address}}/udp/239.255.2.84:8492
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="{{your_logo_address}}/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://{{your_udpxy_address}}/udp/239.255.2.78:8456
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="{{your_logo_address}}/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://{{your_udpxy_address}}/udp/239.255.2.95:8558
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="{{your_logo_address}}/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://{{your_udpxy_address}}/udp/239.255.2.98:8576
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="{{your_logo_address}}/logo/青海卫视.png" group-title="卫视",青海卫视
+http://{{your_udpxy_address}}/udp/239.255.2.96:8564
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="{{your_logo_address}}/logo/山东卫视.png" group-title="卫视",山东卫视
+http://{{your_udpxy_address}}/udp/239.255.2.79:8462
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="{{your_logo_address}}/logo/山西卫视.png" group-title="卫视",山西卫视
+http://{{your_udpxy_address}}/udp/239.255.2.94:8552
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="{{your_logo_address}}/logo/陕西卫视.png" group-title="卫视",陕西卫视
+http://{{your_udpxy_address}}/udp/239.255.2.93:8546
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="{{your_logo_address}}/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://{{your_udpxy_address}}/udp/239.255.2.86:8504
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="{{your_logo_address}}/logo/四川卫视.png" group-title="卫视",四川卫视
+http://{{your_udpxy_address}}/udp/239.255.2.83:8486
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="{{your_logo_address}}/logo/天津卫视.png" group-title="卫视",天津卫视
+http://{{your_udpxy_address}}/udp/239.255.2.77:8450
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="{{your_logo_address}}/logo/西藏卫视.png" group-title="卫视",西藏卫视
+http://{{your_udpxy_address}}/udp/239.255.2.99:8582
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="{{your_logo_address}}/logo/新疆卫视.png" group-title="卫视",新疆卫视
+http://{{your_udpxy_address}}/udp/239.255.2.100:8588
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="{{your_logo_address}}/logo/云南卫视.png" group-title="卫视",云南卫视
+http://{{your_udpxy_address}}/udp/239.255.2.80:8468
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="{{your_logo_address}}/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://{{your_udpxy_address}}/udp/239.255.2.72:8420
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="{{your_logo_address}}/logo/北京纪实科教.png" group-title="地方",北京纪实科教
+http://{{your_udpxy_address}}/udp/239.255.2.107:8630
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="{{your_logo_address}}/logo/卡酷少儿.png" group-title="地方",卡酷少儿
+http://{{your_udpxy_address}}/udp/239.255.2.102:8600
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="{{your_logo_address}}/logo/哈哈炫动.png" group-title="地方",哈哈炫动
+http://{{your_udpxy_address}}/udp/239.255.5.55:8216
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="{{your_logo_address}}/logo/纪实人文.png" group-title="地方",纪实人文
+http://{{your_udpxy_address}}/udp/239.255.2.105:8618
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="{{your_logo_address}}/logo/东南卫视.png" group-title="地方",东南卫视
+http://{{your_udpxy_address}}/udp/239.255.2.75:8438
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="{{your_logo_address}}/logo/厦门卫视.png" group-title="地方",厦门卫视
+http://{{your_udpxy_address}}/udp/239.255.5.44:8172
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="{{your_logo_address}}/logo/嘉佳卡通.png" group-title="地方",嘉佳卡通
+http://{{your_udpxy_address}}/udp/239.255.3.167:10040
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="{{your_logo_address}}/logo/大湾区卫视.png" group-title="地方",大湾区卫视
+http://{{your_udpxy_address}}/udp/239.255.5.39:8152
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="{{your_logo_address}}/logo/三沙卫视.png" group-title="地方",三沙卫视
+http://{{your_udpxy_address}}/udp/239.255.3.70:9516
+#EXTINF:-1 tvg-id="河北经济生活" tvg-name="河北经济生活" tvg-logo="" group-title="地方",河北经济生活
+http://{{your_udpxy_address}}/udp/239.255.2.20:8108
+#EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="" group-title="地方",河北都市
+http://{{your_udpxy_address}}/udp/239.255.2.21:8114
+#EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="" group-title="地方",河北少儿科教
+http://{{your_udpxy_address}}/udp/239.255.2.23:8126
+#EXTINF:-1 tvg-id="河北三农" tvg-name="河北三农" tvg-logo="" group-title="地方",河北三农
+http://{{your_udpxy_address}}/udp/239.255.2.25:8138
+#EXTINF:-1 tvg-id="河北杂技" tvg-name="河北杂技" tvg-logo="" group-title="地方",河北杂技
+http://{{your_udpxy_address}}/udp/239.255.3.52:9772
+#EXTINF:-1 tvg-id="睛彩河北" tvg-name="睛彩河北" tvg-logo="" group-title="地方",睛彩河北
+http://{{your_udpxy_address}}/udp/239.255.2.26:8144
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="{{your_logo_address}}/logo/金鹰卡通.png" group-title="地方",金鹰卡通
+http://{{your_udpxy_address}}/udp/239.255.3.209:10208
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="{{your_logo_address}}/logo/金鹰卡通.png" group-title="地方",金鹰卡通
+http://{{your_udpxy_address}}/udp/239.255.2.103:8606
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="{{your_logo_address}}/logo/金鹰纪实.png" group-title="地方",金鹰纪实
+http://{{your_udpxy_address}}/udp/239.255.2.108:8636
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="{{your_logo_address}}/logo/延边卫视.png" group-title="地方",延边卫视
+http://{{your_udpxy_address}}/udp/239.255.5.76:8300
+#EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="{{your_logo_address}}/logo/安多卫视.png" group-title="地方",安多卫视
+http://{{your_udpxy_address}}/udp/239.255.5.73:8288
+#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="{{your_logo_address}}/logo/农林卫视.png" group-title="地方",农林卫视
+http://{{your_udpxy_address}}/udp/239.255.5.75:8296
+#EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="{{your_logo_address}}/logo/康巴卫视.png" group-title="地方",康巴卫视
+http://{{your_udpxy_address}}/udp/239.255.5.74:8292
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="{{your_logo_address}}/logo/兵团卫视.png" group-title="地方",兵团卫视
+http://{{your_udpxy_address}}/udp/239.255.5.19:8072
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="{{your_logo_address}}/logo/CETV1.png" group-title="教育",CETV1
+http://{{your_udpxy_address}}/udp/239.255.5.60:8236
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="{{your_logo_address}}/logo/CETV2.png" group-title="教育",CETV2
+http://{{your_udpxy_address}}/udp/239.255.3.56:9788
+#EXTINF:-1 tvg-id="CETV3" tvg-name="CETV3" tvg-logo="{{your_logo_address}}/logo/CETV3.png" group-title="教育",CETV3
+http://{{your_udpxy_address}}/udp/239.255.5.62:8244
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="{{your_logo_address}}/logo/CETV4.png" group-title="教育",CETV4
+http://{{your_udpxy_address}}/udp/239.255.3.57:9792
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="" group-title="教育",山东教育卫视
+http://{{your_udpxy_address}}/udp/239.255.2.104:8612
+#EXTINF:-1 tvg-id="??蓝屏" tvg-name="??蓝屏" tvg-logo="" group-title="其它",??蓝屏
+http://{{your_udpxy_address}}/udp/239.255.2.149:8882
+#EXTINF:-1 tvg-id="4KU" tvg-name="4KU" tvg-logo="" group-title="其它",4KU
+http://{{your_udpxy_address}}/udp/239.255.5.147:8584
+#EXTINF:-1 tvg-id="爱情喜剧" tvg-name="爱情喜剧" tvg-logo="" group-title="其它",爱情喜剧
+http://{{your_udpxy_address}}/udp/239.255.5.162:20004
+#EXTINF:-1 tvg-id="安平" tvg-name="安平" tvg-logo="" group-title="其它",安平
+http://{{your_udpxy_address}}/udp/239.255.2.181:9074
+#EXTINF:-1 tvg-id="安新" tvg-name="安新" tvg-logo="" group-title="其它",安新
+http://{{your_udpxy_address}}/udp/239.255.2.177:9050
+#EXTINF:-1 tvg-id="霸州" tvg-name="霸州" tvg-logo="" group-title="其它",霸州
+http://{{your_udpxy_address}}/udp/239.255.3.214:10228
+#EXTINF:-1 tvg-id="百姓健康" tvg-name="百姓健康" tvg-logo="{{your_logo_address}}/logo/百姓健康.png" group-title="其它",百姓健康
+http://{{your_udpxy_address}}/udp/239.255.3.246:10356
+#EXTINF:-1 tvg-id="柏乡" tvg-name="柏乡" tvg-logo="" group-title="其它",柏乡
+http://{{your_udpxy_address}}/udp/239.255.3.53:9776
+#EXTINF:-1 tvg-id="保定公共" tvg-name="保定公共" tvg-logo="" group-title="其它",保定公共
+http://{{your_udpxy_address}}/udp/239.255.2.60:8348
+#EXTINF:-1 tvg-id="保定生活" tvg-name="保定生活" tvg-logo="" group-title="其它",保定生活
+http://{{your_udpxy_address}}/udp/239.255.2.61:8354
+#EXTINF:-1 tvg-id="保定新闻" tvg-name="保定新闻" tvg-logo="" group-title="其它",保定新闻
+http://{{your_udpxy_address}}/udp/239.255.2.59:8342
+#EXTINF:-1 tvg-id="沧州公共" tvg-name="沧州公共" tvg-logo="" group-title="其它",沧州公共
+http://{{your_udpxy_address}}/udp/239.255.2.57:8330
+#EXTINF:-1 tvg-id="沧州新闻" tvg-name="沧州新闻" tvg-logo="" group-title="其它",沧州新闻
+http://{{your_udpxy_address}}/udp/239.255.2.56:8324
+#EXTINF:-1 tvg-id="沧州影视" tvg-name="沧州影视" tvg-logo="" group-title="其它",沧州影视
+http://{{your_udpxy_address}}/udp/239.255.2.58:8336
+#EXTINF:-1 tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="" group-title="其它",潮妈辣婆
+http://{{your_udpxy_address}}/udp/239.255.5.183:20088
+#EXTINF:-1 tvg-id="成安" tvg-name="成安" tvg-logo="" group-title="其它",成安
+http://{{your_udpxy_address}}/udp/239.255.3.131:9896
+#EXTINF:-1 tvg-id="承德公共" tvg-name="承德公共" tvg-logo="" group-title="其它",承德公共
+http://{{your_udpxy_address}}/udp/239.255.2.39:8222
+#EXTINF:-1 tvg-id="承德县" tvg-name="承德县" tvg-logo="" group-title="其它",承德县
+http://{{your_udpxy_address}}/udp/239.255.3.172:9508
+#EXTINF:-1 tvg-id="承德综合" tvg-name="承德综合" tvg-logo="" group-title="其它",承德综合
+http://{{your_udpxy_address}}/udp/239.255.2.38:8216
+#EXTINF:-1 tvg-id="赤城" tvg-name="赤城" tvg-logo="" group-title="其它",赤城
+http://{{your_udpxy_address}}/udp/239.255.3.43:9736
+#EXTINF:-1 tvg-id="崇礼" tvg-name="崇礼" tvg-logo="" group-title="其它",崇礼
+http://{{your_udpxy_address}}/udp/239.255.3.26:9656
+#EXTINF:-1 tvg-id="大厂" tvg-name="大厂" tvg-logo="" group-title="其它",大厂
+http://{{your_udpxy_address}}/udp/239.255.2.143:8846
+#EXTINF:-1 tvg-id="大城" tvg-name="大城" tvg-logo="" group-title="其它",大城
+http://{{your_udpxy_address}}/udp/239.255.2.142:8840
+#EXTINF:-1 tvg-id="大名" tvg-name="大名" tvg-logo="" group-title="其它",大名
+http://{{your_udpxy_address}}/udp/239.255.3.149:9968
+#EXTINF:-1 tvg-id="点掌财经" tvg-name="点掌财经" tvg-logo="" group-title="其它",点掌财经
+http://{{your_udpxy_address}}/udp/239.255.3.247:10360
+#EXTINF:-1 tvg-id="定兴" tvg-name="定兴" tvg-logo="" group-title="其它",定兴
+http://{{your_udpxy_address}}/udp/239.255.2.153:8906
+#EXTINF:-1 tvg-id="定州" tvg-name="定州" tvg-logo="" group-title="其它",定州
+http://{{your_udpxy_address}}/udp/239.255.2.173:9026
+#EXTINF:-1 tvg-id="东光" tvg-name="东光" tvg-logo="" group-title="其它",东光
+http://{{your_udpxy_address}}/udp/239.255.2.151:8894
+#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="" group-title="其它",动作电影
+http://{{your_udpxy_address}}/udp/239.255.3.79:9880
+#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="" group-title="其它",动作电影
+http://{{your_udpxy_address}}/udp/239.255.5.165:20016
+#EXTINF:-1 tvg-id="发现之旅" tvg-name="发现之旅" tvg-logo="{{your_logo_address}}/logo/发现之旅.png" group-title="其它",发现之旅
+http://{{your_udpxy_address}}/udp/239.255.3.171:9504
+#EXTINF:-1 tvg-id="丰南" tvg-name="丰南" tvg-logo="" group-title="其它",丰南
+http://{{your_udpxy_address}}/udp/239.255.2.130:8768
+#EXTINF:-1 tvg-id="丰宁" tvg-name="丰宁" tvg-logo="" group-title="其它",丰宁
+http://{{your_udpxy_address}}/udp/239.255.3.215:12232
+#EXTINF:-1 tvg-id="丰润" tvg-name="丰润" tvg-logo="" group-title="其它",丰润
+http://{{your_udpxy_address}}/udp/239.255.2.221:9314
+#EXTINF:-1 tvg-id="抚宁" tvg-name="抚宁" tvg-logo="" group-title="其它",抚宁
+http://{{your_udpxy_address}}/udp/239.255.3.206:10196
+#EXTINF:-1 tvg-id="阜城" tvg-name="阜城" tvg-logo="" group-title="其它",阜城
+http://{{your_udpxy_address}}/udp/239.255.3.44:9740
+#EXTINF:-1 tvg-id="阜平" tvg-name="阜平" tvg-logo="" group-title="其它",阜平
+http://{{your_udpxy_address}}/udp/239.255.2.155:8918
+#EXTINF:-1 tvg-id="高碑店" tvg-name="高碑店" tvg-logo="" group-title="其它",高碑店
+http://{{your_udpxy_address}}/udp/239.255.2.162:8960
+#EXTINF:-1 tvg-id="高阳" tvg-name="高阳" tvg-logo="" group-title="其它",高阳
+http://{{your_udpxy_address}}/udp/239.255.2.176:9044
+#EXTINF:-1 tvg-id="高邑" tvg-name="高邑" tvg-logo="" group-title="其它",高邑
+http://{{your_udpxy_address}}/udp/239.255.2.117:8690
+#EXTINF:-1 tvg-id="固安" tvg-name="固安" tvg-logo="" group-title="其它",固安
+http://{{your_udpxy_address}}/udp/239.255.2.144:8852
+#EXTINF:-1 tvg-id="故城" tvg-name="故城" tvg-logo="" group-title="其它",故城
+http://{{your_udpxy_address}}/udp/239.255.3.41:9728
+#EXTINF:-1 tvg-id="馆陶" tvg-name="馆陶" tvg-logo="" group-title="其它",馆陶
+http://{{your_udpxy_address}}/udp/239.255.2.209:9242
+#EXTINF:-1 tvg-id="广平" tvg-name="广平" tvg-logo="" group-title="其它",广平
+http://{{your_udpxy_address}}/udp/239.255.2.202:9200
+#EXTINF:-1 tvg-id="广宗" tvg-name="广宗" tvg-logo="" group-title="其它",广宗
+http://{{your_udpxy_address}}/udp/239.255.2.195:9158
+#EXTINF:-1 tvg-id="邯郸公共" tvg-name="邯郸公共" tvg-logo="" group-title="其它",邯郸公共
+http://{{your_udpxy_address}}/udp/239.255.2.69:8402
+#EXTINF:-1 tvg-id="邯郸科教" tvg-name="邯郸科教" tvg-logo="" group-title="其它",邯郸科教
+http://{{your_udpxy_address}}/udp/239.255.2.70:8408
+#EXTINF:-1 tvg-id="邯郸综合" tvg-name="邯郸综合" tvg-logo="" group-title="其它",邯郸综合
+http://{{your_udpxy_address}}/udp/239.255.2.68:8396
+#EXTINF:-1 tvg-id="邯山" tvg-name="邯山" tvg-logo="" group-title="其它",邯山
+http://{{your_udpxy_address}}/udp/239.255.3.25:9650
+#EXTINF:-1 tvg-id="河北公共" tvg-name="河北公共" tvg-logo="" group-title="其它",河北公共
+http://{{your_udpxy_address}}/udp/239.255.2.24:8132
+#EXTINF:-1 tvg-id="河北影视" tvg-name="河北影视" tvg-logo="" group-title="其它",河北影视
+http://{{your_udpxy_address}}/udp/239.255.2.22:8120
+#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="{{your_logo_address}}/logo/黑莓电影.png" group-title="其它",黑莓电影
+http://{{your_udpxy_address}}/udp/239.255.5.173:20048
+#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="{{your_logo_address}}/logo/黑莓动画.png" group-title="其它",黑莓动画
+http://{{your_udpxy_address}}/udp/239.255.5.163:20008
+#EXTINF:-1 tvg-id="衡水公共" tvg-name="衡水公共" tvg-logo="" group-title="其它",衡水公共
+http://{{your_udpxy_address}}/udp/239.255.2.64:8372
+#EXTINF:-1 tvg-id="衡水新闻" tvg-name="衡水新闻" tvg-logo="" group-title="其它",衡水新闻
+http://{{your_udpxy_address}}/udp/239.255.2.62:8360
+#EXTINF:-1 tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="" group-title="其它",欢笑剧场4K
+http://{{your_udpxy_address}}/udp/239.255.3.80:9884
+#EXTINF:-1 tvg-id="黄骅" tvg-name="黄骅" tvg-logo="" group-title="其它",黄骅
+http://{{your_udpxy_address}}/udp/239.255.2.147:8870
+#EXTINF:-1 tvg-id="冀州" tvg-name="冀州" tvg-logo="" group-title="其它",冀州
+http://{{your_udpxy_address}}/udp/239.255.2.179:9062
+#EXTINF:-1 tvg-id="家家购物" tvg-name="家家购物" tvg-logo="{{your_logo_address}}/logo/家家购物.png" group-title="其它",家家购物
+http://{{your_udpxy_address}}/udp/239.255.3.144:9948
+#EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="" group-title="其它",家庭剧场
+http://{{your_udpxy_address}}/udp/239.255.5.168:20028
+#EXTINF:-1 tvg-id="家庭影院" tvg-name="家庭影院" tvg-logo="" group-title="其它",家庭影院
+http://{{your_udpxy_address}}/udp/239.255.3.77:9872
+#EXTINF:-1 tvg-id="家有购物" tvg-name="家有购物" tvg-logo="{{your_logo_address}}/logo/家有购物.png" group-title="其它",家有购物
+http://{{your_udpxy_address}}/udp/239.255.2.30:8168
+#EXTINF:-1 tvg-id="金牌综艺" tvg-name="金牌综艺" tvg-logo="" group-title="其它",金牌综艺
+http://{{your_udpxy_address}}/udp/239.255.5.176:20060
+#EXTINF:-1 tvg-id="晋州" tvg-name="晋州" tvg-logo="" group-title="其它",晋州
+http://{{your_udpxy_address}}/udp/239.255.3.38:9716
+#EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="" group-title="其它",惊悚悬疑
+http://{{your_udpxy_address}}/udp/239.255.5.169:20032
+#EXTINF:-1 tvg-id="精彩电视剧" tvg-name="精彩电视剧" tvg-logo="" group-title="其它",精彩电视剧
+http://{{your_udpxy_address}}/udp/239.255.5.72:8284
+#EXTINF:-1 tvg-id="精彩电影" tvg-name="精彩电影" tvg-logo="" group-title="其它",精彩电影
+http://{{your_udpxy_address}}/udp/239.255.5.71:8280
+#EXTINF:-1 tvg-id="精彩综艺" tvg-name="精彩综艺" tvg-logo="" group-title="其它",精彩综艺
+http://{{your_udpxy_address}}/udp/239.255.5.70:8276
+#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="" group-title="其它",精品大剧
+http://{{your_udpxy_address}}/udp/239.255.5.174:20052
+#EXTINF:-1 tvg-id="精品纪录" tvg-name="精品纪录" tvg-logo="" group-title="其它",精品纪录
+http://{{your_udpxy_address}}/udp/239.255.5.180:20076
+#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="" group-title="其它",精品体育
+http://{{your_udpxy_address}}/udp/239.255.5.182:20084
+#EXTINF:-1 tvg-id="井陉" tvg-name="井陉" tvg-logo="" group-title="其它",井陉
+http://{{your_udpxy_address}}/udp/239.255.3.208:10204
+#EXTINF:-1 tvg-id="景县" tvg-name="景县" tvg-logo="" group-title="其它",景县
+http://{{your_udpxy_address}}/udp/239.255.2.183:9086
+#EXTINF:-1 tvg-id="九屏导视" tvg-name="九屏导视" tvg-logo="" group-title="其它",九屏导视
+http://{{your_udpxy_address}}/udp/239.255.5.225:20256
+#EXTINF:-1 tvg-id="巨鹿" tvg-name="巨鹿" tvg-logo="" group-title="其它",巨鹿
+http://{{your_udpxy_address}}/udp/239.255.3.242:10340
+#EXTINF:-1 tvg-id="聚鲨环球精选" tvg-name="聚鲨环球精选" tvg-logo="{{your_logo_address}}/logo/聚鲨环球精选.png" group-title="其它",聚鲨环球精选
+http://{{your_udpxy_address}}/udp/239.255.2.31:8174
+#EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="" group-title="其它",军旅剧场
+http://{{your_udpxy_address}}/udp/239.255.5.167:20024
+#EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="" group-title="其它",军事评论
+http://{{your_udpxy_address}}/udp/239.255.5.177:20064
+#EXTINF:-1 tvg-id="康保" tvg-name="康保" tvg-logo="" group-title="其它",康保
+http://{{your_udpxy_address}}/udp/239.255.3.48:9756
+#EXTINF:-1 tvg-id="宽城" tvg-name="宽城" tvg-logo="" group-title="其它",宽城
+http://{{your_udpxy_address}}/udp/239.255.3.69:9520
+#EXTINF:-1 tvg-id="矿区" tvg-name="矿区" tvg-logo="" group-title="其它",矿区
+http://{{your_udpxy_address}}/udp/239.255.2.120:8708
+#EXTINF:-1 tvg-id="涞水" tvg-name="涞水" tvg-logo="" group-title="其它",涞水
+http://{{your_udpxy_address}}/udp/239.255.2.156:8924
+#EXTINF:-1 tvg-id="涞源" tvg-name="涞源" tvg-logo="" group-title="其它",涞源
+http://{{your_udpxy_address}}/udp/239.255.2.161:8954
+#EXTINF:-1 tvg-id="廊坊公共" tvg-name="廊坊公共" tvg-logo="" group-title="其它",廊坊公共
+http://{{your_udpxy_address}}/udp/239.255.2.54:8312
+#EXTINF:-1 tvg-id="廊坊综合" tvg-name="廊坊综合" tvg-logo="" group-title="其它",廊坊综合
+http://{{your_udpxy_address}}/udp/239.255.2.53:8306
+#EXTINF:-1 tvg-id="乐亭" tvg-name="乐亭" tvg-logo="" group-title="其它",乐亭
+http://{{your_udpxy_address}}/udp/239.255.2.210:9248
+#EXTINF:-1 tvg-id="临城" tvg-name="临城" tvg-logo="" group-title="其它",临城
+http://{{your_udpxy_address}}/udp/239.255.3.50:9764
+#EXTINF:-1 tvg-id="临西" tvg-name="临西" tvg-logo="" group-title="其它",临西
+http://{{your_udpxy_address}}/udp/239.255.3.173:9512
+#EXTINF:-1 tvg-id="临漳" tvg-name="临漳" tvg-logo="" group-title="其它",临漳
+http://{{your_udpxy_address}}/udp/239.255.2.204:9212
+#EXTINF:-1 tvg-id="隆化" tvg-name="隆化" tvg-logo="" group-title="其它",隆化
+http://{{your_udpxy_address}}/udp/239.255.3.71:9848
+#EXTINF:-1 tvg-id="隆尧" tvg-name="隆尧" tvg-logo="" group-title="其它",隆尧
+http://{{your_udpxy_address}}/udp/239.255.3.33:9688
+#EXTINF:-1 tvg-id="卢龙" tvg-name="卢龙" tvg-logo="" group-title="其它",卢龙
+http://{{your_udpxy_address}}/udp/239.255.3.210:10212
+#EXTINF:-1 tvg-id="栾城" tvg-name="栾城" tvg-logo="" group-title="其它",栾城
+http://{{your_udpxy_address}}/udp/239.255.2.119:8702
+#EXTINF:-1 tvg-id="滦南" tvg-name="滦南" tvg-logo="" group-title="其它",滦南
+http://{{your_udpxy_address}}/udp/239.255.2.134:8792
+#EXTINF:-1 tvg-id="滦平" tvg-name="滦平" tvg-logo="" group-title="其它",滦平
+http://{{your_udpxy_address}}/udp/239.255.2.123:8726
+#EXTINF:-1 tvg-id="滦州" tvg-name="滦州" tvg-logo="" group-title="其它",滦州
+http://{{your_udpxy_address}}/udp/239.255.2.138:8816
+#EXTINF:-1 tvg-id="满城" tvg-name="满城" tvg-logo="" group-title="其它",满城
+http://{{your_udpxy_address}}/udp/239.255.2.158:8936
+#EXTINF:-1 tvg-id="美丽河北" tvg-name="美丽河北" tvg-logo="" group-title="其它",美丽河北
+http://{{your_udpxy_address}}/udp/239.255.3.58:9516
+#EXTINF:-1 tvg-id="美丽河北" tvg-name="美丽河北" tvg-logo="" group-title="其它",美丽河北
+http://{{your_udpxy_address}}/udp/239.255.3.127:9520
+#EXTINF:-1 tvg-id="美丽河北" tvg-name="美丽河北" tvg-logo="" group-title="其它",美丽河北
+http://{{your_udpxy_address}}/udp/239.255.3.128:9524
+#EXTINF:-1 tvg-id="美丽河北" tvg-name="美丽河北" tvg-logo="" group-title="其它",美丽河北
+http://{{your_udpxy_address}}/udp/239.255.3.133:9528
+#EXTINF:-1 tvg-id="咪咕视频1" tvg-name="咪咕视频1" tvg-logo="" group-title="其它",咪咕视频1
+http://{{your_udpxy_address}}/udp/239.255.3.220:10252
+#EXTINF:-1 tvg-id="农业致富" tvg-name="农业致富" tvg-logo="" group-title="其它",农业致富
+http://{{your_udpxy_address}}/udp/239.255.5.178:20068
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="{{your_logo_address}}/logo/女性时尚.png" group-title="其它",女性时尚
+http://{{your_udpxy_address}}/udp/239.255.5.42:8164
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="{{your_logo_address}}/logo/求索纪录.png" group-title="其它",求索纪录
+http://{{your_udpxy_address}}/udp/239.255.3.140:9932
+#EXTINF:-1 tvg-id="三佳购物" tvg-name="三佳购物" tvg-logo="{{your_logo_address}}/logo/三佳购物.png" group-title="其它",三佳购物
+http://{{your_udpxy_address}}/udp/239.255.2.27:8150
+#EXTINF:-1 tvg-id="石家庄都市" tvg-name="石家庄都市" tvg-logo="" group-title="其它",石家庄都市
+http://{{your_udpxy_address}}/udp/239.255.2.36:8204
+#EXTINF:-1 tvg-id="石家庄生活" tvg-name="石家庄生活" tvg-logo="" group-title="其它",石家庄生活
+http://{{your_udpxy_address}}/udp/239.255.2.35:8198
+#EXTINF:-1 tvg-id="石家庄新闻综合" tvg-name="石家庄新闻综合" tvg-logo="" group-title="其它",石家庄新闻综合
+http://{{your_udpxy_address}}/udp/239.255.2.33:8186
+#EXTINF:-1 tvg-id="石家庄娱乐" tvg-name="石家庄娱乐" tvg-logo="" group-title="其它",石家庄娱乐
+http://{{your_udpxy_address}}/udp/239.255.2.34:8192
+#EXTINF:-1 tvg-id="时尚购物" tvg-name="时尚购物" tvg-logo="{{your_logo_address}}/logo/时尚购物.png" group-title="其它",时尚购物
+http://{{your_udpxy_address}}/udp/239.255.2.32:8180
+#EXTINF:-1 tvg-id="武搏世界" tvg-name="武搏世界" tvg-logo="" group-title="其它",武搏世界
+http://{{your_udpxy_address}}/udp/239.255.5.171:20040
+#EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="{{your_logo_address}}/logo/央广购物.png" group-title="其它",央广购物
+http://{{your_udpxy_address}}/udp/239.255.3.166:10036
+#EXTINF:-1 tvg-id="影迷电影" tvg-name="影迷电影" tvg-logo="{{your_logo_address}}/logo/影迷电影.png" group-title="其它",影迷电影
+http://{{your_udpxy_address}}/udp/239.255.3.78:9876
+#EXTINF:-1 tvg-id="优购物" tvg-name="优购物" tvg-logo="{{your_logo_address}}/logo/优购物.png" group-title="其它",优购物
+http://{{your_udpxy_address}}/udp/239.255.2.28:8156
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="{{your_logo_address}}/logo/优漫卡通.png" group-title="其它",优漫卡通
+http://{{your_udpxy_address}}/udp/239.255.3.195:10152
+#EXTINF:-1 tvg-id="张家口1" tvg-name="张家口1" tvg-logo="" group-title="其它",张家口1
+http://{{your_udpxy_address}}/udp/239.255.2.41:8234
+#EXTINF:-1 tvg-id="秦皇岛1" tvg-name="秦皇岛1" tvg-logo="" group-title="其它",秦皇岛1
+http://{{your_udpxy_address}}/udp/239.255.2.45:8258
+#EXTINF:-1 tvg-id="咪咕视频2" tvg-name="咪咕视频2" tvg-logo="" group-title="其它",咪咕视频2
+http://{{your_udpxy_address}}/udp/239.255.3.221:10256
+#EXTINF:-1 tvg-id="张家口2" tvg-name="张家口2" tvg-logo="" group-title="其它",张家口2
+http://{{your_udpxy_address}}/udp/239.255.2.42:8240
+#EXTINF:-1 tvg-id="秦皇岛2" tvg-name="秦皇岛2" tvg-logo="" group-title="其它",秦皇岛2
+http://{{your_udpxy_address}}/udp/239.255.2.46:8264
+#EXTINF:-1 tvg-id="咪咕视频3" tvg-name="咪咕视频3" tvg-logo="" group-title="其它",咪咕视频3
+http://{{your_udpxy_address}}/udp/239.255.3.222:10260
+#EXTINF:-1 tvg-id="秦皇岛3" tvg-name="秦皇岛3" tvg-logo="" group-title="其它",秦皇岛3
+http://{{your_udpxy_address}}/udp/239.255.2.47:8270
+#EXTINF:-1 tvg-id="咪咕视频4" tvg-name="咪咕视频4" tvg-logo="" group-title="其它",咪咕视频4
+http://{{your_udpxy_address}}/udp/239.255.3.223:10264
+#EXTINF:-1 tvg-id="咪咕视频5" tvg-name="咪咕视频5" tvg-logo="" group-title="其它",咪咕视频5
+http://{{your_udpxy_address}}/udp/239.255.3.224:10268
+#EXTINF:-1 tvg-id="咪咕视频6" tvg-name="咪咕视频6" tvg-logo="" group-title="其它",咪咕视频6
+http://{{your_udpxy_address}}/udp/239.255.3.225:10272
+#EXTINF:-1 tvg-id="咪咕视频7" tvg-name="咪咕视频7" tvg-logo="" group-title="其它",咪咕视频7
+http://{{your_udpxy_address}}/udp/239.255.3.226:10276
+#EXTINF:-1 tvg-id="咪咕视频8" tvg-name="咪咕视频8" tvg-logo="" group-title="其它",咪咕视频8
+http://{{your_udpxy_address}}/udp/239.255.3.227:10280
+#EXTINF:-1 tvg-id="咪咕视频9" tvg-name="咪咕视频9" tvg-logo="" group-title="其它",咪咕视频9
+http://{{your_udpxy_address}}/udp/239.255.3.233:10304
+#EXTINF:-1 tvg-id="咪咕视频10" tvg-name="咪咕视频10" tvg-logo="" group-title="其它",咪咕视频10
+http://{{your_udpxy_address}}/udp/239.255.3.234:10308
+#EXTINF:-1 tvg-id="咪咕视频11" tvg-name="咪咕视频11" tvg-logo="" group-title="其它",咪咕视频11
+http://{{your_udpxy_address}}/udp/239.255.3.235:10312
+#EXTINF:-1 tvg-id="咪咕视频12" tvg-name="咪咕视频12" tvg-logo="" group-title="其它",咪咕视频12
+http://{{your_udpxy_address}}/udp/239.255.3.236:10316
+#EXTINF:-1 tvg-id="咪咕视频13" tvg-name="咪咕视频13" tvg-logo="" group-title="其它",咪咕视频13
+http://{{your_udpxy_address}}/udp/239.255.3.237:10320
+#EXTINF:-1 tvg-id="咪咕视频14" tvg-name="咪咕视频14" tvg-logo="" group-title="其它",咪咕视频14
+http://{{your_udpxy_address}}/udp/239.255.3.239:10328
+#EXTINF:-1 tvg-id="南和" tvg-name="南和" tvg-logo="" group-title="其它",南和
+http://{{your_udpxy_address}}/udp/239.255.2.203:9206
+#EXTINF:-1 tvg-id="南皮" tvg-name="南皮" tvg-logo="" group-title="其它",南皮
+http://{{your_udpxy_address}}/udp/239.255.3.29:9669
+#EXTINF:-1 tvg-id="宁晋" tvg-name="宁晋" tvg-logo="" group-title="其它",宁晋
+http://{{your_udpxy_address}}/udp/239.255.2.198:9176
+#EXTINF:-1 tvg-id="平泉" tvg-name="平泉" tvg-logo="" group-title="其它",平泉
+http://{{your_udpxy_address}}/udp/239.255.3.23:9638
+#EXTINF:-1 tvg-id="平乡" tvg-name="平乡" tvg-logo="" group-title="其它",平乡
+http://{{your_udpxy_address}}/udp/239.255.2.200:9188
+#EXTINF:-1 tvg-id="迁安" tvg-name="迁安" tvg-logo="" group-title="其它",迁安
+http://{{your_udpxy_address}}/udp/239.255.2.207:9230
+#EXTINF:-1 tvg-id="青县" tvg-name="青县" tvg-logo="" group-title="其它",青县
+http://{{your_udpxy_address}}/udp/239.255.2.152:8900
+#EXTINF:-1 tvg-id="清河" tvg-name="清河" tvg-logo="" group-title="其它",清河
+http://{{your_udpxy_address}}/udp/239.255.2.191:9134
+#EXTINF:-1 tvg-id="清苑" tvg-name="清苑" tvg-logo="" group-title="其它",清苑
+http://{{your_udpxy_address}}/udp/239.255.2.163:8966
+#EXTINF:-1 tvg-id="邱县" tvg-name="邱县" tvg-logo="" group-title="其它",邱县
+http://{{your_udpxy_address}}/udp/239.255.3.40:9724
+#EXTINF:-1 tvg-id="曲阳" tvg-name="曲阳" tvg-logo="" group-title="其它",曲阳
+http://{{your_udpxy_address}}/udp/239.255.2.170:9008
+#EXTINF:-1 tvg-id="曲周" tvg-name="曲周" tvg-logo="" group-title="其它",曲周
+http://{{your_udpxy_address}}/udp/239.255.2.213:9266
+#EXTINF:-1 tvg-id="饶阳" tvg-name="饶阳" tvg-logo="" group-title="其它",饶阳
+http://{{your_udpxy_address}}/udp/239.255.2.185:9098
+#EXTINF:-1 tvg-id="任泽" tvg-name="任泽" tvg-logo="" group-title="其它",任泽
+http://{{your_udpxy_address}}/udp/239.255.3.24:9644
+#EXTINF:-1 tvg-id="三河" tvg-name="三河" tvg-logo="" group-title="其它",三河
+http://{{your_udpxy_address}}/udp/239.255.3.28:9668
+#EXTINF:-1 tvg-id="沙河" tvg-name="沙河" tvg-logo="" group-title="其它",沙河
+http://{{your_udpxy_address}}/udp/239.255.2.211:9254
+#EXTINF:-1 tvg-id="尚义" tvg-name="尚义" tvg-logo="" group-title="其它",尚义
+http://{{your_udpxy_address}}/udp/239.255.3.46:9748
+#EXTINF:-1 tvg-id="涉县" tvg-name="涉县" tvg-logo="" group-title="其它",涉县
+http://{{your_udpxy_address}}/udp/239.255.2.206:9224
+#EXTINF:-1 tvg-id="深泽" tvg-name="深泽" tvg-logo="" group-title="其它",深泽
+http://{{your_udpxy_address}}/udp/239.255.3.31:9676
+#EXTINF:-1 tvg-id="深州" tvg-name="深州" tvg-logo="" group-title="其它",深州
+http://{{your_udpxy_address}}/udp/239.255.2.187:9110
+#EXTINF:-1 tvg-id="双滦" tvg-name="双滦" tvg-logo="" group-title="其它",双滦
+http://{{your_udpxy_address}}/udp/239.255.2.125:8738
+#EXTINF:-1 tvg-id="顺平" tvg-name="顺平" tvg-logo="" group-title="其它",顺平
+http://{{your_udpxy_address}}/udp/239.255.3.27:9662
+#EXTINF:-1 tvg-id="肃宁" tvg-name="肃宁" tvg-logo="" group-title="其它",肃宁
+http://{{your_udpxy_address}}/udp/239.255.3.30:9670
+#EXTINF:-1 tvg-id="唐山公共" tvg-name="唐山公共" tvg-logo="" group-title="其它",唐山公共
+http://{{your_udpxy_address}}/udp/239.255.2.51:8294
+#EXTINF:-1 tvg-id="唐山影视" tvg-name="唐山影视" tvg-logo="" group-title="其它",唐山影视
+http://{{your_udpxy_address}}/udp/239.255.2.50:8288
+#EXTINF:-1 tvg-id="唐山综合" tvg-name="唐山综合" tvg-logo="" group-title="其它",唐山综合
+http://{{your_udpxy_address}}/udp/239.255.2.48:8276
+#EXTINF:-1 tvg-id="唐县" tvg-name="唐县" tvg-logo="" group-title="其它",唐县
+http://{{your_udpxy_address}}/udp/239.255.2.169:9002
+#EXTINF:-1 tvg-id="望都" tvg-name="望都" tvg-logo="" group-title="其它",望都
+http://{{your_udpxy_address}}/udp/239.255.2.171:9014
+#EXTINF:-1 tvg-id="未知" tvg-name="未知" tvg-logo="" group-title="其它",未知
+http://{{your_udpxy_address}}/udp/239.255.3.205:10192
+#EXTINF:-1 tvg-id="魏县" tvg-name="魏县" tvg-logo="" group-title="其它",魏县
+http://{{your_udpxy_address}}/udp/239.255.3.148:9964
+#EXTINF:-1 tvg-id="文安" tvg-name="文安" tvg-logo="" group-title="其它",文安
+http://{{your_udpxy_address}}/udp/239.255.2.145:8858
+#EXTINF:-1 tvg-id="无极" tvg-name="无极" tvg-logo="" group-title="其它",无极
+http://{{your_udpxy_address}}/udp/239.255.2.115:8678
+#EXTINF:-1 tvg-id="吴桥" tvg-name="吴桥" tvg-logo="" group-title="其它",吴桥
+http://{{your_udpxy_address}}/udp/239.255.3.51:9768
+#EXTINF:-1 tvg-id="邢台生活" tvg-name="邢台生活" tvg-logo="" group-title="其它",邢台生活
+http://{{your_udpxy_address}}/udp/239.255.2.67:8390
+#EXTINF:-1 tvg-id="邢台综合" tvg-name="邢台综合" tvg-logo="" group-title="其它",邢台综合
+http://{{your_udpxy_address}}/udp/239.255.2.65:8378
+#EXTINF:-1 tvg-id="兴隆" tvg-name="兴隆" tvg-logo="" group-title="其它",兴隆
+http://{{your_udpxy_address}}/udp/239.255.2.127:8750
+#EXTINF:-1 tvg-id="徐水" tvg-name="徐水" tvg-logo="" group-title="其它",徐水
+http://{{your_udpxy_address}}/udp/239.255.3.147:9960
+#EXTINF:-1 tvg-id="盐山" tvg-name="盐山" tvg-logo="" group-title="其它",盐山
+http://{{your_udpxy_address}}/udp/239.255.3.32:9682
+#EXTINF:-1 tvg-id="永清" tvg-name="永清" tvg-logo="" group-title="其它",永清
+http://{{your_udpxy_address}}/udp/239.255.3.54:9780
+#EXTINF:-1 tvg-id="玉田" tvg-name="玉田" tvg-logo="" group-title="其它",玉田
+http://{{your_udpxy_address}}/udp/239.255.2.136:8804
+#EXTINF:-1 tvg-id="元氏" tvg-name="元氏" tvg-logo="" group-title="其它",元氏
+http://{{your_udpxy_address}}/udp/239.255.2.114:8672
+#EXTINF:-1 tvg-id="赞皇" tvg-name="赞皇" tvg-logo="" group-title="其它",赞皇
+http://{{your_udpxy_address}}/udp/239.255.2.121:8714
+#EXTINF:-1 tvg-id="枣强" tvg-name="枣强" tvg-logo="" group-title="其它",枣强
+http://{{your_udpxy_address}}/udp/239.255.3.45:9744
+#EXTINF:-1 tvg-id="张北" tvg-name="张北" tvg-logo="" group-title="其它",张北
+http://{{your_udpxy_address}}/udp/239.255.3.42:9732
+#EXTINF:-1 tvg-id="赵县" tvg-name="赵县" tvg-logo="" group-title="其它",赵县
+http://{{your_udpxy_address}}/udp/239.255.2.122:8720
+#EXTINF:-1 tvg-id="证券服务" tvg-name="证券服务" tvg-logo="{{your_logo_address}}/logo/证券服务.png" group-title="其它",证券服务
+http://{{your_udpxy_address}}/udp/239.255.3.248:10364
+#EXTINF:-1 tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="" group-title="其它",中国功夫
+http://{{your_udpxy_address}}/udp/239.255.5.175:20056
+#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="{{your_logo_address}}/logo/中国交通.png" group-title="其它",中国交通
+http://{{your_udpxy_address}}/udp/239.255.2.110:8648
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="{{your_logo_address}}/logo/中学生.png" group-title="其它",中学生
+http://{{your_udpxy_address}}/udp/239.255.3.165:10032
+#EXTINF:-1 tvg-id="涿州" tvg-name="涿州" tvg-logo="" group-title="其它",涿州
+http://{{your_udpxy_address}}/udp/239.255.2.166:8984
+#EXTINF:-1 tvg-id="遵化" tvg-name="遵化" tvg-logo="" group-title="其它",遵化
+http://{{your_udpxy_address}}/udp/239.255.3.146:9956
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="{{your_logo_address}}/logo/CCTV4K.png" group-title="其它",CCTV4K
+http://{{your_udpxy_address}}/udp/239.255.3.150:9972

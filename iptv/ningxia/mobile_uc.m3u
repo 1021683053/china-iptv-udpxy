@@ -1,0 +1,193 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="{{your_logo_address}}/logo/CCTV1.png" group-title="央视",CCTV1
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv1HD/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv1HD&livemode=1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="{{your_logo_address}}/logo/CCTV2.png" group-title="央视",CCTV2
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv2HD/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv2HD&livemode=1
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="{{your_logo_address}}/logo/CCTV3.png" group-title="央视",CCTV3
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv3HD/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv3HD&livemode=1
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="{{your_logo_address}}/logo/CCTV4.png" group-title="央视",CCTV4
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv4HD/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv4HD&livemode=1
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="{{your_logo_address}}/logo/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv4Eu/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv4Eu&livemode=1
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="{{your_logo_address}}/logo/CCTV4美洲.png" group-title="央视",CCTV4美洲
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv4Am/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv4Am&livemode=1
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="{{your_logo_address}}/logo/CCTV5.png" group-title="央视",CCTV5
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv5HD/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv5HD&livemode=1
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="{{your_logo_address}}/logo/CCTV5+.png" group-title="央视",CCTV5+
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv5-HD/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv5-HD&livemode=1
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="{{your_logo_address}}/logo/CCTV6.png" group-title="央视",CCTV6
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv6HD/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv6HD&livemode=1
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="{{your_logo_address}}/logo/CCTV7.png" group-title="央视",CCTV7
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv7HD/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv7HD&livemode=1
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="{{your_logo_address}}/logo/CCTV8.png" group-title="央视",CCTV8
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv8HD/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv8HD&livemode=1
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="{{your_logo_address}}/logo/CCTV9.png" group-title="央视",CCTV9
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv9HD/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv9HD&livemode=1
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="{{your_logo_address}}/logo/CCTV10.png" group-title="央视",CCTV10
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv10HD/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv10HD&livemode=1
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="{{your_logo_address}}/logo/CCTV11.png" group-title="央视",CCTV11
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv11/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv11&livemode=1
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="{{your_logo_address}}/logo/CCTV12.png" group-title="央视",CCTV12
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv12HD/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv12HD&livemode=1
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="{{your_logo_address}}/logo/CCTV14.png" group-title="央视",CCTV14
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv14HD/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv14HD&livemode=1
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="{{your_logo_address}}/logo/CCTV17.png" group-title="央视",CCTV17
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv17HD/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv17HD&livemode=1
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="{{your_logo_address}}/logo/CGTN.png" group-title="央视",CGTN
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cgtn/1.m3u8?channel-id=ystenlive&Contentid=gd_cgtn&livemode=1
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="{{your_logo_address}}/logo/CGTN.png" group-title="央视",CGTN
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cgtn-en/1.m3u8?channel-id=ystenlive&Contentid=gd_cgtn-en&livemode=1
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="{{your_logo_address}}/logo/CGTN西语.png" group-title="央视",CGTN西语
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cgtn-xby/1.m3u8?channel-id=ystenlive&Contentid=gd_cgtn-xby&livemode=1
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="{{your_logo_address}}/logo/CGTN法语.png" group-title="央视",CGTN法语
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cgtn-Fr/1.m3u8?channel-id=ystenlive&Contentid=gd_cgtn-Fr&livemode=1
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="{{your_logo_address}}/logo/CGTN俄语.png" group-title="央视",CGTN俄语
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cgtn-eyu/1.m3u8?channel-id=ystenlive&Contentid=gd_cgtn-eyu&livemode=1
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="{{your_logo_address}}/logo/CGTN阿语.png" group-title="央视",CGTN阿语
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cgtn-alabo/1.m3u8?channel-id=ystenlive&Contentid=gd_cgtn-alabo&livemode=1
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="{{your_logo_address}}/logo/CGTN纪录.png" group-title="央视",CGTN纪录
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cgtn-jilu/1.m3u8?channel-id=ystenlive&Contentid=gd_cgtn-jilu&livemode=1
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="{{your_logo_address}}/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_anhuiHD/1.m3u8?channel-id=ystenlive&Contentid=gd_anhuiHD&livemode=1
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="{{your_logo_address}}/logo/北京卫视.png" group-title="卫视",北京卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_beijingHD/1.m3u8?channel-id=ystenlive&Contentid=gd_beijingHD&livemode=1
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="{{your_logo_address}}/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_chongqingHD/1.m3u8?channel-id=ystenlive&Contentid=gd_chongqingHD&livemode=1
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="{{your_logo_address}}/logo/东方卫视.png" group-title="卫视",东方卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_dongfangHD/1.m3u8?channel-id=ystenlive&Contentid=gd_dongfangHD&livemode=1
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="{{your_logo_address}}/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_gansu/1.m3u8?channel-id=ystenlive&Contentid=gd_gansu&livemode=1
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="{{your_logo_address}}/logo/广东卫视.png" group-title="卫视",广东卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_guangdongHD/1.m3u8?channel-id=ystenlive&Contentid=gd_guangdongHD&livemode=1
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="{{your_logo_address}}/logo/广西卫视.png" group-title="卫视",广西卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_guangxi/1.m3u8?channel-id=ystenlive&Contentid=gd_guangxi&livemode=1
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="{{your_logo_address}}/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_guizhouHD/1.m3u8?channel-id=ystenlive&Contentid=gd_guizhouHD&livemode=1
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="{{your_logo_address}}/logo/海南卫视.png" group-title="卫视",海南卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_hainan/1.m3u8?channel-id=ystenlive&Contentid=gd_hainan&livemode=1
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="{{your_logo_address}}/logo/河北卫视.png" group-title="卫视",河北卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_hebeiHD/1.m3u8?channel-id=ystenlive&Contentid=gd_hebeiHD&livemode=1
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="{{your_logo_address}}/logo/河南卫视.png" group-title="卫视",河南卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_henan/1.m3u8?channel-id=ystenlive&Contentid=gd_henan&livemode=1
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="{{your_logo_address}}/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_heilongjiangHD/1.m3u8?channel-id=ystenlive&Contentid=gd_heilongjiangHD&livemode=1
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="{{your_logo_address}}/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_hubeiHD/1.m3u8?channel-id=ystenlive&Contentid=gd_hubeiHD&livemode=1
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="{{your_logo_address}}/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_hunanHD/1.m3u8?channel-id=ystenlive&Contentid=gd_hunanHD&livemode=1
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="{{your_logo_address}}/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_jilinHD/1.m3u8?channel-id=ystenlive&Contentid=gd_jilinHD&livemode=1
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="{{your_logo_address}}/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_jiangsuHD/1.m3u8?channel-id=ystenlive&Contentid=gd_jiangsuHD&livemode=1
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="{{your_logo_address}}/logo/江西卫视.png" group-title="卫视",江西卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_jiangxiHD/1.m3u8?channel-id=ystenlive&Contentid=gd_jiangxiHD&livemode=1
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="{{your_logo_address}}/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_liaoningHD/1.m3u8?channel-id=ystenlive&Contentid=gd_liaoningHD&livemode=1
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="{{your_logo_address}}/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_neimenggu/1.m3u8?channel-id=ystenlive&Contentid=gd_neimenggu&livemode=1
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="{{your_logo_address}}/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_nxweishiHD/1.m3u8?channel-id=ystenlive&Contentid=gd_nxweishiHD&livemode=1
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="{{your_logo_address}}/logo/青海卫视.png" group-title="卫视",青海卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_qinghgai/1.m3u8?channel-id=ystenlive&Contentid=gd_qinghgai&livemode=1
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="{{your_logo_address}}/logo/山东卫视.png" group-title="卫视",山东卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_shandongHD/1.m3u8?channel-id=ystenlive&Contentid=gd_shandongHD&livemode=1
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="{{your_logo_address}}/logo/山西卫视.png" group-title="卫视",山西卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_shanxi/1.m3u8?channel-id=ystenlive&Contentid=gd_shanxi&livemode=1
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="{{your_logo_address}}/logo/陕西卫视.png" group-title="卫视",陕西卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_shaanxi/1.m3u8?channel-id=ystenlive&Contentid=gd_shaanxi&livemode=1
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="{{your_logo_address}}/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_shenzhenHD/1.m3u8?channel-id=ystenlive&Contentid=gd_shenzhenHD&livemode=1
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="{{your_logo_address}}/logo/四川卫视.png" group-title="卫视",四川卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_sichuanHD/1.m3u8?channel-id=ystenlive&Contentid=gd_sichuanHD&livemode=1
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="{{your_logo_address}}/logo/天津卫视.png" group-title="卫视",天津卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_tianjingHD/1.m3u8?channel-id=ystenlive&Contentid=gd_tianjingHD&livemode=1
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="{{your_logo_address}}/logo/西藏卫视.png" group-title="卫视",西藏卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_xizang/1.m3u8?channel-id=ystenlive&Contentid=gd_xizang&livemode=1
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="{{your_logo_address}}/logo/新疆卫视.png" group-title="卫视",新疆卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_xinjiang/1.m3u8?channel-id=ystenlive&Contentid=gd_xinjiang&livemode=1
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="{{your_logo_address}}/logo/云南卫视.png" group-title="卫视",云南卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_yunnan/1.m3u8?channel-id=ystenlive&Contentid=gd_yunnan&livemode=1
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="{{your_logo_address}}/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_zhejiangHD/1.m3u8?channel-id=ystenlive&Contentid=gd_zhejiangHD&livemode=1
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="{{your_logo_address}}/logo/卡酷少儿.png" group-title="地方",卡酷少儿
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_kakudonghua/1.m3u8?channel-id=ystenlive&Contentid=gd_kakudonghua&livemode=1
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="{{your_logo_address}}/logo/东南卫视.png" group-title="地方",东南卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_dongnanHD/1.m3u8?channel-id=ystenlive&Contentid=gd_dongnanHD&livemode=1
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="{{your_logo_address}}/logo/嘉佳卡通.png" group-title="地方",嘉佳卡通
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_jiajiakatong/1.m3u8?channel-id=ystenlive&Contentid=gd_jiajiakatong&livemode=1
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="{{your_logo_address}}/logo/三沙卫视.png" group-title="地方",三沙卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_sansha/1.m3u8?channel-id=ystenlive&Contentid=gd_sansha&livemode=1
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="{{your_logo_address}}/logo/金鹰卡通.png" group-title="地方",金鹰卡通
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_jinyingkatong/1.m3u8?channel-id=ystenlive&Contentid=gd_jinyingkatong&livemode=1
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="{{your_logo_address}}/logo/金鹰纪实.png" group-title="地方",金鹰纪实
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_jinyingjishiHD/1.m3u8?channel-id=ystenlive&Contentid=gd_jinyingjishiHD&livemode=1
+#EXTINF:-1 tvg-id="宁夏公共" tvg-name="宁夏公共" tvg-logo="" group-title="地方",宁夏公共
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_nxgonggongHD/1.m3u8?channel-id=ystenlive&Contentid=gd_nxgonggongHD&livemode=1
+#EXTINF:-1 tvg-id="宁夏经济" tvg-name="宁夏经济" tvg-logo="" group-title="地方",宁夏经济
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_nxjingjiHD/1.m3u8?channel-id=ystenlive&Contentid=gd_nxjingjiHD&livemode=1
+#EXTINF:-1 tvg-id="宁夏文旅" tvg-name="宁夏文旅" tvg-logo="" group-title="地方",宁夏文旅
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_nxyingshiHD/1.m3u8?channel-id=ystenlive&Contentid=gd_nxyingshiHD&livemode=1
+#EXTINF:-1 tvg-id="宁夏少儿" tvg-name="宁夏少儿" tvg-logo="" group-title="地方",宁夏少儿
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_nxshaoerHD/1.m3u8?channel-id=ystenlive&Contentid=gd_nxshaoerHD&livemode=1
+#EXTINF:-1 tvg-id="宁夏教育" tvg-name="宁夏教育" tvg-logo="" group-title="地方",宁夏教育
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_nxjiaoyuHD/1.m3u8?channel-id=ystenlive&Contentid=gd_nxjiaoyuHD&livemode=1
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="{{your_logo_address}}/logo/兵团卫视.png" group-title="地方",兵团卫视
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_bingtuan/1.m3u8?channel-id=ystenlive&Contentid=gd_bingtuan&livemode=1
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="{{your_logo_address}}/logo/CETV1.png" group-title="教育",CETV1
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cetv1HD/1.m3u8?channel-id=ystenlive&Contentid=gd_cetv1HD&livemode=1
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="{{your_logo_address}}/logo/CETV2.png" group-title="教育",CETV2
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cetv2/1.m3u8?channel-id=ystenlive&Contentid=gd_cetv2&livemode=1
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="{{your_logo_address}}/logo/CETV4.png" group-title="教育",CETV4
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cetv4/1.m3u8?channel-id=ystenlive&Contentid=gd_cetv4&livemode=1
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="{{your_logo_address}}/logo/财富天下.png" group-title="其它",财富天下
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_caifutianxia/1.m3u8?channel-id=ystenlive&Contentid=gd_caifutianxia&livemode=1
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="{{your_logo_address}}/logo/茶.png" group-title="其它",茶
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_teaHD/1.m3u8?channel-id=ystenlive&Contentid=gd_teaHD&livemode=1
+#EXTINF:-1 tvg-id="贺兰新闻综合" tvg-name="贺兰新闻综合" tvg-logo="" group-title="其它",贺兰新闻综合
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_helannews/1.m3u8?channel-id=ystenlive&Contentid=gd_helannews&livemode=1
+#EXTINF:-1 tvg-id="红寺堡电视台" tvg-name="红寺堡电视台" tvg-logo="" group-title="其它",红寺堡电视台
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_hongsipu/1.m3u8?channel-id=ystenlive&Contentid=gd_hongsipu&livemode=1
+#EXTINF:-1 tvg-id="家有购物移动" tvg-name="家有购物移动" tvg-logo="" group-title="其它",家有购物移动
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_jiayougouwu/1.m3u8?channel-id=ystenlive&Contentid=gd_jiayougouwu&livemode=1
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="{{your_logo_address}}/logo/快乐垂钓.png" group-title="其它",快乐垂钓
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_kuailechuidiao/1.m3u8?channel-id=ystenlive&Contentid=gd_kuailechuidiao&livemode=1
+#EXTINF:-1 tvg-id="灵武" tvg-name="灵武" tvg-logo="" group-title="其它",灵武
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_lingwu/1.m3u8?channel-id=ystenlive&Contentid=gd_lingwu&livemode=1
+#EXTINF:-1 tvg-id="宁煤" tvg-name="宁煤" tvg-logo="" group-title="其它",宁煤
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_ningmei/1.m3u8?channel-id=ystenlive&Contentid=gd_ningmei&livemode=1
+#EXTINF:-1 tvg-id="平罗" tvg-name="平罗" tvg-logo="" group-title="其它",平罗
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_pingluo/1.m3u8?channel-id=ystenlive&Contentid=gd_pingluo&livemode=1
+#EXTINF:-1 tvg-id="青铜峡公共" tvg-name="青铜峡公共" tvg-logo="" group-title="其它",青铜峡公共
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_qingtongxia/1.m3u8?channel-id=ystenlive&Contentid=gd_qingtongxia&livemode=1
+#EXTINF:-1 tvg-id="石嘴山公共" tvg-name="石嘴山公共" tvg-logo="" group-title="其它",石嘴山公共
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_szsgonggong/1.m3u8?channel-id=ystenlive&Contentid=gd_szsgonggong&livemode=1
+#EXTINF:-1 tvg-id="石嘴山综合" tvg-name="石嘴山综合" tvg-logo="" group-title="其它",石嘴山综合
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_szszonghe/1.m3u8?channel-id=ystenlive&Contentid=gd_szszonghe&livemode=1
+#EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="{{your_logo_address}}/logo/天元围棋.png" group-title="其它",天元围棋
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_tianyuanweiqi/1.m3u8?channel-id=ystenlive&Contentid=gd_tianyuanweiqi&livemode=1
+#EXTINF:-1 tvg-id="同心" tvg-name="同心" tvg-logo="" group-title="其它",同心
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_tongxin/1.m3u8?channel-id=ystenlive&Contentid=gd_tongxin&livemode=1
+#EXTINF:-1 tvg-id="吴忠公共" tvg-name="吴忠公共" tvg-logo="" group-title="其它",吴忠公共
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_wzgonggong/1.m3u8?channel-id=ystenlive&Contentid=gd_wzgonggong&livemode=1
+#EXTINF:-1 tvg-id="吴忠综合" tvg-name="吴忠综合" tvg-logo="" group-title="其它",吴忠综合
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_wzzonghe/1.m3u8?channel-id=ystenlive&Contentid=gd_wzzonghe&livemode=1
+#EXTINF:-1 tvg-id="盐池" tvg-name="盐池" tvg-logo="" group-title="其它",盐池
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_yanchi/1.m3u8?channel-id=ystenlive&Contentid=gd_yanchi&livemode=1
+#EXTINF:-1 tvg-id="银川公共" tvg-name="银川公共" tvg-logo="" group-title="其它",银川公共
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_ycgonggong/1.m3u8?channel-id=ystenlive&Contentid=gd_ycgonggong&livemode=1
+#EXTINF:-1 tvg-id="银川生活" tvg-name="银川生活" tvg-logo="" group-title="其它",银川生活
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_ycshenghuo/1.m3u8?channel-id=ystenlive&Contentid=gd_ycshenghuo&livemode=1
+#EXTINF:-1 tvg-id="银川文体" tvg-name="银川文体" tvg-logo="" group-title="其它",银川文体
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_ycwenti/1.m3u8?channel-id=ystenlive&Contentid=gd_ycwenti&livemode=1
+#EXTINF:-1 tvg-id="永宁" tvg-name="永宁" tvg-logo="" group-title="其它",永宁
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_yongning/1.m3u8?channel-id=ystenlive&Contentid=gd_yongning&livemode=1
+#EXTINF:-1 tvg-id="中宁综合" tvg-name="中宁综合" tvg-logo="" group-title="其它",中宁综合
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_zhongning/1.m3u8?channel-id=ystenlive&Contentid=gd_zhongning&livemode=1
+#EXTINF:-1 tvg-id="中卫综合" tvg-name="中卫综合" tvg-logo="" group-title="其它",中卫综合
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_zwzonghe/1.m3u8?channel-id=ystenlive&Contentid=gd_zwzonghe&livemode=1
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="{{your_logo_address}}/logo/CCTV4K.png" group-title="其它",CCTV4K
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv-4K/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv-4K&livemode=1
+#EXTINF:-1 tvg-id="CCTV新闻" tvg-name="CCTV新闻" tvg-logo="" group-title="其它",CCTV新闻
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv13/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv13&livemode=1
+#EXTINF:-1 tvg-id="CCTV音乐" tvg-name="CCTV音乐" tvg-logo="" group-title="其它",CCTV音乐
+http://gslbserv.itv.cmvideo.cn:80/000000001000/gd_cctv15/1.m3u8?channel-id=ystenlive&Contentid=gd_cctv15&livemode=1

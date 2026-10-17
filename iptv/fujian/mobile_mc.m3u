@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="北京卫视4K超高清" tvg-name="北京卫视4K超高清" tvg-logo="" group-title="卫视",北京卫视4K超高清
+http://{{your_udpxy_address}}/udp/239.253.0.53:1025

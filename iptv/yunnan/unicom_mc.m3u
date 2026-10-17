@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="云南都市" tvg-name="云南都市" tvg-logo="{{your_logo_address}}/logo/云南都市.png" group-title="联通",云南都市
+http://{{your_udpxy_address}}/udp/225.0.1.88:5000
+#EXTINF:-1 tvg-id="云南少儿" tvg-name="云南少儿" tvg-logo="" group-title="联通",云南少儿
+http://{{your_udpxy_address}}/udp/225.0.1.92:5000
+#EXTINF:-1 tvg-id="云南影视" tvg-name="云南影视" tvg-logo="{{your_logo_address}}/logo/云南影视.png" group-title="联通",云南影视
+http://{{your_udpxy_address}}/udp/225.0.1.80:5000
+#EXTINF:-1 tvg-id="康旅频道" tvg-name="康旅频道" tvg-logo="" group-title="联通",康旅频道
+http://{{your_udpxy_address}}/udp/225.0.1.91:5000
+#EXTINF:-1 tvg-id="湄澜国际" tvg-name="湄澜国际" tvg-logo="" group-title="联通",湄澜国际
+http://{{your_udpxy_address}}/udp/225.0.1.170:5000
+#EXTINF:-1 tvg-id="云南移动" tvg-name="云南移动" tvg-logo="" group-title="联通",云南移动
+http://{{your_udpxy_address}}/udp/225.0.1.143:5000
+#EXTINF:-1 tvg-id="云南娱乐" tvg-name="云南娱乐" tvg-logo="{{your_logo_address}}/logo/云南娱乐.png" group-title="联通",云南娱乐
+http://{{your_udpxy_address}}/udp/225.0.1.81:5000
+#EXTINF:-1 tvg-id="昆明新闻" tvg-name="昆明新闻" tvg-logo="" group-title="联通",昆明新闻
+http://{{your_udpxy_address}}/udp/238.123.50.70:8500
+#EXTINF:-1 tvg-id="昆明教育" tvg-name="昆明教育" tvg-logo="" group-title="联通",昆明教育
+http://{{your_udpxy_address}}/udp/238.123.50.72:8508
+#EXTINF:-1 tvg-id="昆明春城" tvg-name="昆明春城" tvg-logo="" group-title="联通",昆明春城
+http://{{your_udpxy_address}}/udp/238.123.50.75:8520
+#EXTINF:-1 tvg-id="昆明经济" tvg-name="昆明经济" tvg-logo="" group-title="联通",昆明经济
+http://{{your_udpxy_address}}/udp/238.123.50.71:8504
+#EXTINF:-1 tvg-id="昆明影视" tvg-name="昆明影视" tvg-logo="" group-title="联通",昆明影视
+http://{{your_udpxy_address}}/udp/238.123.50.74:8516

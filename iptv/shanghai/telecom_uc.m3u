@@ -1,0 +1,211 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="{{your_logo_address}}/logo/CCTV1.png" group-title="央视",CCTV1
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000111128
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="{{your_logo_address}}/logo/CCTV2.png" group-title="央视",CCTV2
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000036
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="{{your_logo_address}}/logo/CCTV3.png" group-title="央视",CCTV3
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001369028
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="{{your_logo_address}}/logo/CCTV4.png" group-title="央视",CCTV4
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000037
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="{{your_logo_address}}/logo/CCTV5.png" group-title="央视",CCTV5
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001369029
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="{{your_logo_address}}/logo/CCTV5+.png" group-title="央视",CCTV5+
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000068
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="{{your_logo_address}}/logo/CCTV6.png" group-title="央视",CCTV6
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001369030
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="{{your_logo_address}}/logo/CCTV7.png" group-title="央视",CCTV7
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000038
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="{{your_logo_address}}/logo/CCTV8.png" group-title="央视",CCTV8
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001369033
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="{{your_logo_address}}/logo/CCTV9.png" group-title="央视",CCTV9
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000039
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="{{your_logo_address}}/logo/CCTV10.png" group-title="央视",CCTV10
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003949784
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="{{your_logo_address}}/logo/CCTV11.png" group-title="央视",CCTV11
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000053
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="{{your_logo_address}}/logo/CCTV12.png" group-title="央视",CCTV12
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000040
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="{{your_logo_address}}/logo/CCTV13.png" group-title="央视",CCTV13
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000054
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="{{your_logo_address}}/logo/CCTV14.png" group-title="央视",CCTV14
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003949788
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="{{your_logo_address}}/logo/CCTV15.png" group-title="央视",CCTV15
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000055
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="{{your_logo_address}}/logo/CCTV16.png" group-title="央视",CCTV16
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000061
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="{{your_logo_address}}/logo/CCTV17.png" group-title="央视",CCTV17
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000041
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="{{your_logo_address}}/logo/CGTN.png" group-title="央视",CGTN
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000001354
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="{{your_logo_address}}/logo/安徽卫视.png" group-title="卫视",安徽卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003540416
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="{{your_logo_address}}/logo/北京卫视.png" group-title="卫视",北京卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000181361
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="{{your_logo_address}}/logo/北京卫视.png" group-title="卫视",北京卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000130
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="{{your_logo_address}}/logo/重庆卫视.png" group-title="卫视",重庆卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003840707
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="{{your_logo_address}}/logo/东方卫视.png" group-title="卫视",东方卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000111131
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="{{your_logo_address}}/logo/东方卫视.png" group-title="卫视",东方卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000138
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="{{your_logo_address}}/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000067
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="{{your_logo_address}}/logo/广东卫视.png" group-title="卫视",广东卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000181359
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="{{your_logo_address}}/logo/广东卫视.png" group-title="卫视",广东卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000133
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="{{your_logo_address}}/logo/广西卫视.png" group-title="卫视",广西卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000045
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="{{your_logo_address}}/logo/贵州卫视.png" group-title="卫视",贵州卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000004252663
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="{{your_logo_address}}/logo/海南卫视.png" group-title="卫视",海南卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000004252684
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="{{your_logo_address}}/logo/河北卫视.png" group-title="卫视",河北卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000100000002
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="{{your_logo_address}}/logo/河南卫视.png" group-title="卫视",河南卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000044
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="{{your_logo_address}}/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000181356
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="{{your_logo_address}}/logo/湖北卫视.png" group-title="卫视",湖北卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000911989
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="{{your_logo_address}}/logo/湖南卫视.png" group-title="卫视",湖南卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000181358
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="{{your_logo_address}}/logo/湖南卫视.png" group-title="卫视",湖南卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000140
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="{{your_logo_address}}/logo/吉林卫视.png" group-title="卫视",吉林卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000046
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="{{your_logo_address}}/logo/江苏卫视.png" group-title="卫视",江苏卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000111129
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="{{your_logo_address}}/logo/江苏卫视.png" group-title="卫视",江苏卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000141
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="{{your_logo_address}}/logo/江西卫视.png" group-title="卫视",江西卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003468921
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="{{your_logo_address}}/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003450001
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="{{your_logo_address}}/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000132
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="{{your_logo_address}}/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000144
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="{{your_logo_address}}/logo/青海卫视.png" group-title="卫视",青海卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000101
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="{{your_logo_address}}/logo/山东卫视.png" group-title="卫视",山东卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000911992
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="{{your_logo_address}}/logo/山东卫视.png" group-title="卫视",山东卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000143
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="{{your_logo_address}}/logo/山西卫视.png" group-title="卫视",山西卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000129
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="{{your_logo_address}}/logo/陕西卫视.png" group-title="卫视",陕西卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000056
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="{{your_logo_address}}/logo/深圳卫视.png" group-title="卫视",深圳卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000181362
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="{{your_logo_address}}/logo/深圳卫视.png" group-title="卫视",深圳卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000134
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="{{your_logo_address}}/logo/四川卫视.png" group-title="卫视",四川卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003840706
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="{{your_logo_address}}/logo/四川卫视.png" group-title="卫视",四川卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000142
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="{{your_logo_address}}/logo/天津卫视.png" group-title="卫视",天津卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003450000
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="{{your_logo_address}}/logo/西藏卫视.png" group-title="卫视",西藏卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000137
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="{{your_logo_address}}/logo/新疆卫视.png" group-title="卫视",新疆卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000135
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="{{your_logo_address}}/logo/云南卫视.png" group-title="卫视",云南卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000005000043
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="{{your_logo_address}}/logo/浙江卫视.png" group-title="卫视",浙江卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000111130
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="{{your_logo_address}}/logo/浙江卫视.png" group-title="卫视",浙江卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000139
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="{{your_logo_address}}/logo/卡酷少儿.png" group-title="地方",卡酷少儿
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000052
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="{{your_logo_address}}/logo/东方影视.png" group-title="地方",东方影视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000990915
+#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="{{your_logo_address}}/logo/东方财经.png" group-title="地方",东方财经
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006880079
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="{{your_logo_address}}/logo/五星体育.png" group-title="地方",五星体育
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001161091
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="{{your_logo_address}}/logo/哈哈炫动.png" group-title="地方",哈哈炫动
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000004641019
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="" group-title="地方",上海新闻综合
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001346060
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="{{your_logo_address}}/logo/东南卫视.png" group-title="地方",东南卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003540417
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="{{your_logo_address}}/logo/嘉佳卡通.png" group-title="地方",嘉佳卡通
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000484998
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="{{your_logo_address}}/logo/三沙卫视.png" group-title="地方",三沙卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000088
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="{{your_logo_address}}/logo/金鹰卡通.png" group-title="地方",金鹰卡通
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000057
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="{{your_logo_address}}/logo/金鹰纪实.png" group-title="地方",金鹰纪实
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000004766929
+#EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="{{your_logo_address}}/logo/延边卫视.png" group-title="地方",延边卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000102
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="{{your_logo_address}}/logo/兵团卫视.png" group-title="地方",兵团卫视
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000136
+#EXTINF:-1 tvg-id="CETV" tvg-name="CETV" tvg-logo="" group-title="教育",CETV
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000119
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="{{your_logo_address}}/logo/CETV1.png" group-title="教育",CETV1
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000003138605
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="{{your_logo_address}}/logo/CETV2.png" group-title="教育",CETV2
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000079471
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="{{your_logo_address}}/logo/CETV4.png" group-title="教育",CETV4
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006876519
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="{{your_logo_address}}/logo/兵器科技.png" group-title="其它",兵器科技
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000110
+#EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="{{your_logo_address}}/logo/财富天下.png" group-title="其它",财富天下
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000145
+#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="{{your_logo_address}}/aliases/logo/第一财经.png" group-title="其它",第一财经
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001346062
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="{{your_logo_address}}/logo/第一剧场.png" group-title="其它",第一剧场
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000116
+#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="{{your_logo_address}}/logo/动漫秀场.png" group-title="其它",动漫秀场
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001555886
+#EXTINF:-1 tvg-id="都市" tvg-name="都市" tvg-logo="" group-title="其它",都市
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000000990914
+#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="{{your_logo_address}}/logo/都市剧场.png" group-title="其它",都市剧场
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001555881
+#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="{{your_logo_address}}/logo/法治天地.png" group-title="其它",法治天地
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000004492967
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="{{your_logo_address}}/logo/风云剧场.png" group-title="其它",风云剧场
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000115
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="{{your_logo_address}}/logo/风云音乐.png" group-title="其它",风云音乐
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000117
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="{{your_logo_address}}/logo/风云足球.png" group-title="其它",风云足球
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000108
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="{{your_logo_address}}/logo/高尔夫网球.png" group-title="其它",高尔夫网球
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000113
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="{{your_logo_address}}/logo/怀旧剧场.png" group-title="其它",怀旧剧场
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000114
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="{{your_logo_address}}/logo/欢笑剧场.png" group-title="其它",欢笑剧场
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001367710
+#EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="{{your_logo_address}}/logo/家庭理财.png" group-title="其它",家庭理财
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001872767
+#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="{{your_logo_address}}/logo/金色学堂.png" group-title="其它",金色学堂
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000004492970
+#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="{{your_logo_address}}/logo/快乐垂钓.png" group-title="其它",快乐垂钓
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000004766930
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="{{your_logo_address}}/logo/乐游.png" group-title="其它",乐游
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001368437
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="{{your_logo_address}}/logo/女性时尚.png" group-title="其它",女性时尚
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000112
+#EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="{{your_logo_address}}/logo/上海教育.png" group-title="其它",上海教育
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000066
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="{{your_logo_address}}/logo/生活时尚.png" group-title="其它",生活时尚
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001555893
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="{{your_logo_address}}/logo/世界地理.png" group-title="其它",世界地理
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000111
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="{{your_logo_address}}/logo/央视台球.png" group-title="其它",央视台球
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000109
+#EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="" group-title="其它",央视文化精品
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000118
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="{{your_logo_address}}/logo/游戏风云.png" group-title="其它",游戏风云
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000001555894
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="{{your_logo_address}}/logo/CCTV4K.png" group-title="其它",CCTV4K
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000120
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="{{your_logo_address}}/logo/CHC动作电影.png" group-title="其它",CHC动作电影
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000106
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="{{your_logo_address}}/logo/CHC家庭影院.png" group-title="其它",CHC家庭影院
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000105
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="{{your_logo_address}}/logo/CHC影迷电影.png" group-title="其它",CHC影迷电影
+rtsp://222.68.211.94:554/SHDXFH_live/00000001000000050000000006000107

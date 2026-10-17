@@ -1,0 +1,593 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="{{your_logo_address}}/logo/CCTV1.png" group-title="央视",CCTV1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000001/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="{{your_logo_address}}/logo/CCTV1.png" group-title="央视",CCTV1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000311/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="{{your_logo_address}}/logo/CCTV2.png" group-title="央视",CCTV2
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000002/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="{{your_logo_address}}/logo/CCTV2.png" group-title="央视",CCTV2
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000317/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="{{your_logo_address}}/logo/CCTV3.png" group-title="央视",CCTV3
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000371/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="{{your_logo_address}}/logo/CCTV3.png" group-title="央视",CCTV3
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000003/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="{{your_logo_address}}/logo/CCTV3.png" group-title="央视",CCTV3
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000359/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="{{your_logo_address}}/logo/CCTV4.png" group-title="央视",CCTV4
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000004/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="{{your_logo_address}}/logo/CCTV4.png" group-title="央视",CCTV4
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000320/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="{{your_logo_address}}/logo/CCTV4欧洲.png" group-title="央视",CCTV4欧洲
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000350/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="{{your_logo_address}}/logo/CCTV4美洲.png" group-title="央视",CCTV4美洲
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000351/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="{{your_logo_address}}/logo/CCTV5.png" group-title="央视",CCTV5
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000372/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="{{your_logo_address}}/logo/CCTV5.png" group-title="央视",CCTV5
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000360/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="{{your_logo_address}}/logo/CCTV5+.png" group-title="央视",CCTV5+
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000316/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="{{your_logo_address}}/logo/CCTV6.png" group-title="央视",CCTV6
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000374/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="{{your_logo_address}}/logo/CCTV6.png" group-title="央视",CCTV6
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000006/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="{{your_logo_address}}/logo/CCTV6.png" group-title="央视",CCTV6
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000361/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="{{your_logo_address}}/logo/CCTV7.png" group-title="央视",CCTV7
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000007/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="{{your_logo_address}}/logo/CCTV7.png" group-title="央视",CCTV7
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000318/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="{{your_logo_address}}/logo/CCTV8.png" group-title="央视",CCTV8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000376/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="{{your_logo_address}}/logo/CCTV8.png" group-title="央视",CCTV8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000008/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="{{your_logo_address}}/logo/CCTV8.png" group-title="央视",CCTV8
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000362/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="{{your_logo_address}}/logo/CCTV9.png" group-title="央视",CCTV9
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000319/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="{{your_logo_address}}/logo/CCTV10.png" group-title="央视",CCTV10
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000321/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="{{your_logo_address}}/logo/CCTV11.png" group-title="央视",CCTV11
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000011/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="{{your_logo_address}}/logo/CCTV11.png" group-title="央视",CCTV11
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000344/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="{{your_logo_address}}/logo/CCTV12.png" group-title="央视",CCTV12
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000322/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="{{your_logo_address}}/logo/CCTV13.png" group-title="央视",CCTV13
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000013/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="{{your_logo_address}}/logo/CCTV13.png" group-title="央视",CCTV13
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="{{your_logo_address}}/logo/CCTV14.png" group-title="央视",CCTV14
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000014/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="{{your_logo_address}}/logo/CCTV14.png" group-title="央视",CCTV14
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="{{your_logo_address}}/logo/CCTV15.png" group-title="央视",CCTV15
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000015/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="{{your_logo_address}}/logo/CCTV15.png" group-title="央视",CCTV15
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="{{your_logo_address}}/logo/CCTV17.png" group-title="央视",CCTV17
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="{{your_logo_address}}/logo/CGTN.png" group-title="央视",CGTN
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000009/index.m3u8
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="{{your_logo_address}}/logo/CGTN.png" group-title="央视",CGTN
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000352/index.m3u8
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="{{your_logo_address}}/logo/CGTN西语.png" group-title="央视",CGTN西语
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000354/index.m3u8
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="{{your_logo_address}}/logo/CGTN法语.png" group-title="央视",CGTN法语
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000355/index.m3u8
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="{{your_logo_address}}/logo/CGTN俄语.png" group-title="央视",CGTN俄语
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000357/index.m3u8
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="{{your_logo_address}}/logo/CGTN阿语.png" group-title="央视",CGTN阿语
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000356/index.m3u8
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="{{your_logo_address}}/logo/CGTN纪录.png" group-title="央视",CGTN纪录
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000353/index.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="{{your_logo_address}}/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000328/index.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="{{your_logo_address}}/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000020/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="{{your_logo_address}}/logo/北京卫视.png" group-title="卫视",北京卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL40000001/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="{{your_logo_address}}/logo/北京卫视.png" group-title="卫视",北京卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000019/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="{{your_logo_address}}/logo/北京卫视.png" group-title="卫视",北京卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000021/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="{{your_logo_address}}/logo/北京卫视.png" group-title="卫视",北京卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000302/index.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="{{your_logo_address}}/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000341/index.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="{{your_logo_address}}/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000023/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="{{your_logo_address}}/logo/东方卫视.png" group-title="卫视",东方卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000022/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="{{your_logo_address}}/logo/东方卫视.png" group-title="卫视",东方卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000309/index.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="{{your_logo_address}}/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000046/index.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="{{your_logo_address}}/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000349/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="{{your_logo_address}}/logo/广东卫视.png" group-title="卫视",广东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000025/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="{{your_logo_address}}/logo/广东卫视.png" group-title="卫视",广东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000307/index.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="{{your_logo_address}}/logo/广西卫视.png" group-title="卫视",广西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000038/index.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="{{your_logo_address}}/logo/广西卫视.png" group-title="卫视",广西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000368/index.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="{{your_logo_address}}/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000041/index.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="{{your_logo_address}}/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000329/index.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="{{your_logo_address}}/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00004000/index.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="{{your_logo_address}}/logo/海南卫视.png" group-title="卫视",海南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000347/index.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="{{your_logo_address}}/logo/海南卫视.png" group-title="卫视",海南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000030/index.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="{{your_logo_address}}/logo/河北卫视.png" group-title="卫视",河北卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000330/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="{{your_logo_address}}/logo/河南卫视.png" group-title="卫视",河南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000358/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="{{your_logo_address}}/logo/河南卫视.png" group-title="卫视",河南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000037/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="{{your_logo_address}}/logo/河南卫视.png" group-title="卫视",河南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000369/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="{{your_logo_address}}/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000027/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="{{your_logo_address}}/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000306/index.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="{{your_logo_address}}/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000325/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="{{your_logo_address}}/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000324/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="{{your_logo_address}}/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000017/index.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="{{your_logo_address}}/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000036/index.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="{{your_logo_address}}/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000363/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="{{your_logo_address}}/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000304/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="{{your_logo_address}}/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000018/index.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="{{your_logo_address}}/logo/江西卫视.png" group-title="卫视",江西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000035/index.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="{{your_logo_address}}/logo/江西卫视.png" group-title="卫视",江西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000335/index.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="{{your_logo_address}}/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000326/index.m3u8
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="{{your_logo_address}}/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000040/index.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="{{your_logo_address}}/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000043/index.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="{{your_logo_address}}/logo/青海卫视.png" group-title="卫视",青海卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000042/index.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="{{your_logo_address}}/logo/青海卫视.png" group-title="卫视",青海卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000366/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="{{your_logo_address}}/logo/山东卫视.png" group-title="卫视",山东卫视
+http://ucdn6.sd.chinamobile.com:8089/00/SNM/CHANNEL40000005/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="{{your_logo_address}}/logo/山东卫视.png" group-title="卫视",山东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000301/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="{{your_logo_address}}/logo/山东卫视.png" group-title="卫视",山东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001099/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="{{your_logo_address}}/logo/山东卫视.png" group-title="卫视",山东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000370/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="{{your_logo_address}}/logo/山东卫视.png" group-title="卫视",山东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000051/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="{{your_logo_address}}/logo/山东卫视.png" group-title="卫视",山东卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000655/index.m3u8
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="{{your_logo_address}}/logo/山西卫视.png" group-title="卫视",山西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000032/index.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="{{your_logo_address}}/logo/陕西卫视.png" group-title="卫视",陕西卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000029/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="{{your_logo_address}}/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000026/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="{{your_logo_address}}/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000308/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="{{your_logo_address}}/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000024/index.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="{{your_logo_address}}/logo/四川卫视.png" group-title="卫视",四川卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000348/index.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="{{your_logo_address}}/logo/四川卫视.png" group-title="卫视",四川卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000033/index.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="{{your_logo_address}}/logo/天津卫视.png" group-title="卫视",天津卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000327/index.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="{{your_logo_address}}/logo/西藏卫视.png" group-title="卫视",西藏卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000045/index.m3u8
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="{{your_logo_address}}/logo/新疆卫视.png" group-title="卫视",新疆卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000044/index.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="{{your_logo_address}}/logo/云南卫视.png" group-title="卫视",云南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000039/index.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="{{your_logo_address}}/logo/云南卫视.png" group-title="卫视",云南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000367/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="{{your_logo_address}}/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000305/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="{{your_logo_address}}/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000016/index.m3u8
+#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="{{your_logo_address}}/logo/北京纪实科教.png" group-title="地方",北京纪实科教
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000332/index.m3u8
+#EXTINF:-1 tvg-id="重庆汽摩" tvg-name="重庆汽摩" tvg-logo="{{your_logo_address}}/logo/重庆汽摩.png" group-title="地方",重庆汽摩
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000711/index.m3u8
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="{{your_logo_address}}/logo/哈哈炫动.png" group-title="地方",哈哈炫动
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000050/index.m3u8
+#EXTINF:-1 tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="{{your_logo_address}}/logo/纪实人文.png" group-title="地方",纪实人文
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000333/index.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="{{your_logo_address}}/logo/东南卫视.png" group-title="地方",东南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000310/index.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="{{your_logo_address}}/logo/东南卫视.png" group-title="地方",东南卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000028/index.m3u8
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="{{your_logo_address}}/logo/厦门卫视.png" group-title="地方",厦门卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000075/index.m3u8
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="{{your_logo_address}}/logo/嘉佳卡通.png" group-title="地方",嘉佳卡通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000074/index.m3u8
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="{{your_logo_address}}/logo/大湾区卫视.png" group-title="地方",大湾区卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000670/index.m3u8
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="{{your_logo_address}}/logo/三沙卫视.png" group-title="地方",三沙卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000078/index.m3u8
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="{{your_logo_address}}/logo/金鹰卡通.png" group-title="地方",金鹰卡通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000047/index.m3u8
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="{{your_logo_address}}/logo/金鹰卡通.png" group-title="地方",金鹰卡通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002027/index.m3u8
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="{{your_logo_address}}/logo/金鹰纪实.png" group-title="地方",金鹰纪实
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000334/index.m3u8
+#EXTINF:-1 tvg-id="农林卫视" tvg-name="农林卫视" tvg-logo="{{your_logo_address}}/logo/农林卫视.png" group-title="地方",农林卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000072/index.m3u8
+#EXTINF:-1 tvg-id="山东齐鲁" tvg-name="山东齐鲁" tvg-logo="{{your_logo_address}}/logo/山东齐鲁.png" group-title="地方",山东齐鲁
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000052/index.m3u8
+#EXTINF:-1 tvg-id="山东体育休闲" tvg-name="山东体育休闲" tvg-logo="" group-title="地方",山东体育休闲
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1 tvg-id="山东体育休闲" tvg-name="山东体育休闲" tvg-logo="" group-title="地方",山东体育休闲
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000057/index.m3u8
+#EXTINF:-1 tvg-id="山东体育休闲" tvg-name="山东体育休闲" tvg-logo="" group-title="地方",山东体育休闲
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000400/index.m3u8
+#EXTINF:-1 tvg-id="山东体育休闲" tvg-name="山东体育休闲" tvg-logo="" group-title="地方",山东体育休闲
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000373/index.m3u8
+#EXTINF:-1 tvg-id="山东农科" tvg-name="山东农科" tvg-logo="{{your_logo_address}}/logo/山东农科.png" group-title="地方",山东农科
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000058/index.m3u8
+#EXTINF:-1 tvg-id="山东农科" tvg-name="山东农科" tvg-logo="{{your_logo_address}}/logo/山东农科.png" group-title="地方",山东农科
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000339/index.m3u8
+#EXTINF:-1 tvg-id="山东新闻" tvg-name="山东新闻" tvg-logo="{{your_logo_address}}/logo/山东新闻.png" group-title="地方",山东新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000053/index.m3u8
+#EXTINF:-1 tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="{{your_logo_address}}/logo/山东少儿.png" group-title="地方",山东少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000059/index.m3u8
+#EXTINF:-1 tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="{{your_logo_address}}/logo/山东少儿.png" group-title="地方",山东少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000340/index.m3u8
+#EXTINF:-1 tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="{{your_logo_address}}/logo/山东少儿.png" group-title="地方",山东少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00004003/index.m3u8
+#EXTINF:-1 tvg-id="山东少儿" tvg-name="山东少儿" tvg-logo="{{your_logo_address}}/logo/山东少儿.png" group-title="地方",山东少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000375/index.m3u8
+#EXTINF:-1 tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="{{your_logo_address}}/logo/山东文旅.png" group-title="地方",山东文旅
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000337/index.m3u8
+#EXTINF:-1 tvg-id="山东文旅" tvg-name="山东文旅" tvg-logo="{{your_logo_address}}/logo/山东文旅.png" group-title="地方",山东文旅
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000377/index.m3u8
+#EXTINF:-1 tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="{{your_logo_address}}/logo/山东综艺.png" group-title="地方",山东综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1 tvg-id="山东综艺" tvg-name="山东综艺" tvg-logo="{{your_logo_address}}/logo/山东综艺.png" group-title="地方",山东综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000378/index.m3u8
+#EXTINF:-1 tvg-id="山东生活" tvg-name="山东生活" tvg-logo="{{your_logo_address}}/logo/山东生活.png" group-title="地方",山东生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000336/index.m3u8
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="{{your_logo_address}}/logo/CETV1.png" group-title="教育",CETV1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000076/index.m3u8
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="{{your_logo_address}}/logo/CETV2.png" group-title="教育",CETV2
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000077/index.m3u8
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="{{your_logo_address}}/logo/CETV4.png" group-title="教育",CETV4
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000070/index.m3u8
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="{{your_logo_address}}/logo/CETV4.png" group-title="教育",CETV4
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000666/index.m3u8
+#EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="" group-title="教育",山东教育卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="{{your_logo_address}}/logo/卡酷少儿.png" group-title="其它",卡酷少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000048/index.m3u8
+#EXTINF:-1 tvg-id="滨州民生" tvg-name="滨州民生" tvg-logo="" group-title="其它",滨州民生
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000221/index.m3u8
+#EXTINF:-1 tvg-id="滨州新闻综合" tvg-name="滨州新闻综合" tvg-logo="" group-title="其它",滨州新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000220/index.m3u8
+#EXTINF:-1 tvg-id="博兴综合" tvg-name="博兴综合" tvg-logo="" group-title="其它",博兴综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001102/index.m3u8
+#EXTINF:-1 tvg-id="车迷" tvg-name="车迷" tvg-logo="{{your_logo_address}}/logo/车迷.png" group-title="其它",车迷
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000645/index.m3u8
+#EXTINF:-1 tvg-id="茌平综合" tvg-name="茌平综合" tvg-logo="" group-title="其它",茌平综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001048/index.m3u8
+#EXTINF:-1 tvg-id="岱岳" tvg-name="岱岳" tvg-logo="" group-title="其它",岱岳
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001013/index.m3u8
+#EXTINF:-1 tvg-id="单县综合" tvg-name="单县综合" tvg-logo="" group-title="其它",单县综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001079/index.m3u8
+#EXTINF:-1 tvg-id="德州经济生活" tvg-name="德州经济生活" tvg-logo="" group-title="其它",德州经济生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000207/index.m3u8
+#EXTINF:-1 tvg-id="德州新闻综合" tvg-name="德州新闻综合" tvg-logo="" group-title="其它",德州新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000206/index.m3u8
+#EXTINF:-1 tvg-id="定陶1" tvg-name="定陶1" tvg-logo="" group-title="其它",定陶1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001063/index.m3u8
+#EXTINF:-1 tvg-id="东阿综合" tvg-name="东阿综合" tvg-logo="" group-title="其它",东阿综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001093/index.m3u8
+#EXTINF:-1 tvg-id="东明新闻综合" tvg-name="东明新闻综合" tvg-logo="" group-title="其它",东明新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001065/index.m3u8
+#EXTINF:-1 tvg-id="东平综合" tvg-name="东平综合" tvg-logo="" group-title="其它",东平综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001001/index.m3u8
+#EXTINF:-1 tvg-id="东营公共" tvg-name="东营公共" tvg-logo="" group-title="其它",东营公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000227/index.m3u8
+#EXTINF:-1 tvg-id="东营新闻综合" tvg-name="东营新闻综合" tvg-logo="" group-title="其它",东营新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000226/index.m3u8
+#EXTINF:-1 tvg-id="肥城综合" tvg-name="肥城综合" tvg-logo="" group-title="其它",肥城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001039/index.m3u8
+#EXTINF:-1 tvg-id="高青综合" tvg-name="高青综合" tvg-logo="" group-title="其它",高青综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001023/index.m3u8
+#EXTINF:-1 tvg-id="冠县综合" tvg-name="冠县综合" tvg-logo="" group-title="其它",冠县综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001040/index.m3u8
+#EXTINF:-1 tvg-id="广饶综合" tvg-name="广饶综合" tvg-logo="" group-title="其它",广饶综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001043/index.m3u8
+#EXTINF:-1 tvg-id="海洋" tvg-name="海洋" tvg-logo="" group-title="其它",海洋
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000662/index.m3u8
+#EXTINF:-1 tvg-id="河东综合" tvg-name="河东综合" tvg-logo="" group-title="其它",河东综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001109/index.m3u8
+#EXTINF:-1 tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="{{your_logo_address}}/logo/河南梨园.png" group-title="其它",河南梨园
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000656/index.m3u8
+#EXTINF:-1 tvg-id="河南文物宝库" tvg-name="河南文物宝库" tvg-logo="" group-title="其它",河南文物宝库
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000658/index.m3u8
+#EXTINF:-1 tvg-id="河南武术世界" tvg-name="河南武术世界" tvg-logo="" group-title="其它",河南武术世界
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000657/index.m3u8
+#EXTINF:-1 tvg-id="菏泽经济生活" tvg-name="菏泽经济生活" tvg-logo="" group-title="其它",菏泽经济生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000234/index.m3u8
+#EXTINF:-1 tvg-id="菏泽新闻综合" tvg-name="菏泽新闻综合" tvg-logo="" group-title="其它",菏泽新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000232/index.m3u8
+#EXTINF:-1 tvg-id="湖南茶" tvg-name="湖南茶" tvg-logo="" group-title="其它",湖南茶
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8
+#EXTINF:-1 tvg-id="湖南快乐垂钓" tvg-name="湖南快乐垂钓" tvg-logo="" group-title="其它",湖南快乐垂钓
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000648/index.m3u8
+#EXTINF:-1 tvg-id="湖南快乐购" tvg-name="湖南快乐购" tvg-logo="" group-title="其它",湖南快乐购
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000664/index.m3u8
+#EXTINF:-1 tvg-id="湖南快乐购" tvg-name="湖南快乐购" tvg-logo="" group-title="其它",湖南快乐购
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000709/index.m3u8
+#EXTINF:-1 tvg-id="湖南先锋乒羽" tvg-name="湖南先锋乒羽" tvg-logo="" group-title="其它",湖南先锋乒羽
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000650/index.m3u8
+#EXTINF:-1 tvg-id="华数精彩影视" tvg-name="华数精彩影视" tvg-logo="" group-title="其它",华数精彩影视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002012/index.m3u8
+#EXTINF:-1 tvg-id="环球旅游" tvg-name="环球旅游" tvg-logo="{{your_logo_address}}/logo/环球旅游.png" group-title="其它",环球旅游
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000643/index.m3u8
+#EXTINF:-1 tvg-id="桓台综合" tvg-name="桓台综合" tvg-logo="" group-title="其它",桓台综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001020/index.m3u8
+#EXTINF:-1 tvg-id="惠民综合" tvg-name="惠民综合" tvg-logo="" group-title="其它",惠民综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001009/index.m3u8
+#EXTINF:-1 tvg-id="吉林延边卫视" tvg-name="吉林延边卫视" tvg-logo="" group-title="其它",吉林延边卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000668/index.m3u8
+#EXTINF:-1 tvg-id="济南都市" tvg-name="济南都市" tvg-logo="" group-title="其它",济南都市
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000062/index.m3u8
+#EXTINF:-1 tvg-id="济南教育" tvg-name="济南教育" tvg-logo="" group-title="其它",济南教育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000069/index.m3u8
+#EXTINF:-1 tvg-id="济南鲁中" tvg-name="济南鲁中" tvg-logo="" group-title="其它",济南鲁中
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000244/index.m3u8
+#EXTINF:-1 tvg-id="济南少儿" tvg-name="济南少儿" tvg-logo="" group-title="其它",济南少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000067/index.m3u8
+#EXTINF:-1 tvg-id="济南生活" tvg-name="济南生活" tvg-logo="" group-title="其它",济南生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000063/index.m3u8
+#EXTINF:-1 tvg-id="济南文旅体育" tvg-name="济南文旅体育" tvg-logo="" group-title="其它",济南文旅体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000064/index.m3u8
+#EXTINF:-1 tvg-id="济南新闻综合" tvg-name="济南新闻综合" tvg-logo="" group-title="其它",济南新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000312/index.m3u8
+#EXTINF:-1 tvg-id="济南新闻综合" tvg-name="济南新闻综合" tvg-logo="" group-title="其它",济南新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000061/index.m3u8
+#EXTINF:-1 tvg-id="济南娱乐" tvg-name="济南娱乐" tvg-logo="" group-title="其它",济南娱乐
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000065/index.m3u8
+#EXTINF:-1 tvg-id="济宁高新" tvg-name="济宁高新" tvg-logo="" group-title="其它",济宁高新
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001101/index.m3u8
+#EXTINF:-1 tvg-id="济宁公共" tvg-name="济宁公共" tvg-logo="" group-title="其它",济宁公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000241/index.m3u8
+#EXTINF:-1 tvg-id="济宁生活" tvg-name="济宁生活" tvg-logo="" group-title="其它",济宁生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000239/index.m3u8
+#EXTINF:-1 tvg-id="济宁综合" tvg-name="济宁综合" tvg-logo="" group-title="其它",济宁综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000240/index.m3u8
+#EXTINF:-1 tvg-id="济阳综合" tvg-name="济阳综合" tvg-logo="" group-title="其它",济阳综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001030/index.m3u8
+#EXTINF:-1 tvg-id="嘉祥综合5M1080" tvg-name="嘉祥综合5M1080" tvg-logo="" group-title="其它",嘉祥综合5M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001016/index.m3u8
+#EXTINF:-1 tvg-id="江苏财富天下" tvg-name="江苏财富天下" tvg-logo="" group-title="其它",江苏财富天下
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000607/index.m3u8
+#EXTINF:-1 tvg-id="江西风尚购物" tvg-name="江西风尚购物" tvg-logo="" group-title="其它",江西风尚购物
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000665/index.m3u8
+#EXTINF:-1 tvg-id="江西风尚购物" tvg-name="江西风尚购物" tvg-logo="" group-title="其它",江西风尚购物
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000710/index.m3u8
+#EXTINF:-1 tvg-id="莒南综合" tvg-name="莒南综合" tvg-logo="" group-title="其它",莒南综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001011/index.m3u8
+#EXTINF:-1 tvg-id="巨野新闻" tvg-name="巨野新闻" tvg-logo="" group-title="其它",巨野新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001046/index.m3u8
+#EXTINF:-1 tvg-id="鄄城综合" tvg-name="鄄城综合" tvg-logo="" group-title="其它",鄄城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001084/index.m3u8
+#EXTINF:-1 tvg-id="兰陵综合" tvg-name="兰陵综合" tvg-logo="" group-title="其它",兰陵综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001032/index.m3u8
+#EXTINF:-1 tvg-id="兰陵综合" tvg-name="兰陵综合" tvg-logo="" group-title="其它",兰陵综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001095/index.m3u8
+#EXTINF:-1 tvg-id="历城综合" tvg-name="历城综合" tvg-logo="" group-title="其它",历城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001105/index.m3u8
+#EXTINF:-1 tvg-id="梁山综合" tvg-name="梁山综合" tvg-logo="" group-title="其它",梁山综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001075/index.m3u8
+#EXTINF:-1 tvg-id="聊城民生" tvg-name="聊城民生" tvg-logo="" group-title="其它",聊城民生
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000251/index.m3u8
+#EXTINF:-1 tvg-id="聊城综合" tvg-name="聊城综合" tvg-logo="" group-title="其它",聊城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000250/index.m3u8
+#EXTINF:-1 tvg-id="临清综合" tvg-name="临清综合" tvg-logo="" group-title="其它",临清综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001103/index.m3u8
+#EXTINF:-1 tvg-id="临沭综合" tvg-name="临沭综合" tvg-logo="" group-title="其它",临沭综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001094/index.m3u8
+#EXTINF:-1 tvg-id="临沂公共" tvg-name="临沂公共" tvg-logo="" group-title="其它",临沂公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000256/index.m3u8
+#EXTINF:-1 tvg-id="临沂经济" tvg-name="临沂经济" tvg-logo="" group-title="其它",临沂经济
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000121/index.m3u8
+#EXTINF:-1 tvg-id="临沂综合" tvg-name="临沂综合" tvg-logo="" group-title="其它",临沂综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000120/index.m3u8
+#EXTINF:-1 tvg-id="临邑1" tvg-name="临邑1" tvg-logo="" group-title="其它",临邑1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001104/index.m3u8
+#EXTINF:-1 tvg-id="陵城综合" tvg-name="陵城综合" tvg-logo="" group-title="其它",陵城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001082/index.m3u8
+#EXTINF:-1 tvg-id="蒙阴综合" tvg-name="蒙阴综合" tvg-logo="" group-title="其它",蒙阴综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001031/index.m3u8
+#EXTINF:-1 tvg-id="宁津综合" tvg-name="宁津综合" tvg-logo="" group-title="其它",宁津综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001003/index.m3u8
+#EXTINF:-1 tvg-id="宁阳2" tvg-name="宁阳2" tvg-logo="" group-title="其它",宁阳2
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001072/index.m3u8
+#EXTINF:-1 tvg-id="宁阳综合" tvg-name="宁阳综合" tvg-logo="" group-title="其它",宁阳综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001071/index.m3u8
+#EXTINF:-1 tvg-id="平阴综合" tvg-name="平阴综合" tvg-logo="" group-title="其它",平阴综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001050/index.m3u8
+#EXTINF:-1 tvg-id="平原综合" tvg-name="平原综合" tvg-logo="" group-title="其它",平原综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001064/index.m3u8
+#EXTINF:-1 tvg-id="齐河综合" tvg-name="齐河综合" tvg-logo="" group-title="其它",齐河综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001056/index.m3u8
+#EXTINF:-1 tvg-id="齐鲁" tvg-name="齐鲁" tvg-logo="" group-title="其它",齐鲁
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000313/index.m3u8
+#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="{{your_logo_address}}/logo/求索纪录.png" group-title="其它",求索纪录
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000667/index.m3u8
+#EXTINF:-1 tvg-id="曲阜综合" tvg-name="曲阜综合" tvg-logo="" group-title="其它",曲阜综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001052/index.m3u8
+#EXTINF:-1 tvg-id="任城1" tvg-name="任城1" tvg-logo="" group-title="其它",任城1
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001111/index.m3u8
+#EXTINF:-1 tvg-id="任城2" tvg-name="任城2" tvg-logo="" group-title="其它",任城2
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001112/index.m3u8
+#EXTINF:-1 tvg-id="山东公共新闻" tvg-name="山东公共新闻" tvg-logo="" group-title="其它",山东公共新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000314/index.m3u8
+#EXTINF:-1 tvg-id="山东交通广播" tvg-name="山东交通广播" tvg-logo="" group-title="其它",山东交通广播
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00003002/index.m3u8
+#EXTINF:-1 tvg-id="山东经济广播" tvg-name="山东经济广播" tvg-logo="" group-title="其它",山东经济广播
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00003001/index.m3u8
+#EXTINF:-1 tvg-id="山东居家购物" tvg-name="山东居家购物" tvg-logo="" group-title="其它",山东居家购物
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000700/index.m3u8
+#EXTINF:-1 tvg-id="山东综合广播" tvg-name="山东综合广播" tvg-logo="" group-title="其它",山东综合广播
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00004008/index.m3u8
+#EXTINF:-1 tvg-id="商河综合" tvg-name="商河综合" tvg-logo="" group-title="其它",商河综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001008/index.m3u8
+#EXTINF:-1 tvg-id="莘县综合" tvg-name="莘县综合" tvg-logo="" group-title="其它",莘县综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001047/index.m3u8
+#EXTINF:-1 tvg-id="生态4M1080" tvg-name="生态4M1080" tvg-logo="" group-title="其它",生态4M1080
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000671/index.m3u8
+#EXTINF:-1 tvg-id="寿光蔬菜" tvg-name="寿光蔬菜" tvg-logo="" group-title="其它",寿光蔬菜
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00004009/index.m3u8
+#EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="{{your_logo_address}}/logo/书画.png" group-title="其它",书画
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000651/index.m3u8
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="{{your_logo_address}}/logo/四海钓鱼.png" group-title="其它",四海钓鱼
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000640/index.m3u8
+#EXTINF:-1 tvg-id="泗水新闻综合" tvg-name="泗水新闻综合" tvg-logo="" group-title="其它",泗水新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001081/index.m3u8
+#EXTINF:-1 tvg-id="损坏" tvg-name="损坏" tvg-logo="" group-title="其它",损坏
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00004002/index.m3u8
+#EXTINF:-1 tvg-id="损坏金乡综合" tvg-name="损坏金乡综合" tvg-logo="" group-title="其它",损坏金乡综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001034/index.m3u8
+#EXTINF:-1 tvg-id="损坏滕州综合" tvg-name="损坏滕州综合" tvg-logo="" group-title="其它",损坏滕州综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001028/index.m3u8
+#EXTINF:-1 tvg-id="损坏淄博影视" tvg-name="损坏淄博影视" tvg-logo="" group-title="其它",损坏淄博影视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000295/index.m3u8
+#EXTINF:-1 tvg-id="泰安经济生活" tvg-name="泰安经济生活" tvg-logo="" group-title="其它",泰安经济生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000270/index.m3u8
+#EXTINF:-1 tvg-id="泰安综合" tvg-name="泰安综合" tvg-logo="" group-title="其它",泰安综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000269/index.m3u8
+#EXTINF:-1 tvg-id="泰山" tvg-name="泰山" tvg-logo="" group-title="其它",泰山
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001114/index.m3u8
+#EXTINF:-1 tvg-id="微山综合" tvg-name="微山综合" tvg-logo="" group-title="其它",微山综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001078/index.m3u8
+#EXTINF:-1 tvg-id="无棣综合" tvg-name="无棣综合" tvg-logo="" group-title="其它",无棣综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001024/index.m3u8
+#EXTINF:-1 tvg-id="武城综合" tvg-name="武城综合" tvg-logo="" group-title="其它",武城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001059/index.m3u8
+#EXTINF:-1 tvg-id="武城综艺影视" tvg-name="武城综艺影视" tvg-logo="" group-title="其它",武城综艺影视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001060/index.m3u8
+#EXTINF:-1 tvg-id="夏津公共" tvg-name="夏津公共" tvg-logo="" group-title="其它",夏津公共
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001070/index.m3u8
+#EXTINF:-1 tvg-id="夏津综合" tvg-name="夏津综合" tvg-logo="" group-title="其它",夏津综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001069/index.m3u8
+#EXTINF:-1 tvg-id="新疆兵团卫视" tvg-name="新疆兵团卫视" tvg-logo="" group-title="其它",新疆兵团卫视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000071/index.m3u8
+#EXTINF:-1 tvg-id="新泰乡村" tvg-name="新泰乡村" tvg-logo="" group-title="其它",新泰乡村
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001066/index.m3u8
+#EXTINF:-1 tvg-id="新泰综合" tvg-name="新泰综合" tvg-logo="" group-title="其它",新泰综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001029/index.m3u8
+#EXTINF:-1 tvg-id="兖州新闻" tvg-name="兖州新闻" tvg-logo="" group-title="其它",兖州新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001051/index.m3u8
+#EXTINF:-1 tvg-id="阳信新闻综合" tvg-name="阳信新闻综合" tvg-logo="" group-title="其它",阳信新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001036/index.m3u8
+#EXTINF:-1 tvg-id="沂南红色影视" tvg-name="沂南红色影视" tvg-logo="" group-title="其它",沂南红色影视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001097/index.m3u8
+#EXTINF:-1 tvg-id="沂南综合" tvg-name="沂南综合" tvg-logo="" group-title="其它",沂南综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001096/index.m3u8
+#EXTINF:-1 tvg-id="沂水综合" tvg-name="沂水综合" tvg-logo="" group-title="其它",沂水综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001098/index.m3u8
+#EXTINF:-1 tvg-id="沂源综合" tvg-name="沂源综合" tvg-logo="" group-title="其它",沂源综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001002/index.m3u8
+#EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="{{your_logo_address}}/logo/优漫卡通.png" group-title="其它",优漫卡通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000049/index.m3u8
+#EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="{{your_logo_address}}/logo/优优宝贝.png" group-title="其它",优优宝贝
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000641/index.m3u8
+#EXTINF:-1 tvg-id="鱼台生活" tvg-name="鱼台生活" tvg-logo="" group-title="其它",鱼台生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001108/index.m3u8
+#EXTINF:-1 tvg-id="鱼台综合" tvg-name="鱼台综合" tvg-logo="" group-title="其它",鱼台综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001107/index.m3u8
+#EXTINF:-1 tvg-id="禹城综合" tvg-name="禹城综合" tvg-logo="" group-title="其它",禹城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001061/index.m3u8
+#EXTINF:-1 tvg-id="禹城综艺" tvg-name="禹城综艺" tvg-logo="" group-title="其它",禹城综艺
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001062/index.m3u8
+#EXTINF:-1 tvg-id="郓城新闻" tvg-name="郓城新闻" tvg-logo="" group-title="其它",郓城新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001041/index.m3u8
+#EXTINF:-1 tvg-id="枣庄经济生活" tvg-name="枣庄经济生活" tvg-logo="" group-title="其它",枣庄经济生活
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001026/index.m3u8
+#EXTINF:-1 tvg-id="枣庄新闻综合" tvg-name="枣庄新闻综合" tvg-logo="" group-title="其它",枣庄新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001025/index.m3u8
+#EXTINF:-1 tvg-id="沾化综合" tvg-name="沾化综合" tvg-logo="" group-title="其它",沾化综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001035/index.m3u8
+#EXTINF:-1 tvg-id="张店" tvg-name="张店" tvg-logo="" group-title="其它",张店
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001012/index.m3u8
+#EXTINF:-1 tvg-id="章丘综合" tvg-name="章丘综合" tvg-logo="" group-title="其它",章丘综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001073/index.m3u8
+#EXTINF:-1 tvg-id="长清综合" tvg-name="长清综合" tvg-logo="" group-title="其它",长清综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001018/index.m3u8
+#EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="{{your_logo_address}}/logo/中国交通.png" group-title="其它",中国交通
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000073/index.m3u8
+#EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="{{your_logo_address}}/logo/中华特产.png" group-title="其它",中华特产
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000642/index.m3u8
+#EXTINF:-1 tvg-id="周村新闻" tvg-name="周村新闻" tvg-logo="" group-title="其它",周村新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001019/index.m3u8
+#EXTINF:-1 tvg-id="淄博民生" tvg-name="淄博民生" tvg-logo="" group-title="其它",淄博民生
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000294/index.m3u8
+#EXTINF:-1 tvg-id="淄博文旅" tvg-name="淄博文旅" tvg-logo="" group-title="其它",淄博文旅
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000293/index.m3u8
+#EXTINF:-1 tvg-id="淄博新闻综合" tvg-name="淄博新闻综合" tvg-logo="" group-title="其它",淄博新闻综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000292/index.m3u8
+#EXTINF:-1 tvg-id="淄博影视" tvg-name="淄博影视" tvg-logo="" group-title="其它",淄博影视
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001037/index.m3u8
+#EXTINF:-1 tvg-id="淄川新闻" tvg-name="淄川新闻" tvg-logo="" group-title="其它",淄川新闻
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001007/index.m3u8
+#EXTINF:-1 tvg-id="邹城综合" tvg-name="邹城综合" tvg-logo="" group-title="其它",邹城综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001038/index.m3u8
+#EXTINF:-1 tvg-id="邹平综合" tvg-name="邹平综合" tvg-logo="" group-title="其它",邹平综合
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00001058/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="{{your_logo_address}}/logo/CCTV4K.png" group-title="其它",CCTV4K
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
+#EXTINF:-1 tvg-id="CCTV央视购物" tvg-name="CCTV央视购物" tvg-logo="" group-title="其它",CCTV央视购物
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000702/index.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="{{your_logo_address}}/logo/CHC动作电影.png" group-title="其它",CHC动作电影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002030/index.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="{{your_logo_address}}/logo/CHC家庭影院.png" group-title="其它",CHC家庭影院
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002028/index.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="{{your_logo_address}}/logo/CHC影迷电影.png" group-title="其它",CHC影迷电影
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002029/index.m3u8
+#EXTINF:-1 tvg-id="KAKU卡酷少儿" tvg-name="KAKU卡酷少儿" tvg-logo="" group-title="其它",KAKU卡酷少儿
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000661/index.m3u8
+#EXTINF:-1 tvg-id="NNM新动漫" tvg-name="NNM新动漫" tvg-logo="" group-title="其它",NNM新动漫
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000659/index.m3u8
+#EXTINF:-1 tvg-id="SITV东方财经" tvg-name="SITV东方财经" tvg-logo="" group-title="其它",SITV东方财经
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002025/index.m3u8
+#EXTINF:-1 tvg-id="SITV动漫秀场" tvg-name="SITV动漫秀场" tvg-logo="" group-title="其它",SITV动漫秀场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002000/index.m3u8
+#EXTINF:-1 tvg-id="SITV都市" tvg-name="SITV都市" tvg-logo="" group-title="其它",SITV都市
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002022/index.m3u8
+#EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="" group-title="其它",SITV都市剧场
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000630/index.m3u8
+#EXTINF:-1 tvg-id="SITV法治天地" tvg-name="SITV法治天地" tvg-logo="" group-title="其它",SITV法治天地
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002010/index.m3u8
+#EXTINF:-1 tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="" group-title="其它",SITV金色学堂
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002018/index.m3u8
+#EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="" group-title="其它",SITV劲爆体育
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002026/index.m3u8
+#EXTINF:-1 tvg-id="SITV乐游" tvg-name="SITV乐游" tvg-logo="" group-title="其它",SITV乐游
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002016/index.m3u8
+#EXTINF:-1 tvg-id="SITV魅力足球" tvg-name="SITV魅力足球" tvg-logo="" group-title="其它",SITV魅力足球
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002021/index.m3u8
+#EXTINF:-1 tvg-id="SITV生活时尚" tvg-name="SITV生活时尚" tvg-logo="" group-title="其它",SITV生活时尚
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002019/index.m3u8
+#EXTINF:-1 tvg-id="SITV游戏风云" tvg-name="SITV游戏风云" tvg-logo="" group-title="其它",SITV游戏风云
+http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00002024/index.m3u8
