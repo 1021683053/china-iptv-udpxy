@@ -1,0 +1,67 @@
+# ============================================================
+# 频道名归一与扩展配置（两级结构：global 全局 + provinces 省份运营商补充）
+#
+# 数据源 xisohi/CHINA-IPTV 各省份对同一频道存在写法差异。
+# global 对所有省份生效；provinces 下按 {省份}/{运营商} 补充，
+# 省级配置在 global 之后执行，同名键覆盖 global、新增键追加。
+#
+# 每级均支持四段：
+#   aliases       精确归一：同台不同名 → 统一标准名（键=上游写法, 值=标准名）
+#   rules         正则归一：应对成规模写法差异（自上而下，先于 aliases）
+#   channels      频道属性覆盖（ignore 屏蔽 / group 覆盖分组 / logo 覆盖台标）
+#   logo_aliases  台标兜底：归一后仍未命中 Logo/ 时再查此表（值=台标文件名，不含 .png）
+#
+# 处理顺序：rules → aliases → channels → logo_aliases
+# ============================================================
+
+# ── 全局归一（所有省份通用）────────────────────────────────
+global:
+  aliases:
+    CGTN俄罗斯语: CGTN俄语
+    CGTN阿拉伯语: CGTN阿语
+    CGTN西班牙语: CGTN西语
+    哈哈炫幼: 哈哈炫动          # 上游湖北的错别字
+    卡酷卡通: 卡酷少儿
+    北京KAKU少儿: 卡酷少儿
+    茶频道台: 茶
+    凤凰卫视中文台: 凤凰中文
+    凤凰卫视资讯台: 凤凰资讯
+    中国教育1台: CETV1
+    中国教育4台: CETV4
+
+  rules:
+    - match: '^CCTV[-_\\s]+(\\d+)$'
+      replace: 'CCTV$1'
+    - match: '^CETV[-_\\s]+(\\d+)$'
+      replace: 'CETV$1'
+    - match: '^BESTV[-_\\s]*(\\d+)$'
+      replace: 'BESTV$1'
+
+  channels:
+    购物:
+      ignore: true
+    好易购:
+      ignore: true
+    轮播频道:
+      ignore: true
+
+  logo_aliases:
+    BESTV1: BesTV-1
+    BESTV2: BesTV-2
+    BESTV3: BesTV-3
+
+# ── 省份运营商级补充（键=省份拼音/运营商，覆盖或追加 global）──
+provinces:
+  zhejiang:
+    telecom:
+      aliases:
+        茶频道台: 茶频道        # 例：某省需要不同于全局的标准名时在此覆盖
+      channels:
+        高清直播:
+          ignore: true
+
+  anhui:
+    telecom:
+      aliases: {}
+      channels: {}
+      logo_aliases: {}
