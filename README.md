@@ -60,6 +60,31 @@ node server/server.mjs          # Node >= 18，默认 8080
 docker compose -f server/docker-compose.yml up -d --build
 ```
 
+## GitHub 自动构建与镜像部署
+
+推送到 `main` 后，GitHub Actions 会先校验数据，再构建并发布 `linux/amd64`、`linux/arm64` 镜像：
+
+```bash
+docker run -d --name china-iptv-udpxy --restart unless-stopped \
+  -p 8080:8080 ghcr.io/1021683053/china-iptv-udpxy:latest
+```
+
+浏览器访问 `http://服务器地址:8080`。镜像包含仓库内的频道模板和台标；更新数据并推送后会自动构建新镜像。
+
+- `main` 推送：发布 `latest` 和 `sha-<提交短哈希>` 标签。
+- `v*` 标签推送：发布同名版本镜像，例如 `v0.1.0`。
+- Pull Request：执行校验和构建，不发布镜像。
+- 在仓库 **Actions → Build and publish container → Run workflow** 可手动触发。
+
+工作流使用 GitHub 自动提供的 `GITHUB_TOKEN`，无需手动配置密码或 Token。
+首次发布后，如需匿名拉取，在 GitHub 个人主页的 **Packages → china-iptv-udpxy → Package settings → Change visibility** 中将镜像设为 **Public**（包首次发布默认私有）。
+
+代码推送：
+
+```bash
+git push -u origin main
+```
+
 ## 使用前提（重要）
 
 - 组播源设备必须与**光猫在同一网段**（组播不跨路由）
