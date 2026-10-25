@@ -211,7 +211,7 @@ http://{{your_udpxy_address}}/udp/239.10.0.118:1025
 http://{{your_udpxy_address}}/udp/239.10.0.183:1025
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="{{your_logo_address}}/logo/东方卫视.png" group-title="卫视",东方卫视
 http://{{your_udpxy_address}}/udp/239.11.0.203:1025
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="{{your_logo_address}}/logo/东方卫视.png" group-title="卫视",东方卫视
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="{{your_logo_address}}/logo/东方卫视4K.png" group-title="卫视",东方卫视4K
 http://{{your_udpxy_address}}/udp/239.21.0.169:4024
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="{{your_logo_address}}/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://{{your_udpxy_address}}/udp/239.20.0.159:2116
@@ -290,9 +290,9 @@ http://{{your_udpxy_address}}/udp/239.10.0.115:1025
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="{{your_logo_address}}/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://{{your_udpxy_address}}/udp/239.11.0.200:1025
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="{{your_logo_address}}/logo/湖南卫视.png" group-title="卫视",湖南卫视
-http://{{your_udpxy_address}}/udp/239.21.0.166:4012
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="{{your_logo_address}}/logo/湖南卫视.png" group-title="卫视",湖南卫视
 http://{{your_udpxy_address}}/udp/239.10.0.49:1025
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="{{your_logo_address}}/logo/湖南卫视4K.png" group-title="卫视",湖南卫视4K
+http://{{your_udpxy_address}}/udp/239.21.0.166:4012
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="{{your_logo_address}}/logo/吉林卫视.png" group-title="卫视",吉林卫视
 http://{{your_udpxy_address}}/udp/239.20.0.54:3184
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="{{your_logo_address}}/logo/吉林卫视.png" group-title="卫视",吉林卫视
@@ -307,7 +307,7 @@ http://{{your_udpxy_address}}/udp/239.10.0.117:1025
 http://{{your_udpxy_address}}/udp/239.10.0.180:1025
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="{{your_logo_address}}/logo/江苏卫视.png" group-title="卫视",江苏卫视
 http://{{your_udpxy_address}}/udp/239.11.0.201:1025
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="{{your_logo_address}}/logo/江苏卫视.png" group-title="卫视",江苏卫视
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="{{your_logo_address}}/logo/江苏卫视4K.png" group-title="卫视",江苏卫视4K
 http://{{your_udpxy_address}}/udp/239.21.0.167:4016
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="{{your_logo_address}}/logo/江西卫视.png" group-title="卫视",江西卫视
 http://{{your_udpxy_address}}/udp/239.20.0.138:2074
@@ -351,7 +351,7 @@ http://{{your_udpxy_address}}/udp/239.10.0.56:1025
 http://{{your_udpxy_address}}/udp/239.20.0.88:3048
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="{{your_logo_address}}/logo/山东卫视.png" group-title="卫视",山东卫视
 http://{{your_udpxy_address}}/udp/239.11.0.205:1025
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="{{your_logo_address}}/logo/山东卫视.png" group-title="卫视",山东卫视
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="{{your_logo_address}}/logo/山东卫视4K.png" group-title="卫视",山东卫视4K
 http://{{your_udpxy_address}}/udp/239.21.0.171:4032
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="{{your_logo_address}}/logo/山西卫视.png" group-title="卫视",山西卫视
 http://{{your_udpxy_address}}/udp/239.20.0.152:2102
@@ -377,7 +377,7 @@ http://{{your_udpxy_address}}/udp/239.20.0.194:2186
 http://{{your_udpxy_address}}/udp/239.10.0.204:1025
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="{{your_logo_address}}/logo/四川卫视.png" group-title="卫视",四川卫视
 http://{{your_udpxy_address}}/udp/239.11.0.204:1025
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="{{your_logo_address}}/logo/四川卫视.png" group-title="卫视",四川卫视
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="{{your_logo_address}}/logo/四川卫视4K.png" group-title="卫视",四川卫视4K
 http://{{your_udpxy_address}}/udp/239.21.0.170:4028
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="{{your_logo_address}}/logo/天津卫视.png" group-title="卫视",天津卫视
 http://{{your_udpxy_address}}/udp/239.20.0.171:2140
@@ -417,7 +417,7 @@ http://{{your_udpxy_address}}/udp/239.10.0.116:1025
 http://{{your_udpxy_address}}/udp/239.10.0.179:1025
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="{{your_logo_address}}/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://{{your_udpxy_address}}/udp/239.11.0.202:1025
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="{{your_logo_address}}/logo/浙江卫视.png" group-title="卫视",浙江卫视
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="{{your_logo_address}}/logo/浙江卫视4K.png" group-title="卫视",浙江卫视4K
 http://{{your_udpxy_address}}/udp/239.21.0.168:4020
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="{{your_logo_address}}/logo/卡酷少儿.png" group-title="地方",卡酷少儿
 http://{{your_udpxy_address}}/udp/239.20.0.162:2122
@@ -631,16 +631,32 @@ http://{{your_udpxy_address}}/udp/239.21.0.70:3620
 http://{{your_udpxy_address}}/udp/239.11.0.59:1025
 #EXTINF:-1 tvg-id="佛山公共" tvg-name="佛山公共" tvg-logo="{{your_logo_address}}/logo/佛山公共.png" group-title="其它",佛山公共
 http://{{your_udpxy_address}}/udp/239.11.0.114:1025
+#EXTINF:-1 tvg-id="佛山公共.576" tvg-name="佛山公共.576" tvg-logo="" group-title="其它",佛山公共.576
+http://{{your_udpxy_address}}/udp/239.11.0.109:1025
 #EXTINF:-1 tvg-id="佛山影视" tvg-name="佛山影视" tvg-logo="{{your_logo_address}}/logo/佛山影视.png" group-title="其它",佛山影视
 http://{{your_udpxy_address}}/udp/239.11.0.117:1025
 #EXTINF:-1 tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="{{your_logo_address}}/logo/佛山综合.png" group-title="其它",佛山综合
 http://{{your_udpxy_address}}/udp/239.11.0.118:1025
+#EXTINF:-1 tvg-id="佛山综合.576" tvg-name="佛山综合.576" tvg-logo="" group-title="其它",佛山综合.576
+http://{{your_udpxy_address}}/udp/239.11.0.113:1025
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="{{your_logo_address}}/logo/高尔夫网球.png" group-title="其它",高尔夫网球
 http://{{your_udpxy_address}}/udp/239.21.0.72:3628
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="{{your_logo_address}}/logo/高尔夫网球.png" group-title="其它",高尔夫网球
 http://{{your_udpxy_address}}/udp/239.11.0.61:1025
 #EXTINF:-1 tvg-id="广东房产" tvg-name="广东房产" tvg-logo="" group-title="其它",广东房产
 http://{{your_udpxy_address}}/udp/239.20.0.126:2050
+#EXTINF:-1 tvg-id="广东综艺4K" tvg-name="广东综艺4K" tvg-logo="" group-title="其它",广东综艺4K
+http://{{your_udpxy_address}}/udp/239.20.0.61:3156
+#EXTINF:-1 tvg-id="佛山影视.576" tvg-name="佛山影视.576" tvg-logo="" group-title="其它",佛山影视.576
+http://{{your_udpxy_address}}/udp/239.11.0.112:1025
+#EXTINF:-1 tvg-id="佛山南海.576" tvg-name="佛山南海.576" tvg-logo="" group-title="其它",佛山南海.576
+http://{{your_udpxy_address}}/udp/239.11.0.110:1025
+#EXTINF:-1 tvg-id="佛山顺德.576" tvg-name="佛山顺德.576" tvg-logo="" group-title="其它",佛山顺德.576
+http://{{your_udpxy_address}}/udp/239.11.0.111:1025
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="{{your_logo_address}}/logo/广州法治.png" group-title="其它",广州法治
+http://{{your_udpxy_address}}/udp/239.11.0.141:1025
+#EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="{{your_logo_address}}/logo/广州竞赛.png" group-title="其它",广州竞赛
+http://{{your_udpxy_address}}/udp/239.11.0.142:1025
 #EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="{{your_logo_address}}/logo/国学.png" group-title="其它",国学
 http://{{your_udpxy_address}}/udp/239.20.0.247:2292
 #EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="{{your_logo_address}}/logo/国学.png" group-title="其它",国学
@@ -649,10 +665,6 @@ http://{{your_udpxy_address}}/udp/239.10.0.38:1025
 http://{{your_udpxy_address}}/udp/239.20.0.56:3176
 #EXTINF:-1 tvg-id="河源公共" tvg-name="河源公共" tvg-logo="" group-title="其它",河源公共
 http://{{your_udpxy_address}}/udp/239.21.0.49:3536
-#EXTINF:-1 tvg-id="河源新闻综合" tvg-name="河源新闻综合" tvg-logo="" group-title="其它",河源新闻综合
-http://{{your_udpxy_address}}/udp/239.21.0.50:3540
-#EXTINF:-1 tvg-id="河源新闻综合" tvg-name="河源新闻综合" tvg-logo="" group-title="其它",河源新闻综合
-http://{{your_udpxy_address}}/udp/239.21.0.48:3532
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="{{your_logo_address}}/logo/怀旧剧场.png" group-title="其它",怀旧剧场
 http://{{your_udpxy_address}}/udp/239.21.0.75:3640
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="{{your_logo_address}}/logo/怀旧剧场.png" group-title="其它",怀旧剧场
@@ -671,12 +683,10 @@ http://{{your_udpxy_address}}/udp/239.20.0.51:3216
 http://{{your_udpxy_address}}/udp/239.10.0.140:1025
 #EXTINF:-1 tvg-id="江门公共" tvg-name="江门公共" tvg-logo="" group-title="其它",江门公共
 http://{{your_udpxy_address}}/udp/239.10.0.139:1025
+#EXTINF:-1 tvg-id="江门教育" tvg-name="江门教育" tvg-logo="" group-title="其它",江门教育
+http://{{your_udpxy_address}}/udp/239.10.0.152:1025
 #EXTINF:-1 tvg-id="江门综合" tvg-name="江门综合" tvg-logo="" group-title="其它",江门综合
 http://{{your_udpxy_address}}/udp/239.10.0.219:1025
-#EXTINF:-1 tvg-id="揭阳公共" tvg-name="揭阳公共" tvg-logo="" group-title="其它",揭阳公共
-http://{{your_udpxy_address}}/udp/239.21.0.83:3672
-#EXTINF:-1 tvg-id="揭阳公共" tvg-name="揭阳公共" tvg-logo="" group-title="其它",揭阳公共
-http://{{your_udpxy_address}}/udp/239.21.0.92:3708
 #EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="" group-title="其它",揭阳综合
 http://{{your_udpxy_address}}/udp/239.21.0.82:3668
 #EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="" group-title="其它",揭阳综合
@@ -685,78 +695,48 @@ http://{{your_udpxy_address}}/udp/239.21.0.91:3704
 http://{{your_udpxy_address}}/udp/239.20.0.233:2264
 #EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="" group-title="其它",经典电影
 http://{{your_udpxy_address}}/udp/239.10.0.13:1025
-#EXTINF:-1 tvg-id="精选频道1" tvg-name="精选频道1" tvg-logo="" group-title="其它",精选频道1
-http://{{your_udpxy_address}}/udp/239.20.0.17:3336
-#EXTINF:-1 tvg-id="精选频道2" tvg-name="精选频道2" tvg-logo="" group-title="其它",精选频道2
-http://{{your_udpxy_address}}/udp/239.20.0.21:3320
-#EXTINF:-1 tvg-id="精选频道3" tvg-name="精选频道3" tvg-logo="" group-title="其它",精选频道3
-http://{{your_udpxy_address}}/udp/239.20.0.20:3324
-#EXTINF:-1 tvg-id="精选频道4" tvg-name="精选频道4" tvg-logo="" group-title="其它",精选频道4
-http://{{your_udpxy_address}}/udp/239.20.0.19:3328
-#EXTINF:-1 tvg-id="广东综艺4K" tvg-name="广东综艺4K" tvg-logo="" group-title="其它",广东综艺4K
-http://{{your_udpxy_address}}/udp/239.20.0.61:3156
-#EXTINF:-1 tvg-id="江门教育" tvg-name="江门教育" tvg-logo="" group-title="其它",江门教育
-http://{{your_udpxy_address}}/udp/239.10.0.152:1025
 #EXTINF:-1 tvg-id="经济科教" tvg-name="经济科教" tvg-logo="" group-title="其它",经济科教
 http://{{your_udpxy_address}}/udp/239.20.0.191:2180
 #EXTINF:-1 tvg-id="经济科教" tvg-name="经济科教" tvg-logo="" group-title="其它",经济科教
 http://{{your_udpxy_address}}/udp/239.20.0.102:2002
 #EXTINF:-1 tvg-id="经济科教" tvg-name="经济科教" tvg-logo="" group-title="其它",经济科教
 http://{{your_udpxy_address}}/udp/239.20.0.98:3008
-#EXTINF:-1 tvg-id="热播剧场" tvg-name="热播剧场" tvg-logo="" group-title="其它",热播剧场
-http://{{your_udpxy_address}}/udp/239.20.0.235:2268
-#EXTINF:-1 tvg-id="热播剧场" tvg-name="热播剧场" tvg-logo="" group-title="其它",热播剧场
-http://{{your_udpxy_address}}/udp/239.10.0.15:1025
-#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="" group-title="其它",汕头经济生活
-http://{{your_udpxy_address}}/udp/239.21.0.99:3736
-#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="" group-title="其它",汕头经济生活
-http://{{your_udpxy_address}}/udp/239.21.0.102:3748
-#EXTINF:-1 tvg-id="汕尾1测试" tvg-name="汕尾1测试" tvg-logo="" group-title="其它",汕尾1测试
-http://{{your_udpxy_address}}/udp/239.20.0.23:3312
-#EXTINF:-1 tvg-id="汕尾2测试" tvg-name="汕尾2测试" tvg-logo="" group-title="其它",汕尾2测试
-http://{{your_udpxy_address}}/udp/239.20.0.22:3316
+#EXTINF:-1 tvg-id="精选频道1" tvg-name="精选频道1" tvg-logo="" group-title="其它",精选频道1
+http://{{your_udpxy_address}}/udp/239.20.0.17:3336
+#EXTINF:-1 tvg-id="精选频道2" tvg-name="精选频道2" tvg-logo="" group-title="其它",精选频道2
+http://{{your_udpxy_address}}/udp/239.20.0.21:3320
 #EXTINF:-1 tvg-id="咪咕高清赛事2" tvg-name="咪咕高清赛事2" tvg-logo="" group-title="其它",咪咕高清赛事2
 http://{{your_udpxy_address}}/udp/239.20.0.44:3228
+#EXTINF:-1 tvg-id="精选频道3" tvg-name="精选频道3" tvg-logo="" group-title="其它",精选频道3
+http://{{your_udpxy_address}}/udp/239.20.0.20:3324
 #EXTINF:-1 tvg-id="咪咕高清赛事3" tvg-name="咪咕高清赛事3" tvg-logo="" group-title="其它",咪咕高清赛事3
 http://{{your_udpxy_address}}/udp/239.20.0.43:3232
+#EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="" group-title="其它",南国都市4K
+http://{{your_udpxy_address}}/udp/239.11.0.170:1025
 #EXTINF:-1 tvg-id="广东4K" tvg-name="广东4K" tvg-logo="{{your_logo_address}}/logo/广东4K.png" group-title="其它",广东4K
 http://{{your_udpxy_address}}/udp/239.10.0.75:1025
 #EXTINF:-1 tvg-id="广东4K" tvg-name="广东4K" tvg-logo="{{your_logo_address}}/logo/广东4K.png" group-title="其它",广东4K
 http://{{your_udpxy_address}}/udp/239.10.0.76:1025
-#EXTINF:-1 tvg-id="精选频道5" tvg-name="精选频道5" tvg-logo="" group-title="其它",精选频道5
-http://{{your_udpxy_address}}/udp/239.20.0.18:3332
-#EXTINF:-1 tvg-id="精选4K频道1" tvg-name="精选4K频道1" tvg-logo="" group-title="其它",精选4K频道1
-http://{{your_udpxy_address}}/udp/239.21.0.97:3728
-#EXTINF:-1 tvg-id="精选4K频道2" tvg-name="精选4K频道2" tvg-logo="" group-title="其它",精选4K频道2
-http://{{your_udpxy_address}}/udp/239.20.0.250:2298
-#EXTINF:-1 tvg-id="精选4K频道3" tvg-name="精选4K频道3" tvg-logo="" group-title="其它",精选4K频道3
-http://{{your_udpxy_address}}/udp/239.20.0.46:3220
-#EXTINF:-1 tvg-id="佛山综合.576" tvg-name="佛山综合.576" tvg-logo="" group-title="其它",佛山综合.576
-http://{{your_udpxy_address}}/udp/239.11.0.113:1025
-#EXTINF:-1 tvg-id="佛山公共.576" tvg-name="佛山公共.576" tvg-logo="" group-title="其它",佛山公共.576
-http://{{your_udpxy_address}}/udp/239.11.0.109:1025
-#EXTINF:-1 tvg-id="佛山影视.576" tvg-name="佛山影视.576" tvg-logo="" group-title="其它",佛山影视.576
-http://{{your_udpxy_address}}/udp/239.11.0.112:1025
-#EXTINF:-1 tvg-id="佛山南海.576" tvg-name="佛山南海.576" tvg-logo="" group-title="其它",佛山南海.576
-http://{{your_udpxy_address}}/udp/239.11.0.110:1025
-#EXTINF:-1 tvg-id="佛山顺德.576" tvg-name="佛山顺德.576" tvg-logo="" group-title="其它",佛山顺德.576
-http://{{your_udpxy_address}}/udp/239.11.0.111:1025
-#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="{{your_logo_address}}/logo/广州法治.png" group-title="其它",广州法治
-http://{{your_udpxy_address}}/udp/239.11.0.141:1025
-#EXTINF:-1 tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="{{your_logo_address}}/logo/广州竞赛.png" group-title="其它",广州竞赛
-http://{{your_udpxy_address}}/udp/239.11.0.142:1025
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="{{your_logo_address}}/logo/广州新闻.png" group-title="其它",广州新闻
 http://{{your_udpxy_address}}/udp/239.11.0.139:1025
 #EXTINF:-1 tvg-id="广州影视" tvg-name="广州影视" tvg-logo="{{your_logo_address}}/logo/广州影视.png" group-title="其它",广州影视
 http://{{your_udpxy_address}}/udp/239.11.0.140:1025
 #EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="{{your_logo_address}}/logo/广州综合.png" group-title="其它",广州综合
 http://{{your_udpxy_address}}/udp/239.11.0.138:1025
+#EXTINF:-1 tvg-id="河源新闻综合" tvg-name="河源新闻综合" tvg-logo="" group-title="其它",河源新闻综合
+http://{{your_udpxy_address}}/udp/239.21.0.50:3540
+#EXTINF:-1 tvg-id="河源新闻综合" tvg-name="河源新闻综合" tvg-logo="" group-title="其它",河源新闻综合
+http://{{your_udpxy_address}}/udp/239.21.0.48:3532
 #EXTINF:-1 tvg-id="黑龙江卫视." tvg-name="黑龙江卫视." tvg-logo="" group-title="其它",黑龙江卫视.
 http://{{your_udpxy_address}}/udp/239.10.0.53:1025
 #EXTINF:-1 tvg-id="湖北卫视." tvg-name="湖北卫视." tvg-logo="" group-title="其它",湖北卫视.
 http://{{your_udpxy_address}}/udp/239.10.0.54:1025
 #EXTINF:-1 tvg-id="花屏" tvg-name="花屏" tvg-logo="" group-title="其它",花屏
 http://{{your_udpxy_address}}/udp/239.11.0.167:1025
+#EXTINF:-1 tvg-id="揭阳公共" tvg-name="揭阳公共" tvg-logo="" group-title="其它",揭阳公共
+http://{{your_udpxy_address}}/udp/239.21.0.83:3672
+#EXTINF:-1 tvg-id="揭阳公共" tvg-name="揭阳公共" tvg-logo="" group-title="其它",揭阳公共
+http://{{your_udpxy_address}}/udp/239.21.0.92:3708
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="{{your_logo_address}}/logo/睛彩广场舞.png" group-title="其它",睛彩广场舞
 http://{{your_udpxy_address}}/udp/239.11.0.184:1025
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="{{your_logo_address}}/logo/睛彩广场舞.png" group-title="其它",睛彩广场舞
@@ -765,6 +745,16 @@ http://{{your_udpxy_address}}/udp/239.21.0.153:3956
 http://{{your_udpxy_address}}/udp/239.11.0.183:1025
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="{{your_logo_address}}/logo/睛彩竞技.png" group-title="其它",睛彩竞技
 http://{{your_udpxy_address}}/udp/239.21.0.152:3952
+#EXTINF:-1 tvg-id="精选频道4" tvg-name="精选频道4" tvg-logo="" group-title="其它",精选频道4
+http://{{your_udpxy_address}}/udp/239.20.0.19:3328
+#EXTINF:-1 tvg-id="精选频道5" tvg-name="精选频道5" tvg-logo="" group-title="其它",精选频道5
+http://{{your_udpxy_address}}/udp/239.20.0.18:3332
+#EXTINF:-1 tvg-id="精选4K频道1" tvg-name="精选4K频道1" tvg-logo="" group-title="其它",精选4K频道1
+http://{{your_udpxy_address}}/udp/239.21.0.97:3728
+#EXTINF:-1 tvg-id="精选4K频道2" tvg-name="精选4K频道2" tvg-logo="" group-title="其它",精选4K频道2
+http://{{your_udpxy_address}}/udp/239.20.0.250:2298
+#EXTINF:-1 tvg-id="精选4K频道3" tvg-name="精选4K频道3" tvg-logo="" group-title="其它",精选4K频道3
+http://{{your_udpxy_address}}/udp/239.20.0.46:3220
 #EXTINF:-1 tvg-id="靓妆" tvg-name="靓妆" tvg-logo="{{your_logo_address}}/logo/靓妆.png" group-title="其它",靓妆
 http://{{your_udpxy_address}}/udp/239.20.0.188:2174
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="{{your_logo_address}}/logo/老故事.png" group-title="其它",老故事
@@ -779,150 +769,24 @@ http://{{your_udpxy_address}}/udp/239.10.0.238:1025
 http://{{your_udpxy_address}}/udp/239.20.0.239:2276
 #EXTINF:-1 tvg-id="魅力时尚" tvg-name="魅力时尚" tvg-logo="" group-title="其它",魅力时尚
 http://{{your_udpxy_address}}/udp/239.10.0.19:1025
+#EXTINF:-1 tvg-id="热播剧场" tvg-name="热播剧场" tvg-logo="" group-title="其它",热播剧场
+http://{{your_udpxy_address}}/udp/239.20.0.235:2268
+#EXTINF:-1 tvg-id="热播剧场" tvg-name="热播剧场" tvg-logo="" group-title="其它",热播剧场
+http://{{your_udpxy_address}}/udp/239.10.0.15:1025
+#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="" group-title="其它",汕头经济生活
+http://{{your_udpxy_address}}/udp/239.21.0.99:3736
+#EXTINF:-1 tvg-id="汕头经济生活" tvg-name="汕头经济生活" tvg-logo="" group-title="其它",汕头经济生活
+http://{{your_udpxy_address}}/udp/239.21.0.102:3748
+#EXTINF:-1 tvg-id="汕尾1测试" tvg-name="汕尾1测试" tvg-logo="" group-title="其它",汕尾1测试
+http://{{your_udpxy_address}}/udp/239.20.0.23:3312
 #EXTINF:-1 tvg-id="咪咕高清赛事1" tvg-name="咪咕高清赛事1" tvg-logo="" group-title="其它",咪咕高清赛事1
 http://{{your_udpxy_address}}/udp/239.20.0.45:3224
+#EXTINF:-1 tvg-id="汕尾2测试" tvg-name="汕尾2测试" tvg-logo="" group-title="其它",汕尾2测试
+http://{{your_udpxy_address}}/udp/239.20.0.22:3316
 #EXTINF:-1 tvg-id="咪咕高清赛事4" tvg-name="咪咕高清赛事4" tvg-logo="" group-title="其它",咪咕高清赛事4
 http://{{your_udpxy_address}}/udp/239.20.0.14:3348
-#EXTINF:-1 tvg-id="咪咕高清赛事5" tvg-name="咪咕高清赛事5" tvg-logo="" group-title="其它",咪咕高清赛事5
-http://{{your_udpxy_address}}/udp/239.20.0.13:3352
-#EXTINF:-1 tvg-id="咪咕高清赛事6" tvg-name="咪咕高清赛事6" tvg-logo="" group-title="其它",咪咕高清赛事6
-http://{{your_udpxy_address}}/udp/239.20.0.12:3356
-#EXTINF:-1 tvg-id="咪咕高清赛事7" tvg-name="咪咕高清赛事7" tvg-logo="" group-title="其它",咪咕高清赛事7
-http://{{your_udpxy_address}}/udp/239.20.0.11:3360
-#EXTINF:-1 tvg-id="咪咕高清赛事8" tvg-name="咪咕高清赛事8" tvg-logo="" group-title="其它",咪咕高清赛事8
-http://{{your_udpxy_address}}/udp/239.20.0.10:3364
-#EXTINF:-1 tvg-id="咪咕高清赛事9" tvg-name="咪咕高清赛事9" tvg-logo="" group-title="其它",咪咕高清赛事9
-http://{{your_udpxy_address}}/udp/239.20.0.09:3368
-#EXTINF:-1 tvg-id="咪咕高清赛事10" tvg-name="咪咕高清赛事10" tvg-logo="" group-title="其它",咪咕高清赛事10
-http://{{your_udpxy_address}}/udp/239.21.0.10:3380
-#EXTINF:-1 tvg-id="咪咕高清赛事11" tvg-name="咪咕高清赛事11" tvg-logo="" group-title="其它",咪咕高清赛事11
-http://{{your_udpxy_address}}/udp/239.21.0.11:3384
-#EXTINF:-1 tvg-id="咪咕高清赛事12" tvg-name="咪咕高清赛事12" tvg-logo="" group-title="其它",咪咕高清赛事12
-http://{{your_udpxy_address}}/udp/239.21.0.12:3388
-#EXTINF:-1 tvg-id="咪咕高清赛事13" tvg-name="咪咕高清赛事13" tvg-logo="" group-title="其它",咪咕高清赛事13
-http://{{your_udpxy_address}}/udp/239.21.0.13:3392
-#EXTINF:-1 tvg-id="咪咕高清赛事14" tvg-name="咪咕高清赛事14" tvg-logo="" group-title="其它",咪咕高清赛事14
-http://{{your_udpxy_address}}/udp/239.21.0.14:3396
-#EXTINF:-1 tvg-id="咪咕高清赛事15" tvg-name="咪咕高清赛事15" tvg-logo="" group-title="其它",咪咕高清赛事15
-http://{{your_udpxy_address}}/udp/239.21.0.15:3400
-#EXTINF:-1 tvg-id="咪咕高清赛事16" tvg-name="咪咕高清赛事16" tvg-logo="" group-title="其它",咪咕高清赛事16
-http://{{your_udpxy_address}}/udp/239.21.0.16:3404
-#EXTINF:-1 tvg-id="咪咕高清赛事17" tvg-name="咪咕高清赛事17" tvg-logo="" group-title="其它",咪咕高清赛事17
-http://{{your_udpxy_address}}/udp/239.21.0.17:3408
-#EXTINF:-1 tvg-id="咪咕高清赛事18" tvg-name="咪咕高清赛事18" tvg-logo="" group-title="其它",咪咕高清赛事18
-http://{{your_udpxy_address}}/udp/239.21.0.18:3412
-#EXTINF:-1 tvg-id="咪咕高清赛事19" tvg-name="咪咕高清赛事19" tvg-logo="" group-title="其它",咪咕高清赛事19
-http://{{your_udpxy_address}}/udp/239.21.0.19:3416
-#EXTINF:-1 tvg-id="咪咕高清赛事20" tvg-name="咪咕高清赛事20" tvg-logo="" group-title="其它",咪咕高清赛事20
-http://{{your_udpxy_address}}/udp/239.21.0.20:3420
-#EXTINF:-1 tvg-id="咪咕高清赛事21" tvg-name="咪咕高清赛事21" tvg-logo="" group-title="其它",咪咕高清赛事21
-http://{{your_udpxy_address}}/udp/239.21.0.21:3424
-#EXTINF:-1 tvg-id="咪咕高清赛事22" tvg-name="咪咕高清赛事22" tvg-logo="" group-title="其它",咪咕高清赛事22
-http://{{your_udpxy_address}}/udp/239.21.0.22:3428
-#EXTINF:-1 tvg-id="咪咕高清赛事23" tvg-name="咪咕高清赛事23" tvg-logo="" group-title="其它",咪咕高清赛事23
-http://{{your_udpxy_address}}/udp/239.21.0.23:3432
-#EXTINF:-1 tvg-id="咪咕高清赛事25" tvg-name="咪咕高清赛事25" tvg-logo="" group-title="其它",咪咕高清赛事25
-http://{{your_udpxy_address}}/udp/239.21.0.29:3456
-#EXTINF:-1 tvg-id="咪咕高清赛事26" tvg-name="咪咕高清赛事26" tvg-logo="" group-title="其它",咪咕高清赛事26
-http://{{your_udpxy_address}}/udp/239.21.0.30:3460
-#EXTINF:-1 tvg-id="咪咕高清赛事27" tvg-name="咪咕高清赛事27" tvg-logo="" group-title="其它",咪咕高清赛事27
-http://{{your_udpxy_address}}/udp/239.21.0.31:3464
-#EXTINF:-1 tvg-id="咪咕高清赛事28" tvg-name="咪咕高清赛事28" tvg-logo="" group-title="其它",咪咕高清赛事28
-http://{{your_udpxy_address}}/udp/239.21.0.32:3468
-#EXTINF:-1 tvg-id="咪咕高清赛事29" tvg-name="咪咕高清赛事29" tvg-logo="" group-title="其它",咪咕高清赛事29
-http://{{your_udpxy_address}}/udp/239.21.0.33:3472
-#EXTINF:-1 tvg-id="咪咕五大联赛4K1" tvg-name="咪咕五大联赛4K1" tvg-logo="" group-title="其它",咪咕五大联赛4K1
-http://{{your_udpxy_address}}/udp/239.20.0.66:3136
-#EXTINF:-1 tvg-id="咪咕五大联赛4K1" tvg-name="咪咕五大联赛4K1" tvg-logo="" group-title="其它",咪咕五大联赛4K1
-http://{{your_udpxy_address}}/udp/239.10.0.68:1025
-#EXTINF:-1 tvg-id="百视通高清直播室101" tvg-name="百视通高清直播室101" tvg-logo="" group-title="其它",百视通高清直播室101
-http://{{your_udpxy_address}}/udp/239.20.0.42:3236
-#EXTINF:-1 tvg-id="百视通高清直播室102" tvg-name="百视通高清直播室102" tvg-logo="" group-title="其它",百视通高清直播室102
-http://{{your_udpxy_address}}/udp/239.20.0.41:3240
-#EXTINF:-1 tvg-id="百视通高清直播室103" tvg-name="百视通高清直播室103" tvg-logo="" group-title="其它",百视通高清直播室103
-http://{{your_udpxy_address}}/udp/239.20.0.40:3244
-#EXTINF:-1 tvg-id="百视通高清直播室104" tvg-name="百视通高清直播室104" tvg-logo="" group-title="其它",百视通高清直播室104
-http://{{your_udpxy_address}}/udp/239.20.0.39:3248
-#EXTINF:-1 tvg-id="百视通高清直播室105" tvg-name="百视通高清直播室105" tvg-logo="" group-title="其它",百视通高清直播室105
-http://{{your_udpxy_address}}/udp/239.20.0.38:3252
-#EXTINF:-1 tvg-id="百视通高清直播室106" tvg-name="百视通高清直播室106" tvg-logo="" group-title="其它",百视通高清直播室106
-http://{{your_udpxy_address}}/udp/239.20.0.37:3256
-#EXTINF:-1 tvg-id="百视通高清直播室107" tvg-name="百视通高清直播室107" tvg-logo="" group-title="其它",百视通高清直播室107
-http://{{your_udpxy_address}}/udp/239.20.0.36:3260
-#EXTINF:-1 tvg-id="咪咕赛事000" tvg-name="咪咕赛事000" tvg-logo="" group-title="其它",咪咕赛事000
-http://{{your_udpxy_address}}/udp/239.11.0.14:1025
-#EXTINF:-1 tvg-id="咪咕赛事1" tvg-name="咪咕赛事1" tvg-logo="" group-title="其它",咪咕赛事1
-http://{{your_udpxy_address}}/udp/239.10.0.87:1025
-#EXTINF:-1 tvg-id="咪咕赛事2" tvg-name="咪咕赛事2" tvg-logo="" group-title="其它",咪咕赛事2
-http://{{your_udpxy_address}}/udp/239.10.0.88:1025
-#EXTINF:-1 tvg-id="精选3" tvg-name="精选3" tvg-logo="" group-title="其它",精选3
-http://{{your_udpxy_address}}/udp/239.10.0.242:1025
-#EXTINF:-1 tvg-id="咪咕赛事3" tvg-name="咪咕赛事3" tvg-logo="" group-title="其它",咪咕赛事3
-http://{{your_udpxy_address}}/udp/239.10.0.89:1025
-#EXTINF:-1 tvg-id="咪咕赛事4" tvg-name="咪咕赛事4" tvg-logo="" group-title="其它",咪咕赛事4
-http://{{your_udpxy_address}}/udp/239.10.0.247:1025
-#EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="" group-title="其它",南国都市4K
-http://{{your_udpxy_address}}/udp/239.11.0.170:1025
-#EXTINF:-1 tvg-id="咪咕赛事5" tvg-name="咪咕赛事5" tvg-logo="" group-title="其它",咪咕赛事5
-http://{{your_udpxy_address}}/udp/239.10.0.248:1025
-#EXTINF:-1 tvg-id="咪咕赛事6" tvg-name="咪咕赛事6" tvg-logo="" group-title="其它",咪咕赛事6
-http://{{your_udpxy_address}}/udp/239.10.0.249:1025
-#EXTINF:-1 tvg-id="咪咕赛事7" tvg-name="咪咕赛事7" tvg-logo="" group-title="其它",咪咕赛事7
-http://{{your_udpxy_address}}/udp/239.10.0.250:1025
-#EXTINF:-1 tvg-id="咪咕赛事8" tvg-name="咪咕赛事8" tvg-logo="" group-title="其它",咪咕赛事8
-http://{{your_udpxy_address}}/udp/239.10.0.251:1025
-#EXTINF:-1 tvg-id="咪咕赛事9" tvg-name="咪咕赛事9" tvg-logo="" group-title="其它",咪咕赛事9
-http://{{your_udpxy_address}}/udp/239.10.0.252:1025
-#EXTINF:-1 tvg-id="咪咕赛事10" tvg-name="咪咕赛事10" tvg-logo="" group-title="其它",咪咕赛事10
-http://{{your_udpxy_address}}/udp/239.11.0.1:1025
-#EXTINF:-1 tvg-id="咪咕赛事11" tvg-name="咪咕赛事11" tvg-logo="" group-title="其它",咪咕赛事11
-http://{{your_udpxy_address}}/udp/239.11.0.2:1025
-#EXTINF:-1 tvg-id="咪咕赛事12" tvg-name="咪咕赛事12" tvg-logo="" group-title="其它",咪咕赛事12
-http://{{your_udpxy_address}}/udp/239.11.0.3:1025
-#EXTINF:-1 tvg-id="咪咕赛事13" tvg-name="咪咕赛事13" tvg-logo="" group-title="其它",咪咕赛事13
-http://{{your_udpxy_address}}/udp/239.11.0.4:1025
-#EXTINF:-1 tvg-id="咪咕赛事14" tvg-name="咪咕赛事14" tvg-logo="" group-title="其它",咪咕赛事14
-http://{{your_udpxy_address}}/udp/239.11.0.5:1025
-#EXTINF:-1 tvg-id="咪咕赛事15" tvg-name="咪咕赛事15" tvg-logo="" group-title="其它",咪咕赛事15
-http://{{your_udpxy_address}}/udp/239.11.0.6:1025
-#EXTINF:-1 tvg-id="咪咕赛事16" tvg-name="咪咕赛事16" tvg-logo="" group-title="其它",咪咕赛事16
-http://{{your_udpxy_address}}/udp/239.11.0.7:1025
-#EXTINF:-1 tvg-id="咪咕赛事17" tvg-name="咪咕赛事17" tvg-logo="" group-title="其它",咪咕赛事17
-http://{{your_udpxy_address}}/udp/239.11.0.8:1025
-#EXTINF:-1 tvg-id="咪咕赛事18" tvg-name="咪咕赛事18" tvg-logo="" group-title="其它",咪咕赛事18
-http://{{your_udpxy_address}}/udp/239.11.0.9:1025
-#EXTINF:-1 tvg-id="咪咕赛事19" tvg-name="咪咕赛事19" tvg-logo="" group-title="其它",咪咕赛事19
-http://{{your_udpxy_address}}/udp/239.11.0.10:1025
-#EXTINF:-1 tvg-id="咪咕赛事20" tvg-name="咪咕赛事20" tvg-logo="" group-title="其它",咪咕赛事20
-http://{{your_udpxy_address}}/udp/239.11.0.11:1025
-#EXTINF:-1 tvg-id="咪咕赛事21" tvg-name="咪咕赛事21" tvg-logo="" group-title="其它",咪咕赛事21
-http://{{your_udpxy_address}}/udp/239.11.0.12:1025
-#EXTINF:-1 tvg-id="咪咕赛事22" tvg-name="咪咕赛事22" tvg-logo="" group-title="其它",咪咕赛事22
-http://{{your_udpxy_address}}/udp/239.11.0.13:1025
-#EXTINF:-1 tvg-id="咪咕赛事23" tvg-name="咪咕赛事23" tvg-logo="" group-title="其它",咪咕赛事23
-http://{{your_udpxy_address}}/udp/239.11.0.18:1025
-#EXTINF:-1 tvg-id="咪咕赛事24" tvg-name="咪咕赛事24" tvg-logo="" group-title="其它",咪咕赛事24
-http://{{your_udpxy_address}}/udp/239.11.0.19:1025
-#EXTINF:-1 tvg-id="咪咕赛事25" tvg-name="咪咕赛事25" tvg-logo="" group-title="其它",咪咕赛事25
-http://{{your_udpxy_address}}/udp/239.11.0.20:1025
-#EXTINF:-1 tvg-id="咪咕赛事26" tvg-name="咪咕赛事26" tvg-logo="" group-title="其它",咪咕赛事26
-http://{{your_udpxy_address}}/udp/239.11.0.21:1025
-#EXTINF:-1 tvg-id="咪咕赛事27" tvg-name="咪咕赛事27" tvg-logo="" group-title="其它",咪咕赛事27
-http://{{your_udpxy_address}}/udp/239.11.0.22:1025
-#EXTINF:-1 tvg-id="百视通直播室102" tvg-name="百视通直播室102" tvg-logo="" group-title="其它",百视通直播室102
-http://{{your_udpxy_address}}/udp/239.10.0.91:1025
-#EXTINF:-1 tvg-id="百视通直播室103" tvg-name="百视通直播室103" tvg-logo="" group-title="其它",百视通直播室103
-http://{{your_udpxy_address}}/udp/239.10.0.92:1025
-#EXTINF:-1 tvg-id="百视通直播室104" tvg-name="百视通直播室104" tvg-logo="" group-title="其它",百视通直播室104
-http://{{your_udpxy_address}}/udp/239.10.0.93:1025
-#EXTINF:-1 tvg-id="百视通直播室105" tvg-name="百视通直播室105" tvg-logo="" group-title="其它",百视通直播室105
-http://{{your_udpxy_address}}/udp/239.10.0.94:1025
-#EXTINF:-1 tvg-id="百视通直播室106" tvg-name="百视通直播室106" tvg-logo="" group-title="其它",百视通直播室106
-http://{{your_udpxy_address}}/udp/239.10.0.95:1025
-#EXTINF:-1 tvg-id="百视通直播室107" tvg-name="百视通直播室107" tvg-logo="" group-title="其它",百视通直播室107
-http://{{your_udpxy_address}}/udp/239.10.0.96:1025
-#EXTINF:-1 tvg-id="江门综合.576" tvg-name="江门综合.576" tvg-logo="" group-title="其它",江门综合.576
-http://{{your_udpxy_address}}/udp/239.11.0.69:1025
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="{{your_logo_address}}/logo/CCTV4K.png" group-title="其它",CCTV4K
+http://{{your_udpxy_address}}/udp/239.11.0.161:1025
 #EXTINF:-1 tvg-id="江门侨乡生活.576" tvg-name="江门侨乡生活.576" tvg-logo="" group-title="其它",江门侨乡生活.576
 http://{{your_udpxy_address}}/udp/239.11.0.70:1025
 #EXTINF:-1 tvg-id="茂名综合.576" tvg-name="茂名综合.576" tvg-logo="" group-title="其它",茂名综合.576
@@ -1019,8 +883,74 @@ http://{{your_udpxy_address}}/udp/239.11.0.60:1025
 http://{{your_udpxy_address}}/udp/239.11.0.189:1025
 #EXTINF:-1 tvg-id="阳江2" tvg-name="阳江2" tvg-logo="" group-title="其它",阳江2
 http://{{your_udpxy_address}}/udp/239.11.0.190:1025
+#EXTINF:-1 tvg-id="咪咕高清赛事5" tvg-name="咪咕高清赛事5" tvg-logo="" group-title="其它",咪咕高清赛事5
+http://{{your_udpxy_address}}/udp/239.20.0.13:3352
+#EXTINF:-1 tvg-id="咪咕高清赛事6" tvg-name="咪咕高清赛事6" tvg-logo="" group-title="其它",咪咕高清赛事6
+http://{{your_udpxy_address}}/udp/239.20.0.12:3356
+#EXTINF:-1 tvg-id="咪咕高清赛事7" tvg-name="咪咕高清赛事7" tvg-logo="" group-title="其它",咪咕高清赛事7
+http://{{your_udpxy_address}}/udp/239.20.0.11:3360
+#EXTINF:-1 tvg-id="咪咕高清赛事8" tvg-name="咪咕高清赛事8" tvg-logo="" group-title="其它",咪咕高清赛事8
+http://{{your_udpxy_address}}/udp/239.20.0.10:3364
+#EXTINF:-1 tvg-id="咪咕高清赛事9" tvg-name="咪咕高清赛事9" tvg-logo="" group-title="其它",咪咕高清赛事9
+http://{{your_udpxy_address}}/udp/239.20.0.09:3368
+#EXTINF:-1 tvg-id="咪咕高清赛事10" tvg-name="咪咕高清赛事10" tvg-logo="" group-title="其它",咪咕高清赛事10
+http://{{your_udpxy_address}}/udp/239.21.0.10:3380
+#EXTINF:-1 tvg-id="咪咕高清赛事11" tvg-name="咪咕高清赛事11" tvg-logo="" group-title="其它",咪咕高清赛事11
+http://{{your_udpxy_address}}/udp/239.21.0.11:3384
+#EXTINF:-1 tvg-id="咪咕高清赛事12" tvg-name="咪咕高清赛事12" tvg-logo="" group-title="其它",咪咕高清赛事12
+http://{{your_udpxy_address}}/udp/239.21.0.12:3388
+#EXTINF:-1 tvg-id="咪咕高清赛事13" tvg-name="咪咕高清赛事13" tvg-logo="" group-title="其它",咪咕高清赛事13
+http://{{your_udpxy_address}}/udp/239.21.0.13:3392
+#EXTINF:-1 tvg-id="咪咕高清赛事14" tvg-name="咪咕高清赛事14" tvg-logo="" group-title="其它",咪咕高清赛事14
+http://{{your_udpxy_address}}/udp/239.21.0.14:3396
+#EXTINF:-1 tvg-id="咪咕高清赛事15" tvg-name="咪咕高清赛事15" tvg-logo="" group-title="其它",咪咕高清赛事15
+http://{{your_udpxy_address}}/udp/239.21.0.15:3400
+#EXTINF:-1 tvg-id="咪咕高清赛事16" tvg-name="咪咕高清赛事16" tvg-logo="" group-title="其它",咪咕高清赛事16
+http://{{your_udpxy_address}}/udp/239.21.0.16:3404
+#EXTINF:-1 tvg-id="咪咕高清赛事17" tvg-name="咪咕高清赛事17" tvg-logo="" group-title="其它",咪咕高清赛事17
+http://{{your_udpxy_address}}/udp/239.21.0.17:3408
+#EXTINF:-1 tvg-id="咪咕高清赛事18" tvg-name="咪咕高清赛事18" tvg-logo="" group-title="其它",咪咕高清赛事18
+http://{{your_udpxy_address}}/udp/239.21.0.18:3412
+#EXTINF:-1 tvg-id="咪咕高清赛事19" tvg-name="咪咕高清赛事19" tvg-logo="" group-title="其它",咪咕高清赛事19
+http://{{your_udpxy_address}}/udp/239.21.0.19:3416
+#EXTINF:-1 tvg-id="咪咕高清赛事20" tvg-name="咪咕高清赛事20" tvg-logo="" group-title="其它",咪咕高清赛事20
+http://{{your_udpxy_address}}/udp/239.21.0.20:3420
+#EXTINF:-1 tvg-id="咪咕高清赛事21" tvg-name="咪咕高清赛事21" tvg-logo="" group-title="其它",咪咕高清赛事21
+http://{{your_udpxy_address}}/udp/239.21.0.21:3424
+#EXTINF:-1 tvg-id="咪咕高清赛事22" tvg-name="咪咕高清赛事22" tvg-logo="" group-title="其它",咪咕高清赛事22
+http://{{your_udpxy_address}}/udp/239.21.0.22:3428
+#EXTINF:-1 tvg-id="咪咕高清赛事23" tvg-name="咪咕高清赛事23" tvg-logo="" group-title="其它",咪咕高清赛事23
+http://{{your_udpxy_address}}/udp/239.21.0.23:3432
+#EXTINF:-1 tvg-id="咪咕高清赛事25" tvg-name="咪咕高清赛事25" tvg-logo="" group-title="其它",咪咕高清赛事25
+http://{{your_udpxy_address}}/udp/239.21.0.29:3456
+#EXTINF:-1 tvg-id="咪咕高清赛事26" tvg-name="咪咕高清赛事26" tvg-logo="" group-title="其它",咪咕高清赛事26
+http://{{your_udpxy_address}}/udp/239.21.0.30:3460
+#EXTINF:-1 tvg-id="咪咕高清赛事27" tvg-name="咪咕高清赛事27" tvg-logo="" group-title="其它",咪咕高清赛事27
+http://{{your_udpxy_address}}/udp/239.21.0.31:3464
+#EXTINF:-1 tvg-id="咪咕高清赛事28" tvg-name="咪咕高清赛事28" tvg-logo="" group-title="其它",咪咕高清赛事28
+http://{{your_udpxy_address}}/udp/239.21.0.32:3468
+#EXTINF:-1 tvg-id="咪咕高清赛事29" tvg-name="咪咕高清赛事29" tvg-logo="" group-title="其它",咪咕高清赛事29
+http://{{your_udpxy_address}}/udp/239.21.0.33:3472
+#EXTINF:-1 tvg-id="咪咕五大联赛4K1" tvg-name="咪咕五大联赛4K1" tvg-logo="" group-title="其它",咪咕五大联赛4K1
+http://{{your_udpxy_address}}/udp/239.20.0.66:3136
+#EXTINF:-1 tvg-id="咪咕五大联赛4K1" tvg-name="咪咕五大联赛4K1" tvg-logo="" group-title="其它",咪咕五大联赛4K1
+http://{{your_udpxy_address}}/udp/239.10.0.68:1025
+#EXTINF:-1 tvg-id="百视通高清直播室101" tvg-name="百视通高清直播室101" tvg-logo="" group-title="其它",百视通高清直播室101
+http://{{your_udpxy_address}}/udp/239.20.0.42:3236
 #EXTINF:-1 tvg-id="百视通直播室101" tvg-name="百视通直播室101" tvg-logo="" group-title="其它",百视通直播室101
 http://{{your_udpxy_address}}/udp/239.10.0.90:1025
+#EXTINF:-1 tvg-id="百视通高清直播室102" tvg-name="百视通高清直播室102" tvg-logo="" group-title="其它",百视通高清直播室102
+http://{{your_udpxy_address}}/udp/239.20.0.41:3240
+#EXTINF:-1 tvg-id="百视通高清直播室103" tvg-name="百视通高清直播室103" tvg-logo="" group-title="其它",百视通高清直播室103
+http://{{your_udpxy_address}}/udp/239.20.0.40:3244
+#EXTINF:-1 tvg-id="百视通高清直播室104" tvg-name="百视通高清直播室104" tvg-logo="" group-title="其它",百视通高清直播室104
+http://{{your_udpxy_address}}/udp/239.20.0.39:3248
+#EXTINF:-1 tvg-id="百视通高清直播室105" tvg-name="百视通高清直播室105" tvg-logo="" group-title="其它",百视通高清直播室105
+http://{{your_udpxy_address}}/udp/239.20.0.38:3252
+#EXTINF:-1 tvg-id="百视通高清直播室106" tvg-name="百视通高清直播室106" tvg-logo="" group-title="其它",百视通高清直播室106
+http://{{your_udpxy_address}}/udp/239.20.0.37:3256
+#EXTINF:-1 tvg-id="百视通高清直播室107" tvg-name="百视通高清直播室107" tvg-logo="" group-title="其它",百视通高清直播室107
+http://{{your_udpxy_address}}/udp/239.20.0.36:3260
 #EXTINF:-1 tvg-id="深圳卫视4K超清25P" tvg-name="深圳卫视4K超清25P" tvg-logo="" group-title="其它",深圳卫视4K超清25P
 http://{{your_udpxy_address}}/udp/239.11.0.195:1025
 #EXTINF:-1 tvg-id="深圳卫视4K超清25P" tvg-name="深圳卫视4K超清25P" tvg-logo="" group-title="其它",深圳卫视4K超清25P
@@ -1031,6 +961,12 @@ http://{{your_udpxy_address}}/udp/239.10.0.174:1025
 http://{{your_udpxy_address}}/udp/239.10.0.177:1025
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="{{your_logo_address}}/logo/快乐垂钓.png" group-title="其它",快乐垂钓
 http://{{your_udpxy_address}}/udp/239.11.0.131:1025
+#EXTINF:-1 tvg-id="咪咕赛事000" tvg-name="咪咕赛事000" tvg-logo="" group-title="其它",咪咕赛事000
+http://{{your_udpxy_address}}/udp/239.11.0.14:1025
+#EXTINF:-1 tvg-id="咪咕赛事1" tvg-name="咪咕赛事1" tvg-logo="" group-title="其它",咪咕赛事1
+http://{{your_udpxy_address}}/udp/239.10.0.87:1025
+#EXTINF:-1 tvg-id="咪咕赛事2" tvg-name="咪咕赛事2" tvg-logo="" group-title="其它",咪咕赛事2
+http://{{your_udpxy_address}}/udp/239.10.0.88:1025
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="{{your_logo_address}}/logo/天元围棋.png" group-title="其它",天元围棋
 http://{{your_udpxy_address}}/udp/239.11.0.169:1025
 #EXTINF:-1 tvg-id="移动" tvg-name="移动" tvg-logo="" group-title="其它",移动
@@ -1047,52 +983,118 @@ http://{{your_udpxy_address}}/udp/239.20.0.187:2172
 http://{{your_udpxy_address}}/udp/239.10.0.21:1025
 #EXTINF:-1 tvg-id="粤TV2" tvg-name="粤TV2" tvg-logo="" group-title="其它",粤TV2
 http://{{your_udpxy_address}}/udp/239.10.0.24:1025
+#EXTINF:-1 tvg-id="精选3" tvg-name="精选3" tvg-logo="" group-title="其它",精选3
+http://{{your_udpxy_address}}/udp/239.10.0.242:1025
+#EXTINF:-1 tvg-id="咪咕赛事3" tvg-name="咪咕赛事3" tvg-logo="" group-title="其它",咪咕赛事3
+http://{{your_udpxy_address}}/udp/239.10.0.89:1025
 #EXTINF:-1 tvg-id="粤TV3" tvg-name="粤TV3" tvg-logo="" group-title="其它",粤TV3
 http://{{your_udpxy_address}}/udp/239.10.0.25:1025
+#EXTINF:-1 tvg-id="咪咕赛事4" tvg-name="咪咕赛事4" tvg-logo="" group-title="其它",咪咕赛事4
+http://{{your_udpxy_address}}/udp/239.10.0.247:1025
 #EXTINF:-1 tvg-id="粤TV4" tvg-name="粤TV4" tvg-logo="" group-title="其它",粤TV4
 http://{{your_udpxy_address}}/udp/239.10.0.27:1025
+#EXTINF:-1 tvg-id="咪咕赛事5" tvg-name="咪咕赛事5" tvg-logo="" group-title="其它",咪咕赛事5
+http://{{your_udpxy_address}}/udp/239.10.0.248:1025
 #EXTINF:-1 tvg-id="粤TV5" tvg-name="粤TV5" tvg-logo="" group-title="其它",粤TV5
 http://{{your_udpxy_address}}/udp/239.10.0.28:1025
+#EXTINF:-1 tvg-id="咪咕赛事6" tvg-name="咪咕赛事6" tvg-logo="" group-title="其它",咪咕赛事6
+http://{{your_udpxy_address}}/udp/239.10.0.249:1025
 #EXTINF:-1 tvg-id="粤TV6" tvg-name="粤TV6" tvg-logo="" group-title="其它",粤TV6
 http://{{your_udpxy_address}}/udp/239.10.0.37:1025
+#EXTINF:-1 tvg-id="咪咕赛事7" tvg-name="咪咕赛事7" tvg-logo="" group-title="其它",咪咕赛事7
+http://{{your_udpxy_address}}/udp/239.10.0.250:1025
 #EXTINF:-1 tvg-id="粤TV7" tvg-name="粤TV7" tvg-logo="" group-title="其它",粤TV7
 http://{{your_udpxy_address}}/udp/239.10.0.44:1025
+#EXTINF:-1 tvg-id="咪咕赛事8" tvg-name="咪咕赛事8" tvg-logo="" group-title="其它",咪咕赛事8
+http://{{your_udpxy_address}}/udp/239.10.0.251:1025
 #EXTINF:-1 tvg-id="粤TV8" tvg-name="粤TV8" tvg-logo="" group-title="其它",粤TV8
 http://{{your_udpxy_address}}/udp/239.10.0.61:1025
+#EXTINF:-1 tvg-id="咪咕赛事9" tvg-name="咪咕赛事9" tvg-logo="" group-title="其它",咪咕赛事9
+http://{{your_udpxy_address}}/udp/239.10.0.252:1025
 #EXTINF:-1 tvg-id="粤TV9" tvg-name="粤TV9" tvg-logo="" group-title="其它",粤TV9
 http://{{your_udpxy_address}}/udp/239.10.0.65:1025
+#EXTINF:-1 tvg-id="咪咕赛事10" tvg-name="咪咕赛事10" tvg-logo="" group-title="其它",咪咕赛事10
+http://{{your_udpxy_address}}/udp/239.11.0.1:1025
+#EXTINF:-1 tvg-id="咪咕赛事11" tvg-name="咪咕赛事11" tvg-logo="" group-title="其它",咪咕赛事11
+http://{{your_udpxy_address}}/udp/239.11.0.2:1025
 #EXTINF:-1 tvg-id="粤TV11" tvg-name="粤TV11" tvg-logo="" group-title="其它",粤TV11
 http://{{your_udpxy_address}}/udp/239.10.0.73:1025
+#EXTINF:-1 tvg-id="咪咕赛事12" tvg-name="咪咕赛事12" tvg-logo="" group-title="其它",咪咕赛事12
+http://{{your_udpxy_address}}/udp/239.11.0.3:1025
 #EXTINF:-1 tvg-id="粤TV12" tvg-name="粤TV12" tvg-logo="" group-title="其它",粤TV12
 http://{{your_udpxy_address}}/udp/239.10.0.82:1025
+#EXTINF:-1 tvg-id="咪咕赛事13" tvg-name="咪咕赛事13" tvg-logo="" group-title="其它",咪咕赛事13
+http://{{your_udpxy_address}}/udp/239.11.0.4:1025
 #EXTINF:-1 tvg-id="粤TV13" tvg-name="粤TV13" tvg-logo="" group-title="其它",粤TV13
 http://{{your_udpxy_address}}/udp/239.10.0.136:1025
+#EXTINF:-1 tvg-id="咪咕赛事14" tvg-name="咪咕赛事14" tvg-logo="" group-title="其它",咪咕赛事14
+http://{{your_udpxy_address}}/udp/239.11.0.5:1025
 #EXTINF:-1 tvg-id="粤TV14" tvg-name="粤TV14" tvg-logo="" group-title="其它",粤TV14
 http://{{your_udpxy_address}}/udp/239.10.0.137:1025
+#EXTINF:-1 tvg-id="咪咕赛事15" tvg-name="咪咕赛事15" tvg-logo="" group-title="其它",咪咕赛事15
+http://{{your_udpxy_address}}/udp/239.11.0.6:1025
 #EXTINF:-1 tvg-id="粤TV15" tvg-name="粤TV15" tvg-logo="" group-title="其它",粤TV15
 http://{{your_udpxy_address}}/udp/239.10.0.234:1025
+#EXTINF:-1 tvg-id="咪咕赛事16" tvg-name="咪咕赛事16" tvg-logo="" group-title="其它",咪咕赛事16
+http://{{your_udpxy_address}}/udp/239.11.0.7:1025
 #EXTINF:-1 tvg-id="粤TV16" tvg-name="粤TV16" tvg-logo="" group-title="其它",粤TV16
 http://{{your_udpxy_address}}/udp/239.10.0.235:1025
+#EXTINF:-1 tvg-id="咪咕赛事17" tvg-name="咪咕赛事17" tvg-logo="" group-title="其它",咪咕赛事17
+http://{{your_udpxy_address}}/udp/239.11.0.8:1025
 #EXTINF:-1 tvg-id="粤TV17" tvg-name="粤TV17" tvg-logo="" group-title="其它",粤TV17
 http://{{your_udpxy_address}}/udp/239.10.0.237:1025
+#EXTINF:-1 tvg-id="咪咕赛事18" tvg-name="咪咕赛事18" tvg-logo="" group-title="其它",咪咕赛事18
+http://{{your_udpxy_address}}/udp/239.11.0.9:1025
+#EXTINF:-1 tvg-id="咪咕赛事19" tvg-name="咪咕赛事19" tvg-logo="" group-title="其它",咪咕赛事19
+http://{{your_udpxy_address}}/udp/239.11.0.10:1025
 #EXTINF:-1 tvg-id="粤TV19" tvg-name="粤TV19" tvg-logo="" group-title="其它",粤TV19
 http://{{your_udpxy_address}}/udp/239.11.0.26:1025
+#EXTINF:-1 tvg-id="咪咕赛事20" tvg-name="咪咕赛事20" tvg-logo="" group-title="其它",咪咕赛事20
+http://{{your_udpxy_address}}/udp/239.11.0.11:1025
 #EXTINF:-1 tvg-id="粤TV20" tvg-name="粤TV20" tvg-logo="" group-title="其它",粤TV20
 http://{{your_udpxy_address}}/udp/239.11.0.71:1025
+#EXTINF:-1 tvg-id="咪咕赛事21" tvg-name="咪咕赛事21" tvg-logo="" group-title="其它",咪咕赛事21
+http://{{your_udpxy_address}}/udp/239.11.0.12:1025
 #EXTINF:-1 tvg-id="粤TV21" tvg-name="粤TV21" tvg-logo="" group-title="其它",粤TV21
 http://{{your_udpxy_address}}/udp/239.11.0.85:1025
+#EXTINF:-1 tvg-id="咪咕赛事22" tvg-name="咪咕赛事22" tvg-logo="" group-title="其它",咪咕赛事22
+http://{{your_udpxy_address}}/udp/239.11.0.13:1025
 #EXTINF:-1 tvg-id="粤TV22" tvg-name="粤TV22" tvg-logo="" group-title="其它",粤TV22
 http://{{your_udpxy_address}}/udp/239.11.0.162:1025
+#EXTINF:-1 tvg-id="咪咕赛事23" tvg-name="咪咕赛事23" tvg-logo="" group-title="其它",咪咕赛事23
+http://{{your_udpxy_address}}/udp/239.11.0.18:1025
 #EXTINF:-1 tvg-id="粤TV23" tvg-name="粤TV23" tvg-logo="" group-title="其它",粤TV23
 http://{{your_udpxy_address}}/udp/239.11.0.163:1025
+#EXTINF:-1 tvg-id="咪咕赛事24" tvg-name="咪咕赛事24" tvg-logo="" group-title="其它",咪咕赛事24
+http://{{your_udpxy_address}}/udp/239.11.0.19:1025
 #EXTINF:-1 tvg-id="粤TV24" tvg-name="粤TV24" tvg-logo="" group-title="其它",粤TV24
 http://{{your_udpxy_address}}/udp/239.11.0.164:1025
+#EXTINF:-1 tvg-id="咪咕赛事25" tvg-name="咪咕赛事25" tvg-logo="" group-title="其它",咪咕赛事25
+http://{{your_udpxy_address}}/udp/239.11.0.20:1025
 #EXTINF:-1 tvg-id="粤TV25" tvg-name="粤TV25" tvg-logo="" group-title="其它",粤TV25
 http://{{your_udpxy_address}}/udp/239.11.0.165:1025
+#EXTINF:-1 tvg-id="咪咕赛事26" tvg-name="咪咕赛事26" tvg-logo="" group-title="其它",咪咕赛事26
+http://{{your_udpxy_address}}/udp/239.11.0.21:1025
 #EXTINF:-1 tvg-id="粤TV26" tvg-name="粤TV26" tvg-logo="" group-title="其它",粤TV26
 http://{{your_udpxy_address}}/udp/239.11.0.166:1025
+#EXTINF:-1 tvg-id="咪咕赛事27" tvg-name="咪咕赛事27" tvg-logo="" group-title="其它",咪咕赛事27
+http://{{your_udpxy_address}}/udp/239.11.0.22:1025
 #EXTINF:-1 tvg-id="粤TV27" tvg-name="粤TV27" tvg-logo="" group-title="其它",粤TV27
 http://{{your_udpxy_address}}/udp/239.11.0.168:1025
+#EXTINF:-1 tvg-id="百视通直播室102" tvg-name="百视通直播室102" tvg-logo="" group-title="其它",百视通直播室102
+http://{{your_udpxy_address}}/udp/239.10.0.91:1025
+#EXTINF:-1 tvg-id="百视通直播室103" tvg-name="百视通直播室103" tvg-logo="" group-title="其它",百视通直播室103
+http://{{your_udpxy_address}}/udp/239.10.0.92:1025
+#EXTINF:-1 tvg-id="百视通直播室104" tvg-name="百视通直播室104" tvg-logo="" group-title="其它",百视通直播室104
+http://{{your_udpxy_address}}/udp/239.10.0.93:1025
+#EXTINF:-1 tvg-id="百视通直播室105" tvg-name="百视通直播室105" tvg-logo="" group-title="其它",百视通直播室105
+http://{{your_udpxy_address}}/udp/239.10.0.94:1025
+#EXTINF:-1 tvg-id="百视通直播室106" tvg-name="百视通直播室106" tvg-logo="" group-title="其它",百视通直播室106
+http://{{your_udpxy_address}}/udp/239.10.0.95:1025
+#EXTINF:-1 tvg-id="百视通直播室107" tvg-name="百视通直播室107" tvg-logo="" group-title="其它",百视通直播室107
+http://{{your_udpxy_address}}/udp/239.10.0.96:1025
+#EXTINF:-1 tvg-id="江门综合.576" tvg-name="江门综合.576" tvg-logo="" group-title="其它",江门综合.576
+http://{{your_udpxy_address}}/udp/239.11.0.69:1025
 #EXTINF:-1 tvg-id="喜粤TV.576" tvg-name="喜粤TV.576" tvg-logo="" group-title="其它",喜粤TV.576
 http://{{your_udpxy_address}}/udp/239.10.0.84:1025
 #EXTINF:-1 tvg-id="喜粤TV.576" tvg-name="喜粤TV.576" tvg-logo="" group-title="其它",喜粤TV.576
@@ -1143,14 +1145,12 @@ http://{{your_udpxy_address}}/udp/239.21.0.88:3692
 http://{{your_udpxy_address}}/udp/239.21.0.116:3808
 #EXTINF:-1 tvg-id="中山香山文化.576" tvg-name="中山香山文化.576" tvg-logo="" group-title="其它",中山香山文化.576
 http://{{your_udpxy_address}}/udp/239.11.0.120:1025
+#EXTINF:-1 tvg-id="中山综合.576" tvg-name="中山综合.576" tvg-logo="" group-title="其它",中山综合.576
+http://{{your_udpxy_address}}/udp/239.11.0.119:1025
 #EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="{{your_logo_address}}/logo/中学生.png" group-title="其它",中学生
 http://{{your_udpxy_address}}/udp/239.11.0.173:1025
 #EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="{{your_logo_address}}/logo/中学生.png" group-title="其它",中学生
 http://{{your_udpxy_address}}/udp/239.21.0.139:3900
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="{{your_logo_address}}/logo/CCTV4K.png" group-title="其它",CCTV4K
-http://{{your_udpxy_address}}/udp/239.11.0.161:1025
-#EXTINF:-1 tvg-id="中山综合.576" tvg-name="中山综合.576" tvg-logo="" group-title="其它",中山综合.576
-http://{{your_udpxy_address}}/udp/239.11.0.119:1025
 #EXTINF:-1 tvg-id="IPTV谍战剧场" tvg-name="IPTV谍战剧场" tvg-logo="" group-title="其它",IPTV谍战剧场
 http://{{your_udpxy_address}}/udp/239.20.0.228:2254
 #EXTINF:-1 tvg-id="IPTV谍战剧场" tvg-name="IPTV谍战剧场" tvg-logo="" group-title="其它",IPTV谍战剧场

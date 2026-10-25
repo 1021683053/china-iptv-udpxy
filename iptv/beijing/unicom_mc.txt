@@ -3,7 +3,7 @@ CCTV1,http://{{your_udpxy_address}}/udp/239.3.1.129:8008
 CCTV2,http://{{your_udpxy_address}}/udp/239.3.1.60:8084
 CCTV3,http://{{your_udpxy_address}}/udp/239.3.1.172:8001
 CCTV4,http://{{your_udpxy_address}}/udp/239.3.1.105:8092
-CCTV-4中文国际（4K）,http://{{your_udpxy_address}}/udp/239.3.1.245:2000
+CCTV4K,http://{{your_udpxy_address}}/udp/239.3.1.245:2000
 CCTV4欧洲,http://{{your_udpxy_address}}/udp/239.3.1.213:4220
 CCTV4美洲,http://{{your_udpxy_address}}/udp/239.3.1.214:4220
 CCTV5,http://{{your_udpxy_address}}/udp/239.3.1.173:8001
@@ -20,7 +20,7 @@ CCTV14,http://{{your_udpxy_address}}/udp/239.3.1.65:8132
 CCTV15,http://{{your_udpxy_address}}/udp/239.3.1.153:8136
 CCTV16,http://{{your_udpxy_address}}/udp/239.3.1.184:8001
 CCTV17,http://{{your_udpxy_address}}/udp/239.3.1.151:8144
-CGTN新闻,http://{{your_udpxy_address}}/udp/239.3.1.215:4220
+CGTN,http://{{your_udpxy_address}}/udp/239.3.1.215:4220
 CGTN西语,http://{{your_udpxy_address}}/udp/239.3.1.217:4220
 CGTN法语,http://{{your_udpxy_address}}/udp/239.3.1.218:4220
 CGTN俄语,http://{{your_udpxy_address}}/udp/239.3.1.220:4220
