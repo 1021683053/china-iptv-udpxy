@@ -9,3 +9,6 @@ services:
       - "8080:8080"
     environment:
       - PORT=8080
+    volumes:
+      - ../aliases:/app/aliases:ro
+      - ../iptv:/app/iptv:ro

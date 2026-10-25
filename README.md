@@ -102,6 +102,26 @@ bun run verify         # 健康校验（--strict 供 CI 使用）
 
 ## aliases.yml 结构
 
+### Docker 外部挂载
+
+Compose 已挂载宿主机的 `aliases/` 和 `iptv/`，可以直接编辑宿主机文件，无需重新构建镜像。使用已发布镜像时，在本仓库根目录执行：
+
+```bash
+docker run -d --name china-iptv-udpxy --restart unless-stopped \
+  -p 8080:8080 \
+  -v "$(pwd)/aliases:/app/aliases:ro" \
+  -v "$(pwd)/iptv:/app/iptv:ro" \
+  ghcr.io/1021683053/china-iptv-udpxy:latest
+```
+
+挂载前请保留本仓库完整的 `aliases/`、`iptv/` 内容，空目录会遮住镜像内置文件。`:ro` 仅限制容器写入，宿主机仍可修改。
+
+- 修改 `aliases/aliases.yml` 后，在宿主机运行 `bun run fetch` 重新生成模板；YAML 仍在生成阶段读取。
+- 直接修改 `iptv/` 中已有模板，服务下次请求就会读取新内容，无需重启。新增省份/运营商/数据源组合需要重启以更新启动时的索引。
+- `aliases/logo/` 可以直接添加或替换台标；已有引用无需重启，新台标需更新模板中的引用。
+
+播放器或 HTTP 缓存可能延迟显示更新，订阅链接加 `nocache=1` 并刷新订阅可跳过订阅响应缓存；台标缓存最长一小时。
+
 两级配置：
 
 - **`global`**：对所有省份生效的归一规则
