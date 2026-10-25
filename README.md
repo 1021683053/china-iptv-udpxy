@@ -35,7 +35,7 @@ GET /api/subscribe/{province}/{operator}/{source}/{type}
 | `operator` | `telecom` \| `unicom` \| `mobile` \| `gitv` | 运营商 |
 | `source` | `mc` \| `uc` | 组播 / 单播 |
 | `type` | `m3u` \| `txt` | 输出格式 |
-| `udpxy` | 内网 IPv4:端口 | **组播必填**，udpxy 转发地址 |
+| `udpxy` | 内网 IPv4:端口[/路径前缀] | **组播必填**，udpxy 或 rtp2httpd 转发地址 |
 | `logo` | IP或域名[:端口] | 可选，自定义台标服务器（默认跟随访问域名） |
 | `fcc` | IP:端口 | 仅组播，追加 FCC 服务器 |
 | `nocache` | - | 拒绝缓存 |
@@ -51,7 +51,12 @@ http://{your_server_address}/api/subscribe/anhui/telecom/uc/txt
 
 # 自定义台标服务器
 http://{your_server_address}/api/subscribe/sichuan/telecom/mc/m3u?udpxy=192.168.1.1:4022&logo=192.168.1.2:8080
+
+# rtp2httpd 带路径前缀
+https://example.com/api/subscribe/zhejiang/telecom/mc/m3u?udpxy=192.168.30.100:5140/app/rtp2httpd&fcc=115.233.40.137:8027
 ```
+
+带前缀时，生成的频道地址形如 `http://192.168.30.100:5140/app/rtp2httpd/udp/233.50.201.118:5140?fcc=115.233.40.137:8027`。rtp2httpd 或反向代理必须实际提供该前缀。`udpxy` 不接受查询参数或片段；兼容输入末尾的 `/udp`、`/rtp`，生成时避免重复。
 
 部署：
 

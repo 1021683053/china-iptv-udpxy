@@ -8,7 +8,7 @@
  *        source   = mc（组播）| uc（单播）
  *        type     = m3u | txt
  *   查询参数:
- *        udpxy   组播必填，内网 IPv4:端口（udpxy 不解析域名）
+ *        udpxy   组播必填，内网 IPv4:端口，可带路径前缀（udpxy 不解析域名）
  *        logo    可选，自定义台标服务器地址（默认跟随当前访问域名）
  *        fcc     仅组播，追加 FCC 服务器地址到流 URL
  *        nocache 拒绝缓存
@@ -57,14 +57,27 @@ function isPrivateIPv4(s) {
   return a === 10 || (a === 172 && b >= 16 && b <= 31) || (a === 192 && b === 168);
 }
 
-/** udpxy: 必须内网 IPv4:端口 */
+/** 保留反向代理路径前缀，兼容用户附带的协议头和末尾 /udp、/rtp。 */
+function normalizeUDPXY(s) {
+  return s.replace(/^https?:\/\//, '').replace(/\/+$/, '')
+    .replace(/\/(?:udp|rtp)$/, '').replace(/\/+$/, '');
+}
+
+/** udpxy: 内网 IPv4:端口，可带安全的路径前缀，不接受 query/fragment。 */
 function isValidUDPXY(s) {
-  const idx = s.lastIndexOf(':');
+  const slash = s.indexOf('/');
+  const authority = slash < 0 ? s : s.slice(0, slash);
+  const prefix = slash < 0 ? '' : s.slice(slash);
+  if (!/^[A-Za-z0-9._~%/-]*$/.test(prefix) || /%(?![0-9a-f]{2})/i.test(prefix)) return false;
+  const decoded = prefix.replace(/%([0-9a-f]{2})/gi, (_, hex) => String.fromCharCode(parseInt(hex, 16)));
+  if (!/^[A-Za-z0-9._~/-]*$/.test(decoded)
+    || decoded.split('/').some((part) => part === '.' || part === '..')) return false;
+  const idx = authority.lastIndexOf(':');
   if (idx <= 0) return false;
-  const port = s.substring(idx + 1);
+  const port = authority.substring(idx + 1);
   if (!/^\d+$/.test(port)) return false;
   const n = Number(port);
-  return n >= 1 && n <= 65535 && isPrivateIPv4(s.substring(0, idx));
+  return n >= 1 && n <= 65535 && isPrivateIPv4(authority.substring(0, idx));
 }
 
 /** fcc: 任意合法 IPv4:端口 */
@@ -114,13 +127,12 @@ function handleSubscribe(province, operator, source, type, params, req, res) {
   const fcc = params.get('fcc') || '';
   const logo = params.get('logo') || '';
   const noCache = params.has('nocache');
+  const udpxyResolved = normalizeUDPXY(udpxy);
 
   if (source === 'mc') {
     if (!udpxy) return jsonError('组播的udpxy参数为必填');
-    // 宽容清洗：先剥协议头与尾部路径再校验
-    const cleaned = udpxy.replace(/^https?:\/\//, '').replace(/\/(?:udp|rtp)\/?$/, '');
-    if (!isValidUDPXY(cleaned)) {
-      return jsonError('udpxy参数格式无效，应为内网 IP:端口（如 192.168.x.x:4022）');
+    if (!isValidUDPXY(udpxyResolved)) {
+      return jsonError('udpxy参数格式无效，应为内网 IP:端口，可带路径前缀（如 192.168.x.x:5140/app/rtp2httpd）');
     }
   } else if (udpxy) {
     return jsonError('udpxy参数仅在 source=mc 时有效');
@@ -143,10 +155,7 @@ function handleSubscribe(province, operator, source, type, params, req, res) {
     return jsonError(`读取模板文件失败: ${filePath}`, 500);
   }
 
-  // 占位符替换（udpxy 清洗协议头与尾部路径）
-  const udpxyResolved = udpxy
-    ? udpxy.replace(/^https?:\/\//, '').replace(/\/(?:udp|rtp)\/?$/, '')
-    : '';
+  // 占位符替换，保留 udpxy 的反向代理路径前缀。
   const logoBase = logo
     ? `http://${logo.replace(/^https?:\/\//, '')}`  // 自定义台标服务器，统一补协议头
     : `${requestProto(req)}://${req.headers.host}`;
