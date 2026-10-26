@@ -3,6 +3,7 @@
  *
  * 路由:
  *   GET /api/subscribe/:province/:operator/:source/:type
+ *   GET /api/mix/:province/:operator/:source/:type （省份 IPTV + Browser）
  *        province = 省份拼音（anhui…zhejiang，共 31 省）
  *        operator = telecom | unicom | mobile | gitv
  *        source   = mc（组播）| uc（单播）
@@ -24,6 +25,7 @@ import http from 'node:http';
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { mixPlaylists } from './playlist.mjs';
 
 const PORT = Number(process.env.PORT) || 8080;
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -110,7 +112,7 @@ function appendQueryParam(content, name, value) {
 
 // ── 订阅处理 ───────────────────────────────────────────────
 
-function handleSubscribe(province, operator, source, type, params, req, res) {
+function handleSubscribe(province, operator, source, type, params, req, res, mix = false) {
   const jsonError = (msg, code = 400) => {
     res.writeHead(code, { 'Content-Type': 'application/json; charset=utf-8' });
     res.end(JSON.stringify({ code, message: msg }));
@@ -147,7 +149,7 @@ function handleSubscribe(province, operator, source, type, params, req, res) {
     return jsonError('logo 参数格式无效，应为 IP或域名，可带端口');
   }
 
-  const filePath = path.join(IPTV_DIR, province, `${operator}_${source}.${type}`);
+  const filePath = path.join(IPTV_DIR, province, `${operator}_${source}.${mix ? 'm3u' : type}`);
   let content;
   try {
     content = fs.readFileSync(filePath, 'utf8');
@@ -166,9 +168,20 @@ function handleSubscribe(province, operator, source, type, params, req, res) {
     content = appendQueryParam(content, 'fcc', fcc);
   }
 
+  if (mix) {
+    try {
+      const browser = fs.readFileSync(path.join(ROOT, 'browser/playlist.m3u'), 'utf8')
+        .replace(/\{\{your_logo_address\}\}/g, () => logoBase);
+      content = mixPlaylists(content, browser, type);
+    } catch (err) {
+      console.error('混合列表生成失败:', err.message);
+      return jsonError('混合列表生成失败，请检查省份和 Browser 的 M3U 文件', 500);
+    }
+  }
+
   res.writeHead(200, {
     'Content-Type': type === 'm3u' ? 'audio/x-mpegurl; charset=utf-8' : 'text/plain; charset=utf-8',
-    'Content-Disposition': `attachment; filename="${province}_${operator}_${source}.${type}"`,
+    'Content-Disposition': `attachment; filename="${province}_${operator}_${source}${mix ? '_mix' : ''}.${type}"`,
     'Cache-Control': noCache ? 'no-cache' : 'public, max-age=300',
     'Access-Control-Allow-Origin': '*',
   });
@@ -187,6 +200,25 @@ const MIME = {
   '.gz': 'application/gzip',
   '.md': 'text/markdown; charset=utf-8',
 };
+
+function handleBrowserPlaylist(req, res) {
+  let content;
+  try {
+    content = fs.readFileSync(path.join(ROOT, 'browser/playlist.m3u'), 'utf8');
+  } catch (err) {
+    if (err.code === 'ENOENT') return sendJSON(res, 404, { code: 404, message: '未找到 Browser 列表' });
+    throw err;
+  }
+  const logoBase = `${requestProto(req)}://${req.headers.host}`;
+  content = content.replace(/\{\{your_logo_address\}\}/g, () => logoBase);
+  res.writeHead(200, {
+    'Content-Type': MIME['.m3u'],
+    'Cache-Control': 'no-cache',
+    'Access-Control-Allow-Origin': '*',
+    'Vary': 'Host, X-Forwarded-Proto',
+  });
+  res.end(content);
+}
 
 function serveStatic(pathname, res) {
   const safe = path.normalize(pathname).replace(/^(\.\.[/\\])+/, '');
@@ -237,9 +269,13 @@ const server = http.createServer((req, res) => {
     const u = new URL(req.url, 'http://x');
     const pathname = decodeURIComponent(u.pathname);
 
-    const m = pathname.match(/^\/api\/subscribe\/([^/]+)\/([^/]+)\/([^/]+)\/([^/]+)$/);
+    if (pathname === '/api/browser/playlist.m3u' || pathname === '/browser/playlist.m3u') {
+      return handleBrowserPlaylist(req, res);
+    }
+
+    const m = pathname.match(/^\/api\/(subscribe|mix)\/([^/]+)\/([^/]+)\/([^/]+)\/([^/]+)$/);
     if (m) {
-      handleSubscribe(m[1], m[2], m[3], m[4], u.searchParams, req, res);
+      handleSubscribe(m[2], m[3], m[4], m[5], u.searchParams, req, res, m[1] === 'mix');
       return;
     }
     serveStatic(pathname, res);

@@ -2,8 +2,9 @@ FROM node:22-alpine
 
 WORKDIR /app
 
-COPY server/server.mjs /app/server/server.mjs
+COPY server/*.mjs /app/server/
 COPY iptv/ /app/iptv/
+COPY browser/ /app/browser/
 COPY logo/ /app/logo/
 COPY aliases/logo/ /app/aliases/logo/
 

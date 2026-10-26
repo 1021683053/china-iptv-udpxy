@@ -96,6 +96,38 @@ git push -u origin main
 - 光猫电源（Power）和注册（PON）指示灯常亮即可使用组播，**无需拨号**
 - 需在路由器/NAS 上部署 [udpxy](https://github.com/pvicente/udpxy)（OpenWrt: `opkg install udpxy`），默认端口 4022
 
+## Browser 专用列表
+
+独立存放在 [`browser/`](browser/README.md)，来源为 `mytv-android/China-TV-Live-M3U8`。部署新版镜像后，Android 自定义直播源可填写：
+
+```text
+https://你的域名/api/browser/playlist.m3u
+```
+
+此地址直接返回 Browser 列表，不经过 Mix，不需要省份、运营商或 `udpxy` 参数。仅维护 `browser/playlist.m3u` 一份列表：保留全部 WebView 线路，适配 Android 多线路解析，台标全部指向本站内置图片，地址随访问域名和协议自动生成。使用 `bun run fetch:browser` 单独更新。
+
+## Mix 混合订阅
+
+将所选省份/运营商的 IPTV 与 Browser 列表融合成一个订阅：
+
+```text
+GET /api/mix/{province}/{operator}/{source}/{type}
+```
+
+参数与普通订阅相同，`source` 选择 `mc` 或 `uc`，`type` 选择 `m3u` 或 `txt`。例如浙江电信组播混合订阅：
+
+```text
+https://你的域名/api/mix/zhejiang/telecom/mc/m3u?udpxy=192.168.30.100:5140/app/rtp2httpd&fcc=115.233.40.137:8027
+```
+
+- 匹配 `tvg-name`，没有该属性时匹配显示名称。Browser 名称差异统一在 `aliases.yml` 的 `browser.aliases` 中配置，生成列表时应用；合并路由不内置别名或猜测频道名。
+- 同频道使用省份 IPTV 的显示名称、分组和台标，先排列 IPTV 线路，再追加 Browser 线路，重复 URL 去重。客户端可将它们识别为一个频道的多条线路。
+- 保留省份 IPTV 的全部频道，同时追加 Browser 独有频道。同频道不同画质若使用相同名称也会作为多线路保留；不根据 IP 猜测清晰度。
+- `udpxy`、`fcc` 只作用于 IPTV 组播地址，Browser 网页地址保留不变。台标依旧跟随访问域名，使用中文文件名。
+- 每次请求读取本地列表，不实时抓取上游。任一输入列表缺失或格式错误时返回错误，不静默输出不完整混合源。
+
+当前路由一次选择一个省份及运营商。客户端使用合并后的列表即可获得两类线路；Android 自身的混合模式可设为禁用，避免再追加内置网页线路。具备网页线路并不代表普通视频播放器能够播放它，客户端仍需支持 `webview://`。
+
 ## 数据更新
 
 ```bash
